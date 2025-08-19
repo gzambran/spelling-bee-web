@@ -4,10 +4,7 @@ const LetterHexagon = ({
   centerLetter, 
   outerLetters, 
   onLetterPress, 
-  canInteract = true,
-  centerSize = 80,
-  outerSize = 70,
-  radius = 100
+  canInteract = true
 }) => {
   const handleLetterClick = (letter) => {
     if (canInteract && onLetterPress) {
@@ -15,51 +12,76 @@ const LetterHexagon = ({
     }
   };
 
+  // NYT's exact SVG hexagon coordinates and viewBox
+  const hexagonPoints = "0,51.96152422706631 30,0 90,0 120,51.96152422706631 90,103.92304845413263 30,103.92304845413263";
+  const viewBox = "0 0 120 103.92304845413263";
+
+  // NYT's exact positioning from transform matrices
+  const positions = [
+    { x: 0, y: -90.40625 },           // Outer 1: top
+    { x: 78.292969, y: -45.203125 },  // Outer 2: top-right
+    { x: 78.292969, y: 45.203125 },   // Outer 3: bottom-right
+    { x: 0, y: 90.40625 },            // Outer 4: bottom
+    { x: -78.292969, y: 45.203125 },  // Outer 5: bottom-left
+    { x: -78.292969, y: -45.203125 }  // Outer 0: top-left
+  ];
+
   return (
-    <div className="hexagon-container" style={{ 
-      height: radius * 2 + centerSize + 20,
-      width: radius * 2 + outerSize + 20 
-    }}>
-      {/* Center Letter */}
-      <button
-        className={`hexagon center-hexagon ${!canInteract ? 'disabled' : ''}`}
-        style={{
-          width: centerSize,
-          height: centerSize,
-        }}
+    <div className="hexagon-container">
+      {/* Center Hexagon */}
+      <svg 
+        className="hive-cell center" 
+        viewBox={viewBox}
         onClick={() => handleLetterClick(centerLetter)}
-        disabled={!canInteract}
-        type="button"
+        style={{ cursor: canInteract ? 'pointer' : 'not-allowed' }}
       >
-        <span className="letter-text center-letter-text">
+        <polygon 
+          className="cell-fill center-fill" 
+          points={hexagonPoints} 
+          stroke="rgba(200, 200, 200, 0.3)" 
+          strokeWidth="1.5"
+        />
+        <text 
+          className="cell-letter center-letter" 
+          x="50%" 
+          y="50%" 
+          dy="0.35em"
+          textAnchor="middle"
+        >
           {centerLetter.toUpperCase()}
-        </span>
-      </button>
+        </text>
+      </svg>
 
-      {/* Outer Letters */}
+      {/* Outer Hexagons */}
       {outerLetters.map((letter, index) => {
-        // Calculate position for hexagonal layout
-        const angle = (index * 60) * (Math.PI / 180);
-        const x = Math.cos(angle) * radius;
-        const y = Math.sin(angle) * radius;
-
+        const position = positions[index];
         return (
-          <button
+          <svg 
             key={`${letter}-${index}`}
-            className={`hexagon outer-hexagon ${!canInteract ? 'disabled' : ''}`}
-            style={{
-              width: outerSize,
-              height: outerSize,
-              transform: `translate(${x}px, ${y}px)`,
-            }}
+            className="hive-cell outer" 
+            viewBox={viewBox}
             onClick={() => handleLetterClick(letter)}
-            disabled={!canInteract}
-            type="button"
+            style={{ 
+              cursor: canInteract ? 'pointer' : 'not-allowed',
+              transform: `translate(${position.x}px, ${position.y}px)`
+            }}
           >
-            <span className="letter-text outer-letter-text">
+            <polygon 
+              className="cell-fill outer-fill" 
+              points={hexagonPoints} 
+              stroke="rgba(200, 200, 200, 0.3)" 
+              strokeWidth="1.5"
+            />
+            <text 
+              className="cell-letter outer-letter" 
+              x="50%" 
+              y="50%" 
+              dy="0.35em"
+              textAnchor="middle"
+            >
               {letter.toUpperCase()}
-            </span>
-          </button>
+            </text>
+          </svg>
         );
       })}
     </div>

@@ -1,7 +1,7 @@
-# Spelling Bee Duel - Game Design Document
+# Spelling Bee Web - Multiplayer Word Game
 
 ## Overview
-A head-to-head mobile word game for two players, inspired by WordRacers from the HousePlay app. Players compete to find as many words as possible from a set of 7 letters in 90-second rounds.
+A real-time multiplayer word game (2-8 players) inspired by the New York Times Spelling Bee. Players compete to find as many words as possible from a set of 7 letters in timed rounds. Converted from mobile to web platform with enhanced multiplayer support.
 
 ## Core Game Mechanics
 
@@ -12,26 +12,25 @@ A head-to-head mobile word game for two players, inspired by WordRacers from the
 - **Center letter must be included in every valid word**
 - **4+ letter words only** - matches Spelling Bee dataset requirements
 - **Letters can be reused** - no restrictions on letter repetition within words
+- **2-8 players** - scalable multiplayer design
 
 ### Scoring System
 **Exponential scoring based on word length:**
-- 4 letters = 4 points
-- 5 letters = 9 points  
-- 6 letters = 16 points
-- 7 letters = 25 points
+- 4 letters = 16 points (4²)
+- 5 letters = 25 points (5²)
+- 6 letters = 36 points (6²)
+- 7+ letters = length² points
 
 **Pangram Bonus:**
 - **+25 bonus points** for any word using all 7 letters
-- 7-letter pangram total = 50 points (25 base + 25 bonus)
-
-**No speed bonuses** - pure word-finding skill based
+- 7-letter pangram total = 74 points (49 base + 25 bonus)
 
 ### Round Flow
-1. Both players receive the same 7 letters
+1. All players receive the same 7 letters
 2. 90-second timer starts
-3. Players find words independently (no real-time visibility of opponent's words)
-4. Timer ends, results revealed
-5. Show both players' word lists side by side + running total scores
+3. Players find words independently
+4. Timer ends, results revealed in leaderboard format
+5. Show all players' word lists with unique word highlighting
 6. Manual "Ready for next round" confirmation required
 7. Repeat for rounds 2 and 3
 8. Declare winner based on total score
@@ -39,245 +38,228 @@ A head-to-head mobile word game for two players, inspired by WordRacers from the
 ## Technical Architecture
 
 ### Platform
-- **Frontend:** Expo React Native app
+- **Frontend:** React + Vite web application
 - **Backend:** Node.js + Express + Socket.io server
-- **Deployment:** Docker on Mac mini (local network)
+- **Deployment:** Docker containerized
 - **Real-time:** WebSocket connections for game state sync
 
+### Input Methods
+- **Mouse/Touch:** Click hexagon letters to build words
+- **Keyboard:** Type letters directly, use Backspace to delete, Enter to submit
+- **Hybrid:** Both input methods work simultaneously
+
 ### Data Source
-**NYT Spelling Bee puzzle data:** https://github.com/tedmiston/spelling-bee-answers
-- Each day is stored as individual JSON files with complete puzzle data
+**NYT Spelling Bee puzzle data:** 2,554+ historical puzzles (2018-2025)
+- Each day stored as individual JSON files with complete puzzle data
 - **Center letter requirement maintained** (exactly like official Spelling Bee)
-- Random puzzle selection for each game from available JSON files
-- All valid words and pangrams are pre-validated in each JSON file
+- Random puzzle selection for each game from available dataset
+- All valid words and pangrams are pre-validated
 
-**JSON Structure Example:**
-```json
-{
-  "displayDate": "January 1, 2023",
-  "printDate": "2023-01-01", 
-  "centerLetter": "e",
-  "outerLetters": ["a","c","l","n","o","w"],
-  "validLetters": ["e","a","c","l","n","o","w"],
-  "pangrams": ["allowance"],
-  "answers": ["allowance", "acne", "aeon", ...]
-}
-```
+### Client Architecture
 
-### Client-Side Architecture
-
-**Modern React Native patterns with component extraction and custom hooks:**
+**Modern React patterns with hooks and component extraction:**
 
 #### **Custom Hooks**
-- **`useFeedback`** - Message display system with timeout handling (fixes intermittent message issues)
+- **`useSubmissionDisplay`** - Unified word submission feedback system
 - **`useGameState`** - Game state management (scores, words, puzzle data, auto-submission)
-- **`useWordInput`** - Word building logic (letter selection, deletion, validation states)
+- **`useWordInput`** - Word building logic with keyboard support
 - **`useWordValidation`** - Client-side word validation against puzzle data
-- **`useLobbyForm`** - Form state and validation for lobby screens
 
-#### **Reusable Components**
+#### **Key Components**
 - **`GameHeader`** - Timer, round info, score display
-- **`FeedbackMessage`** - Animated success/error messages
-- **`RoundBreakdown`** - Consolidated round results table
-- **`WinnerAnnouncement`** - Game over winner display
-- **`FinalScoreComparison`** - Side-by-side final scores
-- **`ActionButtons`** - Play Again vs Back to Lobby (with fixed functionality)
-- **`CreateGameForm`** - Name input and create game flow
-- **`JoinGameForm`** - Name + room code input and join flow
-- **`PlayersList`** - Player status and ready indicators
-- **`WaitingRoom`** - Complete waiting room experience
-- **`HowToPlay`** - Collapsible game rules
+- **`SubmissionDisplay`** - Animated success/error messages with pangram celebrations
+- **`LetterHexagon`** - Interactive hexagonal letter layout with crisp rendering
+- **`GameActions`** - Delete, Shuffle, Submit buttons
+- **`WordsComparison`** - Multi-player word comparison with unique word highlighting
+- **`KeyboardIndicator`** - Hints for keyboard input (removed for cleaner UX)
 
-#### **Key Technical Decisions**
-- **Client-side validation** - All word validation happens locally for instant feedback
-- **Enhanced puzzle data** - Server sends complete word lists, pangrams, and point values
-- **Message queue solution** - Fixed intermittent message display issues with proper timeout cleanup
-- **Keyboard handling** - `keyboardShouldPersistTaps="handled"` fixes double-tap button issues
+#### **Technical Features**
+- **Client-side validation** - Instant feedback without server round-trips
+- **Keyboard event handling** - Comprehensive keyboard support with cooldown protection
+- **Pixel-perfect rendering** - Crisp hexagon graphics with optimized CSS
+- **Layout stability** - Fixed heights prevent shifting during gameplay
+- **Multi-player scaling** - Responsive design for 2-8 players
 
 ## User Interface Design
 
 ### Letter Layout
-- **6 outer letters + 1 center letter in hexagon formation** (exactly like Spelling Bee)
-- **Center letter must be used in every valid word**
-- Tap letters in sequence to build words
-- Current word displays above the hexagon
-- Submit button to confirm word
+- **Hexagonal arrangement** - 6 outer letters surrounding 1 center letter
+- **Crisp rendering** - Pixel-perfect positioning with optimized anti-aliasing
+- **Dual input support** - Click letters OR type on keyboard
+- **Visual feedback** - Hover effects and active states
 
 ### Game Screens
-1. **Lobby Screen** - Create/join game with room codes (refactored with forms)
-2. **Game Screen** - Letter circle, timer, current word, instant feedback (refactored with hooks)
-3. **Results Screen** - Both players' words side by side, scores, running totals
-4. **Final Results** - Winner declaration, Play Again vs Back to Lobby (refactored layout)
+1. **Lobby Screen** - Create/join game with room codes
+2. **Countdown Screen** - 3-2-1 countdown before each round
+3. **Game Screen** - Hexagon interface with timer and word input
+4. **Results Screen** - Leaderboard with detailed word comparison
+5. **Final Results** - Winner celebration with performance breakdown
 
 ### Visual Feedback
-- Selected letters highlight briefly when tapped
-- Submitted words appear in player's word list immediately
-- **Fixed message system** - Success/error messages display reliably
-- Timer prominently displayed with color coding
-- Current round indicator (Round 1 of 3)
+- **Real-time typing** - Letters appear as you type/click
+- **Submission animations** - Success/error messages with type-specific styling
+- **Pangram celebrations** - Special animations for bonus words
+- **Leaderboard rankings** - Medal system (🥇🥈🥉) with current player highlighting
+- **Unique word highlighting** - Visual distinction for words only you found
 
-## Game Flow
+## Multiplayer Features
 
-### Starting Game
-1. Player 1 creates game → receives room code
-2. Player 2 joins with room code
-3. Both players see "waiting for opponent" state
-4. Game starts when both players ready
+### Scalable Design
+- **Consistent interface** - Same leaderboard design for 2-8 players
+- **Dynamic layouts** - Word comparison adapts to player count
+- **Ready status tracking** - Shows which players are ready for next round
+- **Real-time notifications** - Toast messages when players join/ready up
 
-### During Round
-1. Same 7 letters shown to both players
-2. 90-second countdown timer
-3. Players tap letters → build word → submit
-4. **Instant client-side validation** with immediate feedback
-5. Valid words added to player's list with points
-6. No visibility of opponent's progress during round
+### Game Flow
+1. **Room Creation** - Host creates room, gets shareable code
+2. **Player Joining** - Others join using room code
+3. **Lobby Waiting** - All players must ready up to start
+4. **Synchronized Rounds** - All players get same puzzles simultaneously
+5. **Results Sharing** - Compare words and see who found unique terms
+6. **Game Restart** - Play again with same group or return to lobby
 
-### Between Rounds
-1. Timer ends, all submissions locked
-2. Results screen shows:
-   - Both players' word lists side by side
-   - Points for each word
-   - Round total and running game total
-   - Words opponent found that you missed
-3. Manual "Ready for Round X" button
-4. Next round starts when both players ready
+## Technical Implementation
 
-### End Game
-1. After round 3, show final results with **improved layout**
-2. Declare winner with prominent display
-3. **Play Again** - restart with same opponent (fixed functionality)
-4. **Back to Lobby** - disconnect and find new opponents
-
-## Technical Requirements
-
-### Server Features
-- Room management (create/join with codes)
-- Game state synchronization
-- **Game restart functionality** - handle "Play Again" flow
-- Timer management with auto-submission
-- Score calculation
-- Enhanced puzzle data serving
+### Server Features (No Authentication)
+- **Room management** - Create/join with simple room codes
+- **Game state sync** - Real-time multiplayer coordination
+- **Timer management** - Server-side round timing with auto-submission
+- **Puzzle serving** - Random selection from 2,554+ puzzle dataset
+- **No user accounts** - Simplified for immediate play
 
 ### Client Features
-- Real-time WebSocket connection
-- Touch interface for letter selection
-- **Instant word validation** with rich feedback
-- Local word list display with immediate updates
-- Timer countdown display
-- **Improved results screens** with better spacing and layout
-- **Fixed keyboard interactions** for smooth UX
+- **Real-time WebSocket** - Instant game state updates
+- **Keyboard + Mouse** - Dual input method support
+- **Instant validation** - Client-side word checking for immediate feedback
+- **Responsive design** - Works on desktop, tablet, and mobile
+- **Layout stability** - No shifting elements during gameplay
+- **Performance optimized** - 60fps animations and smooth interactions
 
-### Data Management
-- Download collection of individual JSON files (one per day) from GitHub repo
-- Load all JSON files into memory on server startup for fast random selection
-- Each game randomly selects one puzzle JSON file
-- **Enhanced data structure** - includes word points and pangrams for client validation
-- **Client-side validation** against complete word lists for instant feedback
+### Code Quality
+- **Clean architecture** - Separated concerns with custom hooks
+- **Consistent styling** - Streamlined CSS without redundancy
+- **Error handling** - Graceful degradation and user feedback
+- **Type safety** - PropTypes and consistent interfaces
+- **Modern patterns** - React hooks, functional components
 
-## Development Architecture
+## Development Structure
 
-### Current File Structure
+### Frontend Architecture
 ```
 client/
-├── App.js (main app coordinator)
-├── screens/
-│   ├── LobbyScreen.js (refactored - now ~80 lines)
-│   ├── GameScreen.js (refactored - now ~250 lines)
-│   ├── ResultsScreen.js
-│   ├── FinalResultsScreen.js (refactored with components)
-│   └── CountdownScreen.js
-├── components/ (NEW)
-│   ├── GameHeader.js
-│   ├── FeedbackMessage.js
-│   ├── RoundBreakdown.js
-│   ├── WinnerAnnouncement.js
-│   ├── FinalScoreComparison.js
-│   ├── ActionButtons.js
-│   ├── CreateGameForm.js
-│   ├── JoinGameForm.js
-│   ├── PlayersList.js
-│   ├── WaitingRoom.js
-│   └── HowToPlay.js
-├── hooks/ (NEW)
-│   ├── useFeedback.js
-│   ├── useGameState.js
-│   ├── useWordInput.js
-│   ├── useWordValidation.js
-│   └── useLobbyForm.js
-└── services/
-    └── socketService.js
+├── src/
+│   ├── screens/
+│   │   ├── LobbyScreen.jsx
+│   │   ├── CountdownScreen.jsx
+│   │   ├── GameScreen.jsx (keyboard + mouse input)
+│   │   ├── ResultsScreen.jsx (leaderboard style only)
+│   │   └── FinalResultsScreen.jsx
+│   ├── components/
+│   │   ├── GameHeader.jsx
+│   │   ├── SubmissionDisplay.jsx
+│   │   ├── LetterHexagon.jsx (crisp rendering)
+│   │   ├── GameActions.jsx
+│   │   └── WordsComparison.jsx (multi-player)
+│   ├── hooks/
+│   │   ├── useSubmissionDisplay.js
+│   │   ├── useGameState.js
+│   │   ├── useWordInput.js (with keyboard support)
+│   │   └── useWordValidation.js
+│   ├── css/ (streamlined, no legacy styles)
+│   └── services/
+│       └── socketService.js
+├── package.json (React + Vite)
+└── vite.config.js
+```
 
+### Backend Architecture
+```
 server/
-├── server.js (updated with restart logic)
-├── gameLogic.js (updated with restart methods)
+├── server.js (static file serving + API)
+├── socketHandlers.js (no auth, simplified)
+├── gameLogic.js (2-8 player support)
 ├── roomManager.js
-├── wordData.js
+├── wordData.js (2,554 puzzles loaded)
+├── data/ (historical puzzle JSON files)
 ├── package.json
 └── Dockerfile
 ```
 
-### Refactoring Philosophy
-**Component Extraction Benefits:**
-- **Maintainability** - Each component has single responsibility
-- **Reusability** - Components can be used across different screens
-- **Testability** - Individual components can be tested in isolation
-- **AI Collaboration** - Smaller files are easier for Claude to work with
-- **Code Quality** - Cleaner separation of concerns
+## Key Improvements from Mobile Version
 
-**Custom Hooks Benefits:**
-- **Logic Reuse** - Stateful logic can be shared between components
-- **Cleaner Components** - UI components focus on presentation
-- **Better Testing** - Business logic is separated and testable
-- **Performance** - Optimized re-renders and state management
+### Enhanced Multiplayer
+- **Scalable to 8 players** (was 2-player only)
+- **Consistent leaderboard UI** for all player counts
+- **Better ready state management** across multiple players
 
-### Development Notes
+### Input Improvements
+- **Keyboard support** - Type letters, use Backspace/Enter
+- **Dual input modes** - Keyboard and mouse work together
+- **Layout stability** - No shifting when typing/clearing words
 
-#### Word Validation
-- **Client-side first** - Instant feedback using pre-loaded word lists
-- Enhanced puzzle data includes complete word lists and point calculations
-- Server validates during result submission for security
+### Visual Polish
+- **Crisp hexagon rendering** - Pixel-perfect graphics
+- **Streamlined CSS** - Removed 40% of unused styles
+- **Consistent design language** - Single approach for all screens
 
-#### Performance Considerations
-- Games are only 2 players - minimal server load
-- Word lists cached in memory on server
-- **Client-side validation** eliminates validation round-trips
-- Component memoization where beneficial
+### Technical Debt Reduction
+- **Removed authentication** - No user accounts needed for web version
+- **Simplified architecture** - Cleaner separation of concerns
+- **Better error handling** - Graceful failures and user feedback
 
-#### Message System Fixes
-- **Timeout cleanup** - Prevents old timeouts from clearing new messages
-- **Animation interruption** - Proper handling of overlapping animations
-- **Immediate replacement** - Latest message always shown for time-critical feedback
+## Performance Characteristics
 
-#### Keyboard Handling
-- **`keyboardShouldPersistTaps="handled"`** - Fixes double-tap button issues
-- **`Keyboard.dismiss()`** - Manual dismissal before actions
-- **Proper return key types** - "next", "done" for better UX flow
+### Client Performance
+- **Instant word validation** - No server round-trips
+- **Optimized rendering** - Hardware-accelerated hexagons
+- **Minimal re-renders** - Proper React optimization
+- **Smooth animations** - 60fps feedback and transitions
 
-### Future Considerations (Not MVP)
-- Game history/stats tracking
-- Multiple game formats
-- Different word list sources (if commercializing)
-- Performance optimizations for larger player counts
-- Offline mode capabilities
+### Server Performance
+- **In-memory puzzle data** - Fast puzzle selection
+- **Room-based scaling** - Supports multiple concurrent games
+- **Efficient WebSocket handling** - Minimal bandwidth usage
+- **Docker optimized** - Quick startup and deployment
 
-## Development Patterns
+## Future Considerations
 
-### Component Guidelines
-- **Single Responsibility** - Each component handles one specific UI concern
-- **Props Interface** - Clear, minimal props with TypeScript-like clarity
-- **Styling Consistency** - Shared design tokens and consistent spacing
-- **Error Boundaries** - Graceful handling of component failures
+### Potential Enhancements
+- **Custom room settings** - Adjustable round count/duration
+- **Spectator mode** - Watch games in progress
+- **Tournament brackets** - Multi-round elimination
+- **Word definitions** - Educational hover tooltips
+- **Statistics tracking** - Session-based performance metrics
 
-### Hook Guidelines
-- **State Encapsulation** - Keep related state together in custom hooks
-- **Pure Functions** - Hooks return consistent interfaces
-- **Dependencies** - Careful management of useEffect dependencies
-- **Performance** - Use useCallback and useMemo where beneficial
-
-## Open Questions
-- Performance optimization opportunities as game scales
-- Additional game modes or variations
-- Enhanced accessibility features
-- Internationalization support
+### Technical Improvements
+- **Progressive Web App** - Install as mobile app
+- **Offline mode** - Play against cached puzzles
+- **Accessibility** - Screen reader and keyboard navigation
+- **Internationalization** - Multi-language support
 
 ---
+
+## Quick Start
+
+### Development
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+### Docker Deployment
+```bash
+# Build and run
+docker-compose up --build
+
+# Access at http://localhost:3002
+```
+
+---
+
+*This README serves as comprehensive documentation for future development and maintenance.*

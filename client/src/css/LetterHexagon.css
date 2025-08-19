@@ -1,150 +1,122 @@
+/* NYT-Style Hexagon Container */
 .hexagon-container {
   position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  width: 261px;        /* Exact NYT hive width */
+  height: 271px;       /* Exact NYT hive height */
+  display: block;      /* NYT uses block, not flex */
   margin: 20px auto;
   user-select: none;
+  
+  /* Ensure crisp rendering */
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  transform: translateZ(0); /* Force hardware acceleration */
 }
 
-.hexagon {
+/* SVG Hexagon Cells */
+.hive-cell {
   position: absolute;
-  border: none;
-  background: none;
-  cursor: pointer;
-  padding: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all 0.15s ease;
+  top: 90.41px;        /* Exact NYT positioning */
+  left: 78.30px;
+  width: 104.39px;     /* Exact NYT width */
+  height: 90.41px;     /* Exact NYT height */
+  transition: 0.1s;    /* NYT's exact transition timing */
   
-  /* Create hexagon shape using clip-path */
-  clip-path: polygon(30% 0%, 70% 0%, 100% 50%, 70% 100%, 30% 100%, 0% 50%);
-  
-  /* Add subtle shadow */
-  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+  /* Ensure pixel-perfect positioning */
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Center hexagon (required letter) */
-.center-hexagon {
-  background-color: #f7da21;
-  border: 3px solid #ddbf00;
-  z-index: 10;
-}
-
-.center-hexagon:hover:not(.disabled) {
-  background-color: #ffde00;
-  transform: scale(1.05);
-  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.15));
-}
-
-.center-hexagon:active:not(.disabled) {
-  transform: scale(0.95);
-  background-color: #e6c200;
+.center-fill {
+  fill: rgb(247, 218, 33);  /* Exact NYT center color */
 }
 
 /* Outer hexagons (optional letters) */
-.outer-hexagon {
-  background-color: #e6e6e6;
-  border: 2px solid #cccccc;
-  z-index: 5;
+.outer-fill {
+  fill: rgb(231, 231, 231); /* Exact NYT outer color */
 }
 
-.outer-hexagon:hover:not(.disabled) {
-  background-color: #f0f0f0;
-  transform: scale(1.05);
-  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.15));
-}
-
-.outer-hexagon:active:not(.disabled) {
-  transform: scale(0.95);
-  background-color: #d9d9d9;
-}
-
-/* Letter text styling */
-.letter-text {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-weight: 700;
-  color: #000;
+/* Letter text styling - Exact NYT implementation */
+.cell-letter {
+  font-family: 'nyt-franklin', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 700;         
+  font-size: 30px;          
+  fill: rgb(18, 18, 18);    
   pointer-events: none;
-  line-height: 1;
   text-transform: uppercase;
+  
+  /* Ensure crisp text rendering */
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: 'kern' 1;
 }
 
-.center-letter-text {
-  font-size: 1.8rem;
-}
-
-.outer-letter-text {
-  font-size: 1.5rem;
+.hive-cell:active {
+  opacity: 0.9;
 }
 
 /* Disabled state */
-.hexagon.disabled {
+.hive-cell:not([style*="cursor: pointer"]) {
   cursor: not-allowed;
   opacity: 0.6;
-  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.05));
-}
-
-.hexagon.disabled:hover {
-  transform: none;
-  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.05));
 }
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-  .center-letter-text {
-    font-size: 1.6rem;
+  .hexagon-container {
+    transform: scale(0.9);
+    margin: 15px auto;
   }
   
-  .outer-letter-text {
-    font-size: 1.3rem;
+  .cell-letter {
+    font-size: 26px;
   }
 }
 
 @media (max-width: 480px) {
-  .center-letter-text {
-    font-size: 1.4rem;
-  }
-  
-  .outer-letter-text {
-    font-size: 1.1rem;
-  }
-  
   .hexagon-container {
-    margin: 15px auto;
+    transform: scale(0.8);
+    margin: 10px auto;
+  }
+  
+  .cell-letter {
+    font-size: 24px;
   }
 }
 
 /* High contrast mode support */
 @media (prefers-contrast: high) {
-  .center-hexagon {
-    border-width: 4px;
-    border-color: #000;
+  .center-fill {
+    stroke: #000;
+    stroke-width: 2px;
   }
   
-  .outer-hexagon {
-    border-width: 3px;
-    border-color: #000;
+  .outer-fill {
+    stroke: #000;
+    stroke-width: 2px;
   }
   
-  .letter-text {
-    color: #000;
+  .cell-letter {
+    fill: #000;
     font-weight: 900;
   }
 }
 
 /* Reduced motion support */
 @media (prefers-reduced-motion: reduce) {
-  .hexagon {
+  .hive-cell {
     transition: none;
   }
   
-  .hexagon:hover:not(.disabled) {
-    transform: none;
+  .hive-cell:hover {
+    opacity: 1;
   }
   
-  .hexagon:active:not(.disabled) {
-    transform: none;
+  .hive-cell:active {
+    opacity: 1;
   }
 }
