@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "December 24, 2022",
+  "printDate": "2022-12-24",
+  "centerLetter": "o",
+  "outerLetters": [
+    "b",
+    "g",
+    "i",
+    "n",
+    "u",
+    "x"
+  ],
+  "validLetters": [
+    "o",
+    "b",
+    "g",
+    "i",
+    "n",
+    "u",
+    "x"
+  ],
+  "pangrams": [
+    "unboxing"
+  ],
+  "answers": [
+    "bingo",
+    "bobbin",
+    "bobbing",
+    "bogging",
+    "boing",
+    "bonbon",
+    "bong",
+    "bongo",
+    "boning",
+    "bonobo",
+    "boob",
+    "booboo",
+    "booing",
+    "boon",
+    "boxing",
+    "bunion",
+    "gibbon",
+    "going",
+    "gong",
+    "gonging",
+    "goon",
+    "gouging",
+    "inbox",
+    "noggin",
+    "noob",
+    "noon",
+    "noun",
+    "ongoing",
+    "onion",
+    "unbox",
+    "unboxing",
+    "union"
+  ],
+  "id": 1671858000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

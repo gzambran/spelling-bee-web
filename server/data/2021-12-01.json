@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "December 01, 2021",
+  "printDate": "2021-12-01",
+  "centerLetter": "i",
+  "outerLetters": [
+    "b",
+    "g",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "b",
+    "g",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "bigotry"
+  ],
+  "answers": [
+    "bigot",
+    "bigotry",
+    "brig",
+    "brio",
+    "girt",
+    "griot",
+    "grit",
+    "gritty",
+    "itty",
+    "obit",
+    "orbit",
+    "ribbit",
+    "ribby",
+    "rigor",
+    "riot",
+    "roti",
+    "tori",
+    "torii",
+    "trig",
+    "trio",
+    "yogi"
+  ],
+  "id": 1638334800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

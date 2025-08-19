@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "September 16, 2018",
+  "printDate": "2018-09-16",
+  "centerLetter": "y",
+  "outerLetters": [
+    "e",
+    "i",
+    "l",
+    "m",
+    "n",
+    "t"
+  ],
+  "validLetters": [
+    "y",
+    "e",
+    "i",
+    "l",
+    "m",
+    "n",
+    "t"
+  ],
+  "pangrams": [
+    "eminently",
+    "imminently"
+  ],
+  "answers": [
+    "eely",
+    "eminently",
+    "enemy",
+    "enmity",
+    "entity",
+    "eyelet",
+    "illy",
+    "imminently",
+    "intently",
+    "itty",
+    "leniently",
+    "lenity",
+    "lily",
+    "linty",
+    "melty",
+    "minty",
+    "myelin",
+    "nettly",
+    "netty",
+    "ninety",
+    "ninny",
+    "teeny",
+    "timely",
+    "tinily",
+    "tinny",
+    "tiny",
+    "yell",
+    "yente",
+    "yeti"
+  ],
+  "id": 1537070400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

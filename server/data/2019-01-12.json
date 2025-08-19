@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "January 12, 2019",
+  "printDate": "2019-01-12",
+  "centerLetter": "y",
+  "outerLetters": [
+    "c",
+    "e",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "y",
+    "c",
+    "e",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "contently"
+  ],
+  "answers": [
+    "cloy",
+    "colony",
+    "contently",
+    "coolly",
+    "cottony",
+    "coyly",
+    "coyote",
+    "cycle",
+    "cyclone",
+    "eely",
+    "eyelet",
+    "lonely",
+    "loony",
+    "nettly",
+    "netty",
+    "nylon",
+    "only",
+    "oocyte",
+    "teeny",
+    "tony",
+    "tycoon",
+    "yell",
+    "yente"
+  ],
+  "id": 1547269200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

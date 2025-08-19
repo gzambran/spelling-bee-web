@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "April 12, 2020",
+  "printDate": "2020-04-12",
+  "centerLetter": "u",
+  "outerLetters": [
+    "a",
+    "d",
+    "f",
+    "l",
+    "m",
+    "t"
+  ],
+  "validLetters": [
+    "u",
+    "a",
+    "d",
+    "f",
+    "l",
+    "m",
+    "t"
+  ],
+  "pangrams": [
+    "mudflat"
+  ],
+  "answers": [
+    "adult",
+    "alum",
+    "datum",
+    "duad",
+    "dual",
+    "duff",
+    "dull",
+    "dumdum",
+    "fault",
+    "flauta",
+    "fluff",
+    "full",
+    "laud",
+    "luau",
+    "lull",
+    "lulu",
+    "maul",
+    "mudflat",
+    "muff",
+    "mull",
+    "mutt",
+    "mutual",
+    "muumuu",
+    "taut",
+    "tuft",
+    "tumult",
+    "tutu",
+    "umlaut"
+  ],
+  "id": 1586664000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

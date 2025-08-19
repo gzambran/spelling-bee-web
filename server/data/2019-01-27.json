@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "January 27, 2019",
+  "printDate": "2019-01-27",
+  "centerLetter": "p",
+  "outerLetters": [
+    "b",
+    "c",
+    "i",
+    "o",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "p",
+    "b",
+    "c",
+    "i",
+    "o",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "probiotic"
+  ],
+  "answers": [
+    "biopic",
+    "coop",
+    "coopt",
+    "crop",
+    "octopi",
+    "optic",
+    "picot",
+    "pipit",
+    "poop",
+    "poor",
+    "port",
+    "portico",
+    "prior",
+    "probiotic",
+    "proctor",
+    "prop",
+    "tiptop",
+    "topic",
+    "torpor",
+    "trip",
+    "troop",
+    "tropic"
+  ],
+  "id": 1548565200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

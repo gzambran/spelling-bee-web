@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "August 01, 2020",
+  "printDate": "2020-08-01",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "c",
+    "l",
+    "n",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "c",
+    "l",
+    "n",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "uncloak"
+  ],
+  "answers": [
+    "alack",
+    "caulk",
+    "clack",
+    "clank",
+    "cloak",
+    "clock",
+    "clonk",
+    "cluck",
+    "clunk",
+    "cock",
+    "conk",
+    "cook",
+    "cuckoo",
+    "knack",
+    "knock",
+    "knoll",
+    "koala",
+    "kola",
+    "kook",
+    "lack",
+    "lank",
+    "lock",
+    "look",
+    "luck",
+    "lunk",
+    "nook",
+    "uncloak",
+    "uncock",
+    "unlock"
+  ],
+  "id": 1596254400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

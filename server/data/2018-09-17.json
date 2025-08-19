@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "September 17, 2018",
+  "printDate": "2018-09-17",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "f",
+    "l",
+    "n",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "f",
+    "l",
+    "n",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "fluctuant",
+    "untactful"
+  ],
+  "answers": [
+    "actual",
+    "caftan",
+    "calf",
+    "call",
+    "calla",
+    "canal",
+    "cancan",
+    "canful",
+    "cant",
+    "cantata",
+    "catcall",
+    "caul",
+    "clan",
+    "cuff",
+    "cull",
+    "cult",
+    "fact",
+    "factual",
+    "fluctuant",
+    "lacuna",
+    "lacunal",
+    "tact",
+    "tactful",
+    "tactual",
+    "talc",
+    "uncuff",
+    "uncut",
+    "untactful"
+  ],
+  "id": 1537156800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

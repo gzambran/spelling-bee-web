@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "December 30, 2018",
+  "printDate": "2018-12-30",
+  "centerLetter": "l",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "i",
+    "j",
+    "r"
+  ],
+  "validLetters": [
+    "l",
+    "a",
+    "b",
+    "d",
+    "i",
+    "j",
+    "r"
+  ],
+  "pangrams": [
+    "jailbird"
+  ],
+  "answers": [
+    "airball",
+    "alibi",
+    "aril",
+    "bail",
+    "bald",
+    "ball",
+    "ballad",
+    "bilabial",
+    "bill",
+    "billiard",
+    "blab",
+    "bridal",
+    "dial",
+    "dill",
+    "drill",
+    "iliad",
+    "jail",
+    "jailbird",
+    "labia",
+    "labial",
+    "laid",
+    "lair",
+    "lard",
+    "liar",
+    "lira",
+    "radial",
+    "rail",
+    "railbird",
+    "rial",
+    "ribald",
+    "rill"
+  ],
+  "id": 1546146000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

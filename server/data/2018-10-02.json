@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "October 02, 2018",
+  "printDate": "2018-10-02",
+  "centerLetter": "d",
+  "outerLetters": [
+    "c",
+    "n",
+    "o",
+    "r",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "d",
+    "c",
+    "n",
+    "o",
+    "r",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "conductor",
+    "nonconductor"
+  ],
+  "answers": [
+    "codon",
+    "concord",
+    "condo",
+    "condor",
+    "conduct",
+    "conductor",
+    "cord",
+    "cordon",
+    "crud",
+    "curd",
+    "doctor",
+    "dodo",
+    "donor",
+    "donut",
+    "door",
+    "dour",
+    "duct",
+    "dunno",
+    "nonconductor",
+    "odor",
+    "orotund",
+    "outdo",
+    "outdoor",
+    "rondo",
+    "rood",
+    "rotund",
+    "round",
+    "trod",
+    "udon",
+    "undo"
+  ],
+  "id": 1538452800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

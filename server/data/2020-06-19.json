@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "June 19, 2020",
+  "printDate": "2020-06-19",
+  "centerLetter": "l",
+  "outerLetters": [
+    "b",
+    "c",
+    "i",
+    "p",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "l",
+    "b",
+    "c",
+    "i",
+    "p",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "publicly"
+  ],
+  "answers": [
+    "bicyclic",
+    "bill",
+    "billy",
+    "blip",
+    "bubbly",
+    "bulb",
+    "bull",
+    "bully",
+    "clip",
+    "club",
+    "clubby",
+    "cull",
+    "cyclic",
+    "icily",
+    "illy",
+    "lily",
+    "lippy",
+    "lull",
+    "lulu",
+    "pill",
+    "public",
+    "publicly",
+    "pull",
+    "pulp",
+    "pulpy",
+    "pupil"
+  ],
+  "id": 1592539200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

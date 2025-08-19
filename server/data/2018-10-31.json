@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "October 31, 2018",
+  "printDate": "2018-10-31",
+  "centerLetter": "l",
+  "outerLetters": [
+    "c",
+    "i",
+    "p",
+    "r",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "l",
+    "c",
+    "i",
+    "p",
+    "r",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "culprit"
+  ],
+  "answers": [
+    "clip",
+    "cull",
+    "culprit",
+    "cult",
+    "cultic",
+    "curl",
+    "illicit",
+    "licit",
+    "lilt",
+    "lull",
+    "lulu",
+    "pill",
+    "pull",
+    "pullup",
+    "pulp",
+    "pulpit",
+    "pupil",
+    "purl",
+    "rill",
+    "till",
+    "tilt",
+    "trill",
+    "tulip",
+    "uplit",
+    "uptilt"
+  ],
+  "id": 1540958400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

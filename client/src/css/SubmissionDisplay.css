@@ -1,0 +1,233 @@
+.submission-display-container {
+  padding: 0 20px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Base message styling */
+.submission-message {
+  border-radius: 12px;
+  padding: 12px 20px;
+  margin: 0 10px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(10px);
+  
+  /* Entry animation */
+  animation: messageEnter 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  
+  /* Ensure text is selectable for accessibility */
+  user-select: text;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+}
+
+/* Message text */
+.message-text {
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  text-align: center;
+  line-height: 1.2;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Message type colors */
+.submission-message.pangram {
+  background-color: #D9A93D;
+  border-color: #C19A2B;
+  box-shadow: 0 4px 16px rgba(217, 169, 61, 0.4);
+}
+
+.submission-message.success {
+  background-color: #4CAF50;
+  border-color: #45A049;
+  box-shadow: 0 4px 16px rgba(76, 175, 80, 0.3);
+}
+
+.submission-message.error {
+  background-color: #FF6B6B;
+  border-color: #FF5252;
+  box-shadow: 0 4px 16px rgba(255, 107, 107, 0.3);
+}
+
+/* Entry animation */
+@keyframes messageEnter {
+  0% {
+    opacity: 0;
+    transform: scale(0.8) translateY(-10px);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.05) translateY(0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* Pangram special animation */
+.submission-message.pangram {
+  animation: pangramEnter 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes pangramEnter {
+  0% {
+    opacity: 0;
+    transform: scale(0.5) rotate(-5deg) translateY(-20px);
+  }
+  40% {
+    opacity: 1;
+    transform: scale(1.2) rotate(2deg) translateY(-5px);
+  }
+  70% {
+    transform: scale(0.95) rotate(-1deg) translateY(2px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotate(0deg) translateY(0);
+  }
+}
+
+/* Success pulse animation */
+.submission-message.success {
+  animation: successEnter 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes successEnter {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+    box-shadow: 0 4px 16px rgba(76, 175, 80, 0.3);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.1);
+    box-shadow: 0 6px 20px rgba(76, 175, 80, 0.5);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+    box-shadow: 0 4px 16px rgba(76, 175, 80, 0.3);
+  }
+}
+
+/* Error shake animation */
+.submission-message.error {
+  animation: errorEnter 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes errorEnter {
+  0% {
+    opacity: 0;
+    transform: translateX(0) scale(0.9);
+  }
+  25% {
+    opacity: 1;
+    transform: translateX(-3px) scale(1.05);
+  }
+  50% {
+    transform: translateX(3px) scale(1.05);
+  }
+  75% {
+    transform: translateX(-2px) scale(1.02);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .submission-display-container {
+    height: 55px;
+    padding: 0 16px;
+  }
+  
+  .submission-message {
+    padding: 10px 16px;
+    margin: 0 8px;
+  }
+  
+  .message-text {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .submission-display-container {
+    height: 50px;
+    padding: 0 12px;
+  }
+  
+  .submission-message {
+    padding: 8px 12px;
+    margin: 0 6px;
+  }
+  
+  .message-text {
+    font-size: 14px;
+  }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  .submission-message {
+    border-width: 2px;
+    border-color: #000;
+  }
+  
+  .submission-message.pangram {
+    background-color: #FFD700;
+    color: #000;
+  }
+  
+  .submission-message.success {
+    background-color: #00FF00;
+    color: #000;
+  }
+  
+  .submission-message.error {
+    background-color: #FF0000;
+    color: #fff;
+  }
+  
+  .message-text {
+    text-shadow: none;
+    font-weight: 700;
+  }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .submission-message {
+    animation: messageEnterReduced 0.2s ease;
+  }
+  
+  .submission-message.pangram,
+  .submission-message.success,
+  .submission-message.error {
+    animation: messageEnterReduced 0.2s ease;
+  }
+  
+  @keyframes messageEnterReduced {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+}
+
+/* Focus support for accessibility */
+.submission-message:focus {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}

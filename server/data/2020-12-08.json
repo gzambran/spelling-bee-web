@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "December 08, 2020",
+  "printDate": "2020-12-08",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "d",
+    "g",
+    "i",
+    "l",
+    "n"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "d",
+    "g",
+    "i",
+    "l",
+    "n"
+  ],
+  "pangrams": [
+    "handling",
+    "highland"
+  ],
+  "answers": [
+    "dahlia",
+    "haggling",
+    "hail",
+    "hailing",
+    "halal",
+    "hall",
+    "hand",
+    "handing",
+    "handling",
+    "hang",
+    "hanging",
+    "hangnail",
+    "hiding",
+    "high",
+    "highland",
+    "hill",
+    "hilling",
+    "hind",
+    "hinging",
+    "inhaling",
+    "nigh"
+  ],
+  "id": 1607403600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

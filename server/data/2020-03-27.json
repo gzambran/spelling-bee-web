@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "March 27, 2020",
+  "printDate": "2020-03-27",
+  "centerLetter": "m",
+  "outerLetters": [
+    "e",
+    "g",
+    "h",
+    "n",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "m",
+    "e",
+    "g",
+    "h",
+    "n",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "hegemony",
+    "homogeny"
+  ],
+  "answers": [
+    "enemy",
+    "genome",
+    "gnome",
+    "hegemon",
+    "hegemony",
+    "home",
+    "homey",
+    "homogeny",
+    "homonym",
+    "homonymy",
+    "honeymoon",
+    "hymen",
+    "hymn",
+    "meme",
+    "memo",
+    "mommy",
+    "money",
+    "moneymen",
+    "mono",
+    "moon",
+    "moony",
+    "omen",
+    "yeomen"
+  ],
+  "id": 1585281600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

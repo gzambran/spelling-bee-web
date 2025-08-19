@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "February 28, 2021",
+  "printDate": "2021-02-28",
+  "centerLetter": "i",
+  "outerLetters": [
+    "a",
+    "j",
+    "m",
+    "n",
+    "r",
+    "u"
+  ],
+  "validLetters": [
+    "i",
+    "a",
+    "j",
+    "m",
+    "n",
+    "r",
+    "u"
+  ],
+  "pangrams": [
+    "marijuana"
+  ],
+  "answers": [
+    "airman",
+    "anima",
+    "aria",
+    "imam",
+    "inurn",
+    "jinn",
+    "jinni",
+    "maim",
+    "main",
+    "mania",
+    "marijuana",
+    "marina",
+    "marinara",
+    "mini",
+    "minim",
+    "minima",
+    "minimum",
+    "ninja",
+    "rain",
+    "rani",
+    "ruin",
+    "umami",
+    "uranium"
+  ],
+  "id": 1614488400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

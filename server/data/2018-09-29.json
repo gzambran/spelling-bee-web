@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "September 29, 2018",
+  "printDate": "2018-09-29",
+  "centerLetter": "t",
+  "outerLetters": [
+    "c",
+    "h",
+    "i",
+    "p",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "c",
+    "h",
+    "i",
+    "p",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "triptych"
+  ],
+  "answers": [
+    "chit",
+    "citric",
+    "city",
+    "critic",
+    "crypt",
+    "cryptic",
+    "hitch",
+    "itch",
+    "itchy",
+    "itty",
+    "pipit",
+    "pitch",
+    "pitchy",
+    "pith",
+    "pithy",
+    "pity",
+    "thirty",
+    "tippy",
+    "trip",
+    "trippy",
+    "triptych",
+    "yttric"
+  ],
+  "id": 1538193600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "September 22, 2022",
+  "printDate": "2022-09-22",
+  "centerLetter": "a",
+  "outerLetters": [
+    "d",
+    "h",
+    "n",
+    "o",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "a",
+    "d",
+    "h",
+    "n",
+    "o",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "handout"
+  ],
+  "answers": [
+    "anon",
+    "aunt",
+    "auto",
+    "data",
+    "daunt",
+    "doodad",
+    "hand",
+    "handout",
+    "hath",
+    "hatha",
+    "haunt",
+    "naan",
+    "nada",
+    "nana",
+    "natant",
+    "oath",
+    "tattoo",
+    "taunt",
+    "taut",
+    "than",
+    "that",
+    "toad",
+    "tuna",
+    "unhand"
+  ],
+  "id": 1663819200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

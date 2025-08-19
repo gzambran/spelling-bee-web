@@ -1,0 +1,49 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "May 01, 2022",
+  "printDate": "2022-05-01",
+  "centerLetter": "n",
+  "outerLetters": [
+    "c",
+    "h",
+    "i",
+    "k",
+    "m",
+    "u"
+  ],
+  "validLetters": [
+    "n",
+    "c",
+    "h",
+    "i",
+    "k",
+    "m",
+    "u"
+  ],
+  "pangrams": [
+    "munchkin"
+  ],
+  "answers": [
+    "chin",
+    "chunk",
+    "cinch",
+    "cumin",
+    "hunch",
+    "hunk",
+    "inch",
+    "kink",
+    "mini",
+    "minim",
+    "minimum",
+    "mink",
+    "munch",
+    "munchkin",
+    "nick",
+    "nunchuck",
+    "nunchuk",
+    "unkink"
+  ],
+  "id": 1651377600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

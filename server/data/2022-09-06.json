@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "September 06, 2022",
+  "printDate": "2022-09-06",
+  "centerLetter": "t",
+  "outerLetters": [
+    "f",
+    "g",
+    "h",
+    "i",
+    "l",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "f",
+    "g",
+    "h",
+    "i",
+    "l",
+    "y"
+  ],
+  "pangrams": [
+    "flighty"
+  ],
+  "answers": [
+    "fifth",
+    "fifty",
+    "fight",
+    "filth",
+    "filthy",
+    "fitly",
+    "flight",
+    "flighty",
+    "flit",
+    "gift",
+    "gilt",
+    "highlight",
+    "hilt",
+    "itty",
+    "lift",
+    "light",
+    "lightly",
+    "lilt",
+    "thigh",
+    "tiff",
+    "tight",
+    "tightly",
+    "till",
+    "tilt",
+    "tilth"
+  ],
+  "id": 1662436800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

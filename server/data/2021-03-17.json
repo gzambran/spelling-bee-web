@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "March 17, 2021",
+  "printDate": "2021-03-17",
+  "centerLetter": "d",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "n",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "d",
+    "a",
+    "g",
+    "i",
+    "n",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "auditing",
+    "daunting",
+    "inundating"
+  ],
+  "answers": [
+    "adding",
+    "aiding",
+    "audit",
+    "auditing",
+    "dang",
+    "data",
+    "dating",
+    "daunt",
+    "daunting",
+    "digging",
+    "digit",
+    "ding",
+    "dinging",
+    "dining",
+    "dint",
+    "duding",
+    "dung",
+    "dunning",
+    "gadding",
+    "guiding",
+    "indignant",
+    "inundating",
+    "nada",
+    "naiad",
+    "nudging",
+    "tiding",
+    "undid"
+  ],
+  "id": 1615953600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

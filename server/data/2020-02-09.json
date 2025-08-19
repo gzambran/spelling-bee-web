@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "February 09, 2020",
+  "printDate": "2020-02-09",
+  "centerLetter": "l",
+  "outerLetters": [
+    "f",
+    "i",
+    "n",
+    "r",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "l",
+    "f",
+    "i",
+    "n",
+    "r",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "unfruitful"
+  ],
+  "answers": [
+    "fill",
+    "fitful",
+    "flint",
+    "flirt",
+    "flit",
+    "fluff",
+    "frill",
+    "fruitful",
+    "fulfill",
+    "full",
+    "furl",
+    "infill",
+    "lift",
+    "lilt",
+    "lint",
+    "lull",
+    "lulu",
+    "null",
+    "rill",
+    "till",
+    "tilt",
+    "trill",
+    "unfruitful",
+    "unfurl",
+    "unlit",
+    "until"
+  ],
+  "id": 1581224400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

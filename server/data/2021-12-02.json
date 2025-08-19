@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "December 02, 2021",
+  "printDate": "2021-12-02",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "h",
+    "m",
+    "o",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "h",
+    "m",
+    "o",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "phantom"
+  ],
+  "answers": [
+    "anon",
+    "mammon",
+    "manhattan",
+    "manna",
+    "manta",
+    "moan",
+    "mono",
+    "month",
+    "moon",
+    "naan",
+    "nana",
+    "natant",
+    "noon",
+    "onto",
+    "ottoman",
+    "panama",
+    "pant",
+    "phantom",
+    "phono",
+    "photon",
+    "pompano",
+    "pontoon",
+    "tampon",
+    "than",
+    "toon"
+  ],
+  "id": 1638421200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

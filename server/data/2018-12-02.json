@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "December 02, 2018",
+  "printDate": "2018-12-02",
+  "centerLetter": "w",
+  "outerLetters": [
+    "e",
+    "h",
+    "i",
+    "l",
+    "n",
+    "p"
+  ],
+  "validLetters": [
+    "w",
+    "e",
+    "h",
+    "i",
+    "l",
+    "n",
+    "p"
+  ],
+  "pangrams": [
+    "pinwheel"
+  ],
+  "answers": [
+    "hewn",
+    "nephew",
+    "newel",
+    "peewee",
+    "pewee",
+    "phew",
+    "pinwheel",
+    "weenie",
+    "weep",
+    "weepie",
+    "well",
+    "whee",
+    "wheel",
+    "wheelie",
+    "whelp",
+    "when",
+    "whew",
+    "while",
+    "whine",
+    "whip",
+    "wienie",
+    "wile",
+    "will",
+    "wine",
+    "wipe"
+  ],
+  "id": 1543726800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

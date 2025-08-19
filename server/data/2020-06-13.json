@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "June 13, 2020",
+  "printDate": "2020-06-13",
+  "centerLetter": "l",
+  "outerLetters": [
+    "g",
+    "i",
+    "m",
+    "o",
+    "x",
+    "y"
+  ],
+  "validLetters": [
+    "l",
+    "g",
+    "i",
+    "m",
+    "o",
+    "x",
+    "y"
+  ],
+  "pangrams": [
+    "mixology"
+  ],
+  "answers": [
+    "giggly",
+    "gigolo",
+    "gill",
+    "glom",
+    "gloom",
+    "gloomily",
+    "gloomy",
+    "goggly",
+    "golly",
+    "googly",
+    "googol",
+    "igloo",
+    "illy",
+    "lily",
+    "limo",
+    "logo",
+    "logy",
+    "loll",
+    "loom",
+    "mill",
+    "mixology",
+    "moil",
+    "moll",
+    "oily",
+    "olio"
+  ],
+  "id": 1592020800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

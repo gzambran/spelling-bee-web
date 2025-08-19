@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "May 22, 2019",
+  "printDate": "2019-05-22",
+  "centerLetter": "f",
+  "outerLetters": [
+    "a",
+    "c",
+    "d",
+    "i",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "f",
+    "a",
+    "c",
+    "d",
+    "i",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "diffract"
+  ],
+  "answers": [
+    "adrift",
+    "afar",
+    "affair",
+    "afraid",
+    "aircraft",
+    "artifact",
+    "craft",
+    "daft",
+    "diffract",
+    "draft",
+    "drift",
+    "fact",
+    "fair",
+    "farad",
+    "fart",
+    "fiat",
+    "frat",
+    "friar",
+    "frittata",
+    "raffia",
+    "raft",
+    "riff",
+    "riffraff",
+    "rift",
+    "tariff",
+    "tiff",
+    "traffic"
+  ],
+  "id": 1558497600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

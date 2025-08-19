@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "November 16, 2018",
+  "printDate": "2018-11-16",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "c",
+    "n",
+    "r",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "c",
+    "n",
+    "r",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "raunchy"
+  ],
+  "answers": [
+    "achy",
+    "anarch",
+    "anarchy",
+    "arch",
+    "chancy",
+    "char",
+    "chary",
+    "church",
+    "churchy",
+    "churn",
+    "crunch",
+    "crunchy",
+    "harry",
+    "haunch",
+    "hunch",
+    "hurrah",
+    "hurray",
+    "hurry",
+    "ranch",
+    "raunch",
+    "raunchy"
+  ],
+  "id": 1542344400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

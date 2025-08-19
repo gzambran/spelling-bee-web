@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "February 12, 2022",
+  "printDate": "2022-02-12",
+  "centerLetter": "u",
+  "outerLetters": [
+    "e",
+    "g",
+    "i",
+    "n",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "u",
+    "e",
+    "g",
+    "i",
+    "n",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "ingenuity"
+  ],
+  "answers": [
+    "ennui",
+    "genuine",
+    "gigue",
+    "gunning",
+    "gutting",
+    "ingenue",
+    "ingenuity",
+    "intuit",
+    "intuiting",
+    "nugget",
+    "nutty",
+    "tenuity",
+    "tugging",
+    "tune",
+    "tuning",
+    "tutee",
+    "tutti",
+    "tutting",
+    "tutu",
+    "unguent",
+    "unit",
+    "unite",
+    "uniting",
+    "unity",
+    "untie",
+    "untune",
+    "untuning",
+    "untying"
+  ],
+  "id": 1644642000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

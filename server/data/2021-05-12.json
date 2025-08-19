@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "May 12, 2021",
+  "printDate": "2021-05-12",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "j",
+    "k",
+    "o",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "j",
+    "k",
+    "o",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "jackpot"
+  ],
+  "answers": [
+    "attack",
+    "cacao",
+    "capo",
+    "coact",
+    "coat",
+    "coca",
+    "cock",
+    "cockapoo",
+    "cockatoo",
+    "cocoa",
+    "cook",
+    "cooktop",
+    "coop",
+    "coopt",
+    "coot",
+    "jack",
+    "jackpot",
+    "jock",
+    "pack",
+    "pact",
+    "pock",
+    "tack",
+    "taco",
+    "tact",
+    "toccata",
+    "tock",
+    "topcoat"
+  ],
+  "id": 1620792000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "January 20, 2021",
+  "printDate": "2021-01-20",
+  "centerLetter": "m",
+  "outerLetters": [
+    "i",
+    "l",
+    "p",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "m",
+    "i",
+    "l",
+    "p",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "multiply"
+  ],
+  "answers": [
+    "ilium",
+    "imply",
+    "limit",
+    "limp",
+    "limply",
+    "lump",
+    "lumpy",
+    "mill",
+    "mitt",
+    "mull",
+    "multiply",
+    "mummy",
+    "mutt",
+    "muumuu",
+    "pimp",
+    "pimply",
+    "plum",
+    "plump",
+    "plumply",
+    "plumpy",
+    "pump",
+    "tummy",
+    "tumult",
+    "yummy"
+  ],
+  "id": 1611118800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

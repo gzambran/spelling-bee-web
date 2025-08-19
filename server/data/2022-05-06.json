@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "May 06, 2022",
+  "printDate": "2022-05-06",
+  "centerLetter": "e",
+  "outerLetters": [
+    "g",
+    "h",
+    "i",
+    "t",
+    "w",
+    "y"
+  ],
+  "validLetters": [
+    "e",
+    "g",
+    "h",
+    "i",
+    "t",
+    "w",
+    "y"
+  ],
+  "pangrams": [
+    "weighty"
+  ],
+  "answers": [
+    "eggy",
+    "eight",
+    "eighth",
+    "eightieth",
+    "eighty",
+    "eyeteeth",
+    "ghee",
+    "height",
+    "teeth",
+    "teethe",
+    "thee",
+    "they",
+    "tithe",
+    "twee",
+    "tweet",
+    "weigh",
+    "weight",
+    "weighty",
+    "whee",
+    "whet",
+    "whew",
+    "whey",
+    "white",
+    "yeti"
+  ],
+  "id": 1651809600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

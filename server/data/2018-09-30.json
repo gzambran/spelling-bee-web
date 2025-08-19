@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "September 30, 2018",
+  "printDate": "2018-09-30",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "c",
+    "f",
+    "o",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "c",
+    "f",
+    "o",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "offtrack"
+  ],
+  "answers": [
+    "attack",
+    "coatrack",
+    "cock",
+    "cockatoo",
+    "cook",
+    "cookoff",
+    "cork",
+    "crack",
+    "croak",
+    "crock",
+    "crook",
+    "fork",
+    "frack",
+    "frock",
+    "karat",
+    "kart",
+    "kook",
+    "kraft",
+    "offtrack",
+    "okra",
+    "rack",
+    "rock",
+    "rook",
+    "tack",
+    "tock",
+    "took",
+    "track"
+  ],
+  "id": 1538280000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

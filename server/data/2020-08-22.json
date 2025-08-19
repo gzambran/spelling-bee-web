@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "August 22, 2020",
+  "printDate": "2020-08-22",
+  "centerLetter": "t",
+  "outerLetters": [
+    "b",
+    "c",
+    "d",
+    "e",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "b",
+    "c",
+    "d",
+    "e",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "boycotted"
+  ],
+  "answers": [
+    "beet",
+    "boot",
+    "booted",
+    "bootee",
+    "booty",
+    "boycott",
+    "boycotted",
+    "byte",
+    "coot",
+    "cote",
+    "coyote",
+    "debt",
+    "decoct",
+    "decocted",
+    "detect",
+    "detected",
+    "dote",
+    "doted",
+    "dotted",
+    "dotty",
+    "octet",
+    "oocyte",
+    "teddy",
+    "teed",
+    "toddy",
+    "toed",
+    "toot",
+    "tooted",
+    "tote",
+    "toted",
+    "toyed"
+  ],
+  "id": 1598068800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

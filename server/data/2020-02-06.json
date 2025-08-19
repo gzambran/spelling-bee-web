@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "February 06, 2020",
+  "printDate": "2020-02-06",
+  "centerLetter": "o",
+  "outerLetters": [
+    "c",
+    "i",
+    "m",
+    "p",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "c",
+    "i",
+    "m",
+    "p",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "microcopy"
+  ],
+  "answers": [
+    "cocci",
+    "comic",
+    "comp",
+    "coop",
+    "copy",
+    "croc",
+    "croci",
+    "crop",
+    "micro",
+    "microcopy",
+    "mirror",
+    "mommy",
+    "moor",
+    "myopic",
+    "pomp",
+    "pompom",
+    "poop",
+    "poor",
+    "poppy",
+    "primo",
+    "prior",
+    "priory",
+    "prom",
+    "promo",
+    "prop",
+    "pyro",
+    "rococo",
+    "romcom",
+    "romp",
+    "room",
+    "roomy",
+    "ropy"
+  ],
+  "id": 1580965200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

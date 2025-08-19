@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "May 09, 2020",
+  "printDate": "2020-05-09",
+  "centerLetter": "r",
+  "outerLetters": [
+    "f",
+    "h",
+    "i",
+    "o",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "r",
+    "f",
+    "h",
+    "i",
+    "o",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "forthwith"
+  ],
+  "answers": [
+    "firth",
+    "fort",
+    "forth",
+    "forthwith",
+    "froth",
+    "horror",
+    "riff",
+    "rift",
+    "riot",
+    "roof",
+    "root",
+    "roti",
+    "roto",
+    "rotor",
+    "thrift",
+    "throw",
+    "tori",
+    "torii",
+    "toro",
+    "tort",
+    "trio",
+    "trot",
+    "troth",
+    "whir",
+    "whirr",
+    "wort",
+    "worth",
+    "writ",
+    "wroth"
+  ],
+  "id": 1588996800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

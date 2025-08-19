@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "January 03, 2019",
+  "printDate": "2019-01-03",
+  "centerLetter": "m",
+  "outerLetters": [
+    "e",
+    "h",
+    "n",
+    "p",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "m",
+    "e",
+    "h",
+    "n",
+    "p",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "umpteenth"
+  ],
+  "answers": [
+    "hemp",
+    "hump",
+    "humph",
+    "meet",
+    "meme",
+    "mentee",
+    "menu",
+    "mete",
+    "meth",
+    "mute",
+    "mutt",
+    "muumuu",
+    "penmen",
+    "pump",
+    "teem",
+    "temp",
+    "tempeh",
+    "tempt",
+    "tenement",
+    "them",
+    "theme",
+    "thump",
+    "umpteen",
+    "umpteenth",
+    "unmet"
+  ],
+  "id": 1546491600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

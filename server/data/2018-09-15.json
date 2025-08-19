@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "September 15, 2018",
+  "printDate": "2018-09-15",
+  "centerLetter": "u",
+  "outerLetters": [
+    "f",
+    "g",
+    "l",
+    "n",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "u",
+    "f",
+    "g",
+    "l",
+    "n",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "furlong"
+  ],
+  "answers": [
+    "flour",
+    "fluff",
+    "flung",
+    "foul",
+    "four",
+    "froufrou",
+    "frug",
+    "fugu",
+    "full",
+    "fungo",
+    "furl",
+    "furlong",
+    "furor",
+    "gruff",
+    "guff",
+    "gulf",
+    "gull",
+    "guru",
+    "lull",
+    "lulu",
+    "lung",
+    "lungful",
+    "noun",
+    "null",
+    "rung",
+    "runoff",
+    "unfurl",
+    "unroll",
+    "unroof"
+  ],
+  "id": 1536984000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "November 04, 2021",
+  "printDate": "2021-11-04",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "e",
+    "g",
+    "k",
+    "m",
+    "o"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "e",
+    "g",
+    "k",
+    "m",
+    "o"
+  ],
+  "pangrams": [
+    "gamecock"
+  ],
+  "answers": [
+    "acme",
+    "cacao",
+    "cage",
+    "cake",
+    "came",
+    "cameo",
+    "camo",
+    "coca",
+    "cock",
+    "cocoa",
+    "coke",
+    "coma",
+    "come",
+    "comma",
+    "cook",
+    "emcee",
+    "gamecock",
+    "gecko",
+    "mace",
+    "mecca",
+    "mock"
+  ],
+  "id": 1635998400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

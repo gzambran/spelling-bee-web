@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "May 29, 2019",
+  "printDate": "2019-05-29",
+  "centerLetter": "o",
+  "outerLetters": [
+    "g",
+    "n",
+    "p",
+    "r",
+    "u",
+    "w"
+  ],
+  "validLetters": [
+    "o",
+    "g",
+    "n",
+    "p",
+    "r",
+    "u",
+    "w"
+  ],
+  "pangrams": [
+    "grownup"
+  ],
+  "answers": [
+    "gong",
+    "goon",
+    "goop",
+    "gorgon",
+    "gorp",
+    "gown",
+    "grog",
+    "group",
+    "grow",
+    "grown",
+    "grownup",
+    "noon",
+    "noun",
+    "oppugn",
+    "pogo",
+    "pong",
+    "poop",
+    "poor",
+    "popgun",
+    "porn",
+    "porno",
+    "pour",
+    "powwow",
+    "prong",
+    "pronoun",
+    "prop",
+    "prow",
+    "unwon",
+    "unworn",
+    "upon",
+    "worn",
+    "wrong"
+  ],
+  "id": 1559102400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

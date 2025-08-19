@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "November 26, 2018",
+  "printDate": "2018-11-26",
+  "centerLetter": "n",
+  "outerLetters": [
+    "b",
+    "e",
+    "l",
+    "m",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "n",
+    "b",
+    "e",
+    "l",
+    "m",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "noblewomen"
+  ],
+  "answers": [
+    "been",
+    "bellmen",
+    "blown",
+    "bonbon",
+    "bone",
+    "bonobo",
+    "boon",
+    "bowmen",
+    "ebon",
+    "ennoble",
+    "enow",
+    "lemon",
+    "lone",
+    "loon",
+    "melon",
+    "mono",
+    "moon",
+    "mown",
+    "nene",
+    "neon",
+    "newel",
+    "noble",
+    "noblemen",
+    "noblewomen",
+    "noel",
+    "none",
+    "noob",
+    "noon",
+    "omen",
+    "women",
+    "woolen"
+  ],
+  "id": 1543208400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

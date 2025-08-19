@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "August 29, 2018",
+  "printDate": "2018-08-29",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "c",
+    "l",
+    "o",
+    "r",
+    "w"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "c",
+    "l",
+    "o",
+    "r",
+    "w"
+  ],
+  "pangrams": [
+    "warlock"
+  ],
+  "answers": [
+    "alack",
+    "clack",
+    "cloak",
+    "clock",
+    "clockwork",
+    "cock",
+    "cook",
+    "cork",
+    "crack",
+    "croak",
+    "crock",
+    "crook",
+    "koala",
+    "kola",
+    "kook",
+    "lack",
+    "lark",
+    "lock",
+    "look",
+    "oarlock",
+    "okra",
+    "rack",
+    "rock",
+    "rook",
+    "wack",
+    "wacko",
+    "walk",
+    "warlock",
+    "work",
+    "wrack"
+  ],
+  "id": 1535515200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

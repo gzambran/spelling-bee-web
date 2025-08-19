@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "August 27, 2019",
+  "printDate": "2019-08-27",
+  "centerLetter": "e",
+  "outerLetters": [
+    "b",
+    "c",
+    "k",
+    "o",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "e",
+    "b",
+    "c",
+    "k",
+    "o",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "pocketbook"
+  ],
+  "answers": [
+    "bebop",
+    "beck",
+    "beep",
+    "beet",
+    "betook",
+    "bocce",
+    "bootee",
+    "coke",
+    "cope",
+    "cote",
+    "epee",
+    "keep",
+    "kept",
+    "keto",
+    "kopeck",
+    "oboe",
+    "octet",
+    "peck",
+    "peek",
+    "peep",
+    "peke",
+    "pekoe",
+    "pocket",
+    "pocketbook",
+    "poet",
+    "poke",
+    "pope",
+    "teepee",
+    "tepee",
+    "toke",
+    "tope",
+    "tote"
+  ],
+  "id": 1566878400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

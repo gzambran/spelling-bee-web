@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "November 15, 2020",
+  "printDate": "2020-11-15",
+  "centerLetter": "z",
+  "outerLetters": [
+    "a",
+    "d",
+    "e",
+    "g",
+    "i",
+    "l"
+  ],
+  "validLetters": [
+    "z",
+    "a",
+    "d",
+    "e",
+    "g",
+    "i",
+    "l"
+  ],
+  "pangrams": [
+    "legalized"
+  ],
+  "answers": [
+    "adze",
+    "agaze",
+    "azalea",
+    "daze",
+    "dazed",
+    "dazzle",
+    "dazzled",
+    "dizzied",
+    "elegize",
+    "elegized",
+    "gaze",
+    "gazed",
+    "gazelle",
+    "geez",
+    "glaze",
+    "glazed",
+    "idealize",
+    "idealized",
+    "laze",
+    "lazed",
+    "legalize",
+    "legalized",
+    "zagged",
+    "zeal",
+    "zigged",
+    "zigzag",
+    "zigzagged"
+  ],
+  "id": 1605416400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "January 07, 2020",
+  "printDate": "2020-01-07",
+  "centerLetter": "r",
+  "outerLetters": [
+    "d",
+    "f",
+    "i",
+    "o",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "r",
+    "d",
+    "f",
+    "i",
+    "o",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "driftwood"
+  ],
+  "answers": [
+    "dirt",
+    "door",
+    "drift",
+    "driftwood",
+    "droid",
+    "ford",
+    "fort",
+    "odor",
+    "riff",
+    "rift",
+    "riot",
+    "rood",
+    "roof",
+    "root",
+    "roti",
+    "roto",
+    "rotor",
+    "tori",
+    "torii",
+    "toro",
+    "toroid",
+    "torrid",
+    "tort",
+    "trio",
+    "trod",
+    "trot",
+    "word",
+    "wort",
+    "writ"
+  ],
+  "id": 1578373200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

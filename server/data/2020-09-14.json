@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "September 14, 2020",
+  "printDate": "2020-09-14",
+  "centerLetter": "g",
+  "outerLetters": [
+    "a",
+    "b",
+    "c",
+    "i",
+    "l",
+    "o"
+  ],
+  "validLetters": [
+    "g",
+    "a",
+    "b",
+    "c",
+    "i",
+    "l",
+    "o"
+  ],
+  "pangrams": [
+    "biological"
+  ],
+  "answers": [
+    "agog",
+    "alga",
+    "algal",
+    "biologic",
+    "biological",
+    "blog",
+    "boogaloo",
+    "clog",
+    "gaga",
+    "gala",
+    "gall",
+    "gigolo",
+    "gill",
+    "glacial",
+    "glia",
+    "glial",
+    "glib",
+    "glob",
+    "global",
+    "goal",
+    "googol",
+    "igloo",
+    "illogic",
+    "illogical",
+    "logic",
+    "logical",
+    "logo"
+  ],
+  "id": 1600056000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

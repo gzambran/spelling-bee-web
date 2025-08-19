@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "July 04, 2019",
+  "printDate": "2019-07-04",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "c",
+    "g",
+    "h",
+    "i",
+    "l"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "c",
+    "g",
+    "h",
+    "i",
+    "l"
+  ],
+  "pangrams": [
+    "chargrill"
+  ],
+  "answers": [
+    "aargh",
+    "agar",
+    "arch",
+    "archaic",
+    "aria",
+    "aril",
+    "chair",
+    "char",
+    "chargrill",
+    "cigar",
+    "circa",
+    "cirri",
+    "crag",
+    "garlic",
+    "girl",
+    "grail",
+    "grill",
+    "hair",
+    "highchair",
+    "lair",
+    "larch",
+    "liar",
+    "lira",
+    "racial",
+    "raga",
+    "rail",
+    "railcar",
+    "rial",
+    "rich",
+    "rill"
+  ],
+  "id": 1562212800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

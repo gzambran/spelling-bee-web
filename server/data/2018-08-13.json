@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "August 13, 2018",
+  "printDate": "2018-08-13",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "c",
+    "l",
+    "n",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "c",
+    "l",
+    "n",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "unlatch"
+  ],
+  "answers": [
+    "attach",
+    "catch",
+    "catchall",
+    "challah",
+    "chant",
+    "chat",
+    "clutch",
+    "halal",
+    "hall",
+    "halt",
+    "hatch",
+    "hath",
+    "haul",
+    "haunch",
+    "haunt",
+    "hula",
+    "hull",
+    "hunch",
+    "hunt",
+    "hutch",
+    "latch",
+    "lath",
+    "launch",
+    "lunch",
+    "natch",
+    "than",
+    "that",
+    "thatch",
+    "unclutch",
+    "unhat",
+    "unlatch"
+  ],
+  "id": 1534132800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "April 04, 2021",
+  "printDate": "2021-04-04",
+  "centerLetter": "u",
+  "outerLetters": [
+    "c",
+    "g",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "u",
+    "c",
+    "g",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "unclogging",
+    "uncoiling"
+  ],
+  "answers": [
+    "cluing",
+    "clung",
+    "council",
+    "cuing",
+    "cull",
+    "culling",
+    "cunning",
+    "glug",
+    "gluing",
+    "gouging",
+    "gull",
+    "gulling",
+    "gunning",
+    "linguini",
+    "lounging",
+    "lugging",
+    "luging",
+    "lull",
+    "lulling",
+    "lulu",
+    "lung",
+    "lunging",
+    "noun",
+    "null",
+    "oculi",
+    "unclog",
+    "unclogging",
+    "uncoil",
+    "uncoiling",
+    "uncool",
+    "union"
+  ],
+  "id": 1617508800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

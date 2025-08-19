@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "May 24, 2019",
+  "printDate": "2019-05-24",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "g",
+    "o",
+    "p",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "g",
+    "o",
+    "p",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "photograph"
+  ],
+  "answers": [
+    "aargh",
+    "arhat",
+    "goth",
+    "graph",
+    "harp",
+    "hart",
+    "hath",
+    "hatha",
+    "hoar",
+    "hoop",
+    "hoorah",
+    "hoot",
+    "hora",
+    "horror",
+    "hotpot",
+    "oath",
+    "opah",
+    "paragraph",
+    "path",
+    "pharaoh",
+    "phat",
+    "photo",
+    "photog",
+    "photograph",
+    "pooh",
+    "that",
+    "throat",
+    "tooth",
+    "torah",
+    "troth"
+  ],
+  "id": 1558670400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

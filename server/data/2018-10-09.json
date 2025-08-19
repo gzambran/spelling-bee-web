@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "October 09, 2018",
+  "printDate": "2018-10-09",
+  "centerLetter": "o",
+  "outerLetters": [
+    "d",
+    "h",
+    "i",
+    "k",
+    "n",
+    "w"
+  ],
+  "validLetters": [
+    "o",
+    "d",
+    "h",
+    "i",
+    "k",
+    "n",
+    "w"
+  ],
+  "pangrams": [
+    "hoodwink"
+  ],
+  "answers": [
+    "dino",
+    "dodo",
+    "down",
+    "downwind",
+    "honk",
+    "hood",
+    "hoodoo",
+    "hoodwink",
+    "hook",
+    "kiddo",
+    "know",
+    "knowhow",
+    "known",
+    "kook",
+    "nohow",
+    "nook",
+    "noon",
+    "oink",
+    "onion",
+    "widow",
+    "widowhood",
+    "window",
+    "winnow",
+    "wino",
+    "wonk",
+    "wood",
+    "woodwind",
+    "woohoo"
+  ],
+  "id": 1539057600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

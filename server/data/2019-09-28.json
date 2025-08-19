@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "September 28, 2019",
+  "printDate": "2019-09-28",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "e",
+    "h",
+    "k",
+    "p",
+    "y"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "e",
+    "h",
+    "k",
+    "p",
+    "y"
+  ],
+  "pangrams": [
+    "paycheck"
+  ],
+  "answers": [
+    "ache",
+    "achy",
+    "apace",
+    "cache",
+    "cake",
+    "caky",
+    "cape",
+    "chap",
+    "cheap",
+    "check",
+    "cheek",
+    "cheeky",
+    "cheep",
+    "each",
+    "hack",
+    "heck",
+    "pace",
+    "pack",
+    "papacy",
+    "paycheck",
+    "peace",
+    "peach",
+    "peachy",
+    "peck",
+    "yecch",
+    "yech"
+  ],
+  "id": 1569643200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

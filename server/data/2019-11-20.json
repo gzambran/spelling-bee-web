@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "November 20, 2019",
+  "printDate": "2019-11-20",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "d",
+    "g",
+    "h",
+    "l",
+    "r"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "d",
+    "g",
+    "h",
+    "l",
+    "r"
+  ],
+  "pangrams": [
+    "haggardly"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "array",
+    "daddy",
+    "dally",
+    "draggy",
+    "dray",
+    "dryad",
+    "dryly",
+    "dyad",
+    "gaydar",
+    "gayly",
+    "gladly",
+    "gray",
+    "haggardly",
+    "halyard",
+    "hardly",
+    "hardy",
+    "harry",
+    "hydra",
+    "lady",
+    "laggardly",
+    "laggy",
+    "lallygag",
+    "rally",
+    "yard"
+  ],
+  "id": 1574226000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

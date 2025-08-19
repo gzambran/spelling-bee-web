@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "June 18, 2019",
+  "printDate": "2019-06-18",
+  "centerLetter": "f",
+  "outerLetters": [
+    "i",
+    "n",
+    "o",
+    "p",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "f",
+    "i",
+    "n",
+    "o",
+    "p",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "offprint",
+    "footprint",
+    "nonprofit"
+  ],
+  "answers": [
+    "finito",
+    "font",
+    "foot",
+    "footprint",
+    "fort",
+    "front",
+    "info",
+    "nonprofit",
+    "offprint",
+    "pfft",
+    "pontiff",
+    "poof",
+    "profit",
+    "proof",
+    "riff",
+    "rift",
+    "ripoff",
+    "roof",
+    "rooftop",
+    "tiff",
+    "tipoff"
+  ],
+  "id": 1560830400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

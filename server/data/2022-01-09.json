@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "January 09, 2022",
+  "printDate": "2022-01-09",
+  "centerLetter": "v",
+  "outerLetters": [
+    "c",
+    "e",
+    "i",
+    "l",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "v",
+    "c",
+    "e",
+    "i",
+    "l",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "collective"
+  ],
+  "answers": [
+    "civet",
+    "civic",
+    "civil",
+    "clove",
+    "coevolve",
+    "collective",
+    "cove",
+    "covet",
+    "elective",
+    "evict",
+    "evictee",
+    "evil",
+    "evolve",
+    "levee",
+    "level",
+    "live",
+    "love",
+    "olive",
+    "veil",
+    "velvet",
+    "veto",
+    "vice",
+    "vile",
+    "viol",
+    "violet",
+    "voice",
+    "voile",
+    "vole",
+    "volt",
+    "vote",
+    "votive"
+  ],
+  "id": 1641704400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

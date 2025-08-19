@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "August 23, 2018",
+  "printDate": "2018-08-23",
+  "centerLetter": "r",
+  "outerLetters": [
+    "b",
+    "d",
+    "h",
+    "i",
+    "m",
+    "o"
+  ],
+  "validLetters": [
+    "r",
+    "b",
+    "d",
+    "h",
+    "i",
+    "m",
+    "o"
+  ],
+  "pangrams": [
+    "rhomboid"
+  ],
+  "answers": [
+    "bird",
+    "boobird",
+    "boor",
+    "brim",
+    "brio",
+    "brood",
+    "broom",
+    "door",
+    "dorm",
+    "drib",
+    "droid",
+    "horrid",
+    "horror",
+    "midrib",
+    "mirror",
+    "moor",
+    "morbid",
+    "odor",
+    "oribi",
+    "rhomb",
+    "rhombi",
+    "rhomboid",
+    "rood",
+    "room"
+  ],
+  "id": 1534996800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "December 13, 2018",
+  "printDate": "2018-12-13",
+  "centerLetter": "p",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "r"
+  ],
+  "validLetters": [
+    "p",
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "r"
+  ],
+  "pangrams": [
+    "principal"
+  ],
+  "answers": [
+    "alpaca",
+    "apian",
+    "apical",
+    "appall",
+    "carp",
+    "carpal",
+    "carpi",
+    "clap",
+    "clip",
+    "crap",
+    "pail",
+    "pain",
+    "pair",
+    "pall",
+    "panic",
+    "panini",
+    "papa",
+    "papal",
+    "papilla",
+    "pica",
+    "picnic",
+    "pill",
+    "pillar",
+    "plain",
+    "plan",
+    "planar",
+    "planaria",
+    "planarian",
+    "principal",
+    "rapini",
+    "riparian"
+  ],
+  "id": 1544677200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

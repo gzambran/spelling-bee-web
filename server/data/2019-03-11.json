@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "March 11, 2019",
+  "printDate": "2019-03-11",
+  "centerLetter": "c",
+  "outerLetters": [
+    "b",
+    "h",
+    "k",
+    "o",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "c",
+    "b",
+    "h",
+    "k",
+    "o",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "bucktooth"
+  ],
+  "answers": [
+    "bock",
+    "botch",
+    "buck",
+    "bucko",
+    "bucktooth",
+    "butch",
+    "buttock",
+    "chock",
+    "chub",
+    "chuck",
+    "cock",
+    "coho",
+    "cook",
+    "cookbook",
+    "cookout",
+    "coot",
+    "couch",
+    "couth",
+    "cuckoo",
+    "cutout",
+    "hock",
+    "hooch",
+    "hootch",
+    "hutch",
+    "ouch",
+    "tock",
+    "touch",
+    "tuck"
+  ],
+  "id": 1552276800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

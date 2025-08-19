@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "January 22, 2020",
+  "printDate": "2020-01-22",
+  "centerLetter": "o",
+  "outerLetters": [
+    "d",
+    "f",
+    "g",
+    "h",
+    "i",
+    "t"
+  ],
+  "validLetters": [
+    "o",
+    "d",
+    "f",
+    "g",
+    "h",
+    "i",
+    "t"
+  ],
+  "pangrams": [
+    "dogfight"
+  ],
+  "answers": [
+    "ditto",
+    "dodo",
+    "doff",
+    "dogfight",
+    "doggo",
+    "doth",
+    "food",
+    "foot",
+    "godhood",
+    "good",
+    "goof",
+    "goth",
+    "hood",
+    "hoodoo",
+    "hoof",
+    "hoot",
+    "hotdog",
+    "hotfoot",
+    "idiot",
+    "toot",
+    "tooth"
+  ],
+  "id": 1579669200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

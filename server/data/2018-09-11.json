@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "September 11, 2018",
+  "printDate": "2018-09-11",
+  "centerLetter": "i",
+  "outerLetters": [
+    "b",
+    "c",
+    "e",
+    "h",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "i",
+    "b",
+    "c",
+    "e",
+    "h",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "bewitch"
+  ],
+  "answers": [
+    "bewitch",
+    "bitch",
+    "bite",
+    "chic",
+    "chichi",
+    "chit",
+    "cite",
+    "ethic",
+    "hectic",
+    "hitch",
+    "itch",
+    "techie",
+    "tithe",
+    "twice",
+    "twit",
+    "twitch",
+    "which",
+    "whit",
+    "white",
+    "witch",
+    "with"
+  ],
+  "id": 1536638400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "April 24, 2025",
+  "printDate": "2025-04-24",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "b",
+    "e",
+    "g",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "b",
+    "e",
+    "g",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "megabyte"
+  ],
+  "answers": [
+    "ameba",
+    "amebae",
+    "beam",
+    "begem",
+    "game",
+    "gamete",
+    "gamma",
+    "gamy",
+    "mage",
+    "magma",
+    "mama",
+    "mamba",
+    "mamma",
+    "mate",
+    "matey",
+    "matte",
+    "maybe",
+    "meat",
+    "meaty",
+    "meet",
+    "mega",
+    "megabyte",
+    "meme",
+    "meta",
+    "mete",
+    "tame",
+    "team",
+    "teammate",
+    "teem"
+  ],
+  "id": 1745467200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

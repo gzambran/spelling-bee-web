@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "December 05, 2021",
+  "printDate": "2021-12-05",
+  "centerLetter": "h",
+  "outerLetters": [
+    "c",
+    "e",
+    "n",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "h",
+    "c",
+    "e",
+    "n",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "chutney"
+  ],
+  "answers": [
+    "chute",
+    "chutney",
+    "etch",
+    "eunuch",
+    "eyeteeth",
+    "hence",
+    "hunch",
+    "hunt",
+    "hutch",
+    "tech",
+    "techy",
+    "teeth",
+    "teethe",
+    "tenth",
+    "tetchy",
+    "thee",
+    "then",
+    "thence",
+    "they",
+    "yecch",
+    "yech"
+  ],
+  "id": 1638680400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

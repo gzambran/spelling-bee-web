@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "January 08, 2022",
+  "printDate": "2022-01-08",
+  "centerLetter": "w",
+  "outerLetters": [
+    "a",
+    "b",
+    "e",
+    "l",
+    "o",
+    "p"
+  ],
+  "validLetters": [
+    "w",
+    "a",
+    "b",
+    "e",
+    "l",
+    "o",
+    "p"
+  ],
+  "pangrams": [
+    "plowable"
+  ],
+  "answers": [
+    "allow",
+    "allowable",
+    "bawl",
+    "bellow",
+    "below",
+    "blew",
+    "blow",
+    "bowel",
+    "bowl",
+    "bowwow",
+    "elbow",
+    "lowball",
+    "papaw",
+    "pawl",
+    "pawpaw",
+    "peewee",
+    "pewee",
+    "plow",
+    "plowable",
+    "powwow",
+    "wale",
+    "wall",
+    "wallop",
+    "wallow",
+    "weal",
+    "weep",
+    "well",
+    "wobble",
+    "wool"
+  ],
+  "id": 1641618000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

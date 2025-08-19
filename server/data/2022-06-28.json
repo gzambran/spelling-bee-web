@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "June 28, 2022",
+  "printDate": "2022-06-28",
+  "centerLetter": "w",
+  "outerLetters": [
+    "a",
+    "d",
+    "i",
+    "l",
+    "n",
+    "t"
+  ],
+  "validLetters": [
+    "w",
+    "a",
+    "d",
+    "i",
+    "l",
+    "n",
+    "t"
+  ],
+  "pangrams": [
+    "tailwind"
+  ],
+  "answers": [
+    "await",
+    "dawn",
+    "lawn",
+    "nitwit",
+    "tailwind",
+    "twain",
+    "twilit",
+    "twill",
+    "twin",
+    "twit",
+    "wail",
+    "wait",
+    "wall",
+    "wand",
+    "wanna",
+    "want",
+    "watt",
+    "wild",
+    "wildland",
+    "will",
+    "wilt",
+    "wind"
+  ],
+  "id": 1656388800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

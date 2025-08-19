@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "October 21, 2018",
+  "printDate": "2018-10-21",
+  "centerLetter": "m",
+  "outerLetters": [
+    "c",
+    "i",
+    "l",
+    "o",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "m",
+    "c",
+    "i",
+    "l",
+    "o",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "complicit",
+    "impolitic"
+  ],
+  "answers": [
+    "clomp",
+    "comic",
+    "commit",
+    "comp",
+    "complicit",
+    "implicit",
+    "impolitic",
+    "limit",
+    "limo",
+    "limp",
+    "loom",
+    "mill",
+    "mimic",
+    "mitt",
+    "moil",
+    "moll",
+    "molt",
+    "moot",
+    "motto",
+    "omit",
+    "pimp",
+    "pomp",
+    "pompom",
+    "tomtit"
+  ],
+  "id": 1540094400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

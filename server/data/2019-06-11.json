@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "June 11, 2019",
+  "printDate": "2019-06-11",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "d",
+    "g",
+    "n",
+    "o",
+    "v"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "d",
+    "g",
+    "n",
+    "o",
+    "v"
+  ],
+  "pangrams": [
+    "vagabond"
+  ],
+  "answers": [
+    "abandon",
+    "adobo",
+    "baba",
+    "baboon",
+    "banana",
+    "band",
+    "bandana",
+    "bandanna",
+    "bang",
+    "baobab",
+    "boba",
+    "bonbon",
+    "bond",
+    "bong",
+    "bongo",
+    "bonobo",
+    "boob",
+    "booboo",
+    "boon",
+    "nabob",
+    "noob",
+    "vagabond"
+  ],
+  "id": 1560225600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

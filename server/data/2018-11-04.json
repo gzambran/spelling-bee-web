@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "November 04, 2018",
+  "printDate": "2018-11-04",
+  "centerLetter": "t",
+  "outerLetters": [
+    "i",
+    "l",
+    "m",
+    "p",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "i",
+    "l",
+    "m",
+    "p",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "multiply"
+  ],
+  "answers": [
+    "itty",
+    "lilt",
+    "limit",
+    "mitt",
+    "multiply",
+    "mutt",
+    "pipit",
+    "pity",
+    "pulpit",
+    "putt",
+    "putty",
+    "till",
+    "tilt",
+    "tippy",
+    "tulip",
+    "tummy",
+    "tumult",
+    "tutti",
+    "tutu",
+    "uplit",
+    "uppity",
+    "uptilt",
+    "utility"
+  ],
+  "id": 1541304000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

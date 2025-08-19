@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "August 14, 2019",
+  "printDate": "2019-08-14",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "m",
+    "n",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "m",
+    "n",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "harmony"
+  ],
+  "answers": [
+    "ahoy",
+    "anyhoo",
+    "hammy",
+    "haram",
+    "harm",
+    "harmony",
+    "harry",
+    "hoar",
+    "hoary",
+    "homonym",
+    "homonymy",
+    "honor",
+    "honorary",
+    "hoorah",
+    "hooray",
+    "hora",
+    "horn",
+    "horny",
+    "horror",
+    "hymn",
+    "mynah",
+    "myrrh",
+    "yahoo",
+    "yoohoo"
+  ],
+  "id": 1565755200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

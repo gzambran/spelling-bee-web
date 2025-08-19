@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "April 05, 2020",
+  "printDate": "2020-04-05",
+  "centerLetter": "e",
+  "outerLetters": [
+    "b",
+    "l",
+    "m",
+    "n",
+    "t",
+    "z"
+  ],
+  "validLetters": [
+    "e",
+    "b",
+    "l",
+    "m",
+    "n",
+    "t",
+    "z"
+  ],
+  "pangrams": [
+    "embezzlement"
+  ],
+  "answers": [
+    "been",
+    "beet",
+    "beetle",
+    "bell",
+    "belle",
+    "bellmen",
+    "belt",
+    "bent",
+    "benzene",
+    "bezel",
+    "element",
+    "embezzle",
+    "embezzlement",
+    "emblem",
+    "entente",
+    "lent",
+    "meet",
+    "melee",
+    "melt",
+    "meme",
+    "mentee",
+    "mete",
+    "mettle",
+    "nene",
+    "nettle",
+    "teem",
+    "teen",
+    "tell",
+    "telnet",
+    "tenement",
+    "tenet",
+    "tent"
+  ],
+  "id": 1586059200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

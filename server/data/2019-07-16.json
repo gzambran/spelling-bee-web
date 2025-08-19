@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "July 16, 2019",
+  "printDate": "2019-07-16",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "k",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "d",
+    "h",
+    "k",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "handbook"
+  ],
+  "answers": [
+    "abandon",
+    "adobo",
+    "baba",
+    "babka",
+    "baboon",
+    "banana",
+    "band",
+    "bandana",
+    "bandanna",
+    "bank",
+    "baobab",
+    "boba",
+    "boho",
+    "bonbon",
+    "bond",
+    "bonk",
+    "bonobo",
+    "boob",
+    "booboo",
+    "boohoo",
+    "book",
+    "boon",
+    "handbook",
+    "hobnob",
+    "hobo",
+    "kabob",
+    "knob",
+    "nabob",
+    "noob"
+  ],
+  "id": 1563249600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

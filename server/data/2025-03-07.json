@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "March 07, 2025",
+  "printDate": "2025-03-07",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "g",
+    "h",
+    "n",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "g",
+    "h",
+    "n",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "mahogany"
+  ],
+  "answers": [
+    "ammo",
+    "among",
+    "gamma",
+    "gamy",
+    "hammy",
+    "hangman",
+    "homogamy",
+    "homonym",
+    "homonymy",
+    "hymn",
+    "magma",
+    "mahogany",
+    "mama",
+    "mamma",
+    "mammon",
+    "manga",
+    "mango",
+    "mangy",
+    "manna",
+    "many",
+    "mayo",
+    "moan",
+    "momma",
+    "mommy",
+    "mono",
+    "monogamy",
+    "mononym",
+    "moon",
+    "moony",
+    "myna",
+    "mynah"
+  ],
+  "id": 1741323600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

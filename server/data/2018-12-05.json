@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "December 05, 2018",
+  "printDate": "2018-12-05",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "c",
+    "k",
+    "r",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "c",
+    "k",
+    "r",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "trackway"
+  ],
+  "answers": [
+    "array",
+    "arty",
+    "away",
+    "awry",
+    "caky",
+    "caraway",
+    "carry",
+    "cartway",
+    "catty",
+    "cracky",
+    "kayak",
+    "racy",
+    "ratty",
+    "tacky",
+    "tarry",
+    "tatty",
+    "trackway",
+    "tray",
+    "wacky",
+    "warty",
+    "wary"
+  ],
+  "id": 1543986000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "May 31, 2019",
+  "printDate": "2019-05-31",
+  "centerLetter": "h",
+  "outerLetters": [
+    "c",
+    "f",
+    "i",
+    "n",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "h",
+    "c",
+    "f",
+    "i",
+    "n",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "honorific"
+  ],
+  "answers": [
+    "chic",
+    "chichi",
+    "chiffon",
+    "chin",
+    "chino",
+    "choir",
+    "chronic",
+    "cinch",
+    "coho",
+    "conch",
+    "cornichon",
+    "finch",
+    "honcho",
+    "honor",
+    "honorific",
+    "hooch",
+    "hoof",
+    "horn",
+    "horrific",
+    "horror",
+    "inch",
+    "rhino",
+    "rich"
+  ],
+  "id": 1559275200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

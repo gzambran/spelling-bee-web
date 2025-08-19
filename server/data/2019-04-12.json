@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "April 12, 2019",
+  "printDate": "2019-04-12",
+  "centerLetter": "l",
+  "outerLetters": [
+    "a",
+    "h",
+    "m",
+    "n",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "l",
+    "a",
+    "h",
+    "m",
+    "n",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "hormonal"
+  ],
+  "answers": [
+    "alarm",
+    "aloha",
+    "amoral",
+    "anal",
+    "halal",
+    "hall",
+    "hallo",
+    "halloo",
+    "halo",
+    "holla",
+    "horal",
+    "hormonal",
+    "lama",
+    "llama",
+    "llano",
+    "loam",
+    "loan",
+    "loll",
+    "loom",
+    "loon",
+    "mall",
+    "mammal",
+    "molar",
+    "moll",
+    "moola",
+    "moolah",
+    "moral",
+    "normal",
+    "oral",
+    "roll"
+  ],
+  "id": 1555041600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

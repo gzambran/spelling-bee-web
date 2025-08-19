@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "June 02, 2019",
+  "printDate": "2019-06-02",
+  "centerLetter": "o",
+  "outerLetters": [
+    "c",
+    "h",
+    "i",
+    "k",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "c",
+    "h",
+    "i",
+    "k",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "hickory"
+  ],
+  "answers": [
+    "chicory",
+    "chock",
+    "choir",
+    "choky",
+    "cocci",
+    "cock",
+    "cocky",
+    "coho",
+    "cook",
+    "cork",
+    "croc",
+    "croci",
+    "crock",
+    "crook",
+    "hickory",
+    "hock",
+    "hooch",
+    "hook",
+    "hooky",
+    "horror",
+    "kook",
+    "kooky",
+    "rock",
+    "rocky",
+    "rococo",
+    "rook",
+    "yoohoo"
+  ],
+  "id": 1559448000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

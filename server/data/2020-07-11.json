@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "July 11, 2020",
+  "printDate": "2020-07-11",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "c",
+    "d",
+    "k",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "c",
+    "d",
+    "k",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "backyard"
+  ],
+  "answers": [
+    "aback",
+    "abbacy",
+    "abracadabra",
+    "baba",
+    "babka",
+    "baby",
+    "back",
+    "backyard",
+    "baddy",
+    "barb",
+    "bard",
+    "bark",
+    "barrack",
+    "brad",
+    "bray",
+    "cabby",
+    "carb",
+    "crab",
+    "crabby",
+    "crybaby",
+    "drab"
+  ],
+  "id": 1594440000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

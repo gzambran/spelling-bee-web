@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "September 09, 2020",
+  "printDate": "2020-09-09",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "f",
+    "i",
+    "l",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "f",
+    "i",
+    "l",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "halfwit"
+  ],
+  "answers": [
+    "faith",
+    "fifth",
+    "filth",
+    "haft",
+    "hail",
+    "halal",
+    "half",
+    "halfwit",
+    "hall",
+    "halt",
+    "hath",
+    "hatha",
+    "hiatal",
+    "hill",
+    "hilt",
+    "lath",
+    "that",
+    "thaw",
+    "tilth",
+    "what",
+    "whiff",
+    "whit",
+    "with",
+    "withal"
+  ],
+  "id": 1599624000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "October 20, 2020",
+  "printDate": "2020-10-20",
+  "centerLetter": "p",
+  "outerLetters": [
+    "a",
+    "c",
+    "e",
+    "f",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "p",
+    "a",
+    "c",
+    "e",
+    "f",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "typeface"
+  ],
+  "answers": [
+    "accept",
+    "apace",
+    "cape",
+    "epee",
+    "pace",
+    "pact",
+    "papa",
+    "papacy",
+    "papaya",
+    "pappy",
+    "pate",
+    "patty",
+    "payee",
+    "peace",
+    "peat",
+    "peaty",
+    "peep",
+    "peppy",
+    "petty",
+    "pfft",
+    "tapa",
+    "tape",
+    "teepee",
+    "tepee",
+    "type",
+    "typeface",
+    "yappy"
+  ],
+  "id": 1603166400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

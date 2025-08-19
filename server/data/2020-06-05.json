@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "June 05, 2020",
+  "printDate": "2020-06-05",
+  "centerLetter": "o",
+  "outerLetters": [
+    "b",
+    "c",
+    "h",
+    "i",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "b",
+    "c",
+    "h",
+    "i",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "choirboy"
+  ],
+  "answers": [
+    "boho",
+    "boob",
+    "booboo",
+    "booby",
+    "boohoo",
+    "boor",
+    "boric",
+    "brio",
+    "brooch",
+    "chicory",
+    "choir",
+    "choirboy",
+    "cocci",
+    "coho",
+    "croc",
+    "croci",
+    "hobby",
+    "hobo",
+    "hooch",
+    "horror",
+    "rococo",
+    "yoohoo"
+  ],
+  "id": 1591329600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

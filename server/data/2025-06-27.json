@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "June 27, 2025",
+  "printDate": "2025-06-27",
+  "centerLetter": "m",
+  "outerLetters": [
+    "c",
+    "d",
+    "e",
+    "g",
+    "i",
+    "k"
+  ],
+  "validLetters": [
+    "m",
+    "c",
+    "d",
+    "e",
+    "g",
+    "i",
+    "k"
+  ],
+  "pangrams": [
+    "gimmicked"
+  ],
+  "answers": [
+    "deem",
+    "deemed",
+    "dime",
+    "dimmed",
+    "emcee",
+    "emceed",
+    "gimme",
+    "gimmick",
+    "gimmicked",
+    "medic",
+    "meek",
+    "meme",
+    "memed",
+    "mice",
+    "midge",
+    "midi",
+    "mike",
+    "miked",
+    "mime",
+    "mimed",
+    "mimic",
+    "mimicked"
+  ],
+  "id": 1750996800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

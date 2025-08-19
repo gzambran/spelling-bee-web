@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "December 25, 2020",
+  "printDate": "2020-12-25",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "d",
+    "i",
+    "n",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "d",
+    "i",
+    "n",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "nondairy",
+    "ordinary"
+  ],
+  "answers": [
+    "airy",
+    "annoy",
+    "array",
+    "arroyo",
+    "daddy",
+    "dairy",
+    "dandy",
+    "diary",
+    "dooryard",
+    "dory",
+    "dray",
+    "dryad",
+    "dyad",
+    "irony",
+    "nanny",
+    "nary",
+    "ninny",
+    "nondairy",
+    "noonday",
+    "oniony",
+    "ordinary",
+    "rainy",
+    "randy",
+    "rayon",
+    "yard",
+    "yarn",
+    "yond"
+  ],
+  "id": 1608872400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

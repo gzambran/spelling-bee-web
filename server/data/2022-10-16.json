@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "October 16, 2022",
+  "printDate": "2022-10-16",
+  "centerLetter": "z",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "z",
+    "a",
+    "g",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "analogizing",
+    "gazillion"
+  ],
+  "answers": [
+    "agonizing",
+    "analogizing",
+    "gazillion",
+    "gazing",
+    "glazing",
+    "gonzo",
+    "ionizing",
+    "lazing",
+    "lionizing",
+    "oozing",
+    "zagging",
+    "zigging",
+    "zigzag",
+    "zigzagging",
+    "zillion",
+    "zing",
+    "zinging",
+    "zinnia",
+    "zonal",
+    "zoning"
+  ],
+  "id": 1665892800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

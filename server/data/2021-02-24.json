@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "February 24, 2021",
+  "printDate": "2021-02-24",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "r"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "r"
+  ],
+  "pangrams": [
+    "anarchical"
+  ],
+  "answers": [
+    "anarchic",
+    "anarchical",
+    "arch",
+    "archaic",
+    "chai",
+    "chain",
+    "chair",
+    "challah",
+    "char",
+    "chia",
+    "chic",
+    "chica",
+    "chichi",
+    "chili",
+    "chill",
+    "chin",
+    "china",
+    "chinchilla",
+    "cinch",
+    "clinch",
+    "hail",
+    "hair",
+    "halal",
+    "hall",
+    "hill",
+    "inch",
+    "larch",
+    "ranch",
+    "rich"
+  ],
+  "id": 1614142800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

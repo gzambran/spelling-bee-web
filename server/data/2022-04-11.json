@@ -1,0 +1,51 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "April 11, 2022",
+  "printDate": "2022-04-11",
+  "centerLetter": "o",
+  "outerLetters": [
+    "b",
+    "d",
+    "r",
+    "u",
+    "w",
+    "z"
+  ],
+  "validLetters": [
+    "o",
+    "b",
+    "d",
+    "r",
+    "u",
+    "w",
+    "z"
+  ],
+  "pangrams": [
+    "buzzword"
+  ],
+  "answers": [
+    "boob",
+    "booboo",
+    "boor",
+    "borrow",
+    "bowwow",
+    "bozo",
+    "brood",
+    "brow",
+    "burro",
+    "burrow",
+    "buzzword",
+    "dodo",
+    "door",
+    "dour",
+    "odor",
+    "orzo",
+    "ouzo",
+    "rood",
+    "wood",
+    "word"
+  ],
+  "id": 1649649600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "September 06, 2018",
+  "printDate": "2018-09-06",
+  "centerLetter": "d",
+  "outerLetters": [
+    "h",
+    "i",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "d",
+    "h",
+    "i",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "thyroid"
+  ],
+  "answers": [
+    "dirt",
+    "dirty",
+    "ditto",
+    "ditty",
+    "dodo",
+    "door",
+    "dory",
+    "doth",
+    "dotty",
+    "droid",
+    "hood",
+    "hoodoo",
+    "horrid",
+    "hydro",
+    "hyoid",
+    "idiot",
+    "oddity",
+    "odor",
+    "rood",
+    "third",
+    "thyroid",
+    "tidy",
+    "toddy",
+    "toroid",
+    "torrid",
+    "torridity",
+    "trod"
+  ],
+  "id": 1536206400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

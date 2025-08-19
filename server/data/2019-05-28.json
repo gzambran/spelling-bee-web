@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "May 28, 2019",
+  "printDate": "2019-05-28",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "b",
+    "l",
+    "m",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "b",
+    "l",
+    "m",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "ambulant"
+  ],
+  "answers": [
+    "alumna",
+    "ambulant",
+    "anal",
+    "annual",
+    "annul",
+    "aunt",
+    "autumn",
+    "autumnal",
+    "banal",
+    "banana",
+    "bantam",
+    "blatant",
+    "blunt",
+    "bunt",
+    "luna",
+    "lunula",
+    "manna",
+    "manta",
+    "manual",
+    "mutant",
+    "naan",
+    "nana",
+    "natal",
+    "natant",
+    "null",
+    "numb",
+    "tantalum",
+    "taunt",
+    "tuna",
+    "ulna",
+    "unban",
+    "unman"
+  ],
+  "id": 1559016000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

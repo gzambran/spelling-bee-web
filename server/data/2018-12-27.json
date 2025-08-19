@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "December 27, 2018",
+  "printDate": "2018-12-27",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "c",
+    "h",
+    "m",
+    "p",
+    "r"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "c",
+    "h",
+    "m",
+    "p",
+    "r"
+  ],
+  "pangrams": [
+    "pharmacy"
+  ],
+  "answers": [
+    "achy",
+    "army",
+    "array",
+    "campy",
+    "carry",
+    "chary",
+    "crampy",
+    "crappy",
+    "hammy",
+    "happy",
+    "harpy",
+    "harry",
+    "mammary",
+    "mammy",
+    "marry",
+    "myrrh",
+    "papacy",
+    "papaya",
+    "pappy",
+    "parry",
+    "pharmacy",
+    "pray",
+    "racy",
+    "yappy"
+  ],
+  "id": 1545886800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

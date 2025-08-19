@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "September 22, 2018",
+  "printDate": "2018-09-22",
+  "centerLetter": "n",
+  "outerLetters": [
+    "b",
+    "e",
+    "h",
+    "o",
+    "p",
+    "x"
+  ],
+  "validLetters": [
+    "n",
+    "b",
+    "e",
+    "h",
+    "o",
+    "p",
+    "x"
+  ],
+  "pangrams": [
+    "xenophobe"
+  ],
+  "answers": [
+    "been",
+    "bonbon",
+    "bone",
+    "bonobo",
+    "boon",
+    "ebon",
+    "hobnob",
+    "hone",
+    "nene",
+    "neon",
+    "none",
+    "noob",
+    "noon",
+    "nope",
+    "open",
+    "oxen",
+    "peen",
+    "penne",
+    "peon",
+    "phone",
+    "phono",
+    "pone",
+    "xenon",
+    "xenophobe"
+  ],
+  "id": 1537588800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

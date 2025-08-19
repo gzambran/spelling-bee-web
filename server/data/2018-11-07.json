@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "November 07, 2018",
+  "printDate": "2018-11-07",
+  "centerLetter": "u",
+  "outerLetters": [
+    "g",
+    "h",
+    "o",
+    "r",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "u",
+    "g",
+    "h",
+    "o",
+    "r",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "wrought",
+    "outgrowth"
+  ],
+  "answers": [
+    "gout",
+    "grout",
+    "guru",
+    "hour",
+    "hurt",
+    "ought",
+    "outgo",
+    "outgrow",
+    "outgrowth",
+    "outro",
+    "outthought",
+    "rotgut",
+    "rough",
+    "rout",
+    "thorough",
+    "thou",
+    "though",
+    "thought",
+    "through",
+    "throughout",
+    "thug",
+    "tough",
+    "tour",
+    "tout",
+    "trough",
+    "trout",
+    "truth",
+    "tutor",
+    "tutu",
+    "wrought"
+  ],
+  "id": 1541566800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

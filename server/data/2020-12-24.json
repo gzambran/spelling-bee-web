@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "December 24, 2020",
+  "printDate": "2020-12-24",
+  "centerLetter": "e",
+  "outerLetters": [
+    "c",
+    "h",
+    "n",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "e",
+    "c",
+    "h",
+    "n",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "chutney"
+  ],
+  "answers": [
+    "cent",
+    "chute",
+    "chutney",
+    "cute",
+    "cutey",
+    "entente",
+    "etch",
+    "eunuch",
+    "eyeteeth",
+    "hence",
+    "nene",
+    "netty",
+    "tech",
+    "techy",
+    "teen",
+    "teeny",
+    "teeth",
+    "teethe",
+    "tenet",
+    "tent",
+    "tenth",
+    "tetchy",
+    "thee",
+    "then",
+    "thence",
+    "they",
+    "tune",
+    "tutee",
+    "untune",
+    "yecch",
+    "yech",
+    "yente"
+  ],
+  "id": 1608786000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

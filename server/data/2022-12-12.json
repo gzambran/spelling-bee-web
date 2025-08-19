@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "December 12, 2022",
+  "printDate": "2022-12-12",
+  "centerLetter": "g",
+  "outerLetters": [
+    "e",
+    "h",
+    "i",
+    "l",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "g",
+    "e",
+    "h",
+    "i",
+    "l",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "lightweight"
+  ],
+  "answers": [
+    "eight",
+    "eighth",
+    "eightieth",
+    "gelee",
+    "gelt",
+    "ghee",
+    "giggle",
+    "gill",
+    "gilt",
+    "glee",
+    "height",
+    "high",
+    "highlight",
+    "legit",
+    "liege",
+    "light",
+    "lightweight",
+    "thigh",
+    "tight",
+    "twig",
+    "twilight",
+    "weigh",
+    "weight",
+    "wiggle",
+    "wight"
+  ],
+  "id": 1670821200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "November 30, 2022",
+  "printDate": "2022-11-30",
+  "centerLetter": "d",
+  "outerLetters": [
+    "a",
+    "i",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "d",
+    "a",
+    "i",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "additional",
+    "dilation"
+  ],
+  "answers": [
+    "addition",
+    "additional",
+    "data",
+    "dial",
+    "dilation",
+    "dildo",
+    "dill",
+    "dino",
+    "dint",
+    "ditto",
+    "dodo",
+    "doll",
+    "dolt",
+    "donation",
+    "doodad",
+    "idiot",
+    "idol",
+    "inlaid",
+    "inland",
+    "laid",
+    "land",
+    "load",
+    "nada",
+    "naiad",
+    "nodal",
+    "tidal",
+    "toad",
+    "told"
+  ],
+  "id": 1669784400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

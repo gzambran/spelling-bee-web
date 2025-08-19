@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "April 03, 2022",
+  "printDate": "2022-04-03",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "e",
+    "g",
+    "h",
+    "o",
+    "p"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "e",
+    "g",
+    "h",
+    "o",
+    "p"
+  ],
+  "pangrams": [
+    "homepage"
+  ],
+  "answers": [
+    "ahem",
+    "ammo",
+    "game",
+    "gamma",
+    "heme",
+    "hemp",
+    "homage",
+    "home",
+    "homepage",
+    "mage",
+    "magma",
+    "mama",
+    "mamma",
+    "mega",
+    "meme",
+    "memo",
+    "momma",
+    "mope",
+    "omega",
+    "oompah",
+    "oomph",
+    "pampa",
+    "poem",
+    "pome",
+    "pomp",
+    "pompom"
+  ],
+  "id": 1648958400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

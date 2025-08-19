@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "March 07, 2019",
+  "printDate": "2019-03-07",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "i",
+    "n",
+    "p"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "d",
+    "h",
+    "i",
+    "n",
+    "p"
+  ],
+  "pangrams": [
+    "handicap"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "cancan",
+    "candid",
+    "canid",
+    "chad",
+    "chai",
+    "chain",
+    "chap",
+    "chia",
+    "chic",
+    "chica",
+    "chichi",
+    "chin",
+    "china",
+    "chip",
+    "cicada",
+    "cinch",
+    "dacha",
+    "handicap",
+    "inch",
+    "niacin",
+    "panic",
+    "pica",
+    "picnic",
+    "pinch"
+  ],
+  "id": 1551934800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

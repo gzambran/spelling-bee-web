@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "December 01, 2020",
+  "printDate": "2020-12-01",
+  "centerLetter": "t",
+  "outerLetters": [
+    "b",
+    "i",
+    "l",
+    "m",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "b",
+    "i",
+    "l",
+    "m",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "immobility",
+    "mobility"
+  ],
+  "answers": [
+    "blot",
+    "blotto",
+    "bolt",
+    "boot",
+    "booty",
+    "bottom",
+    "immobility",
+    "itty",
+    "lilt",
+    "limit",
+    "lobotomy",
+    "loot",
+    "lotto",
+    "mitt",
+    "mobility",
+    "molt",
+    "moot",
+    "motility",
+    "motto",
+    "obit",
+    "omit",
+    "till",
+    "tilt",
+    "toil",
+    "toll",
+    "tomb",
+    "tomboy",
+    "tomtit",
+    "tool",
+    "toot"
+  ],
+  "id": 1606798800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

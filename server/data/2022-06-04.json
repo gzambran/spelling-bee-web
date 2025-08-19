@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "June 04, 2022",
+  "printDate": "2022-06-04",
+  "centerLetter": "g",
+  "outerLetters": [
+    "c",
+    "e",
+    "h",
+    "i",
+    "n",
+    "w"
+  ],
+  "validLetters": [
+    "g",
+    "c",
+    "e",
+    "h",
+    "i",
+    "n",
+    "w"
+  ],
+  "pangrams": [
+    "chewing"
+  ],
+  "answers": [
+    "chewing",
+    "chinning",
+    "cinching",
+    "egging",
+    "engine",
+    "gene",
+    "genie",
+    "genii",
+    "ghee",
+    "gigging",
+    "ginning",
+    "henge",
+    "hewing",
+    "hieing",
+    "high",
+    "hinge",
+    "hinging",
+    "icing",
+    "inching",
+    "inning",
+    "neigh",
+    "neighing",
+    "nigh",
+    "weigh",
+    "weighing",
+    "whining",
+    "wigging",
+    "wincing",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "id": 1654315200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

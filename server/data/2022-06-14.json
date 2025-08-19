@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "June 14, 2022",
+  "printDate": "2022-06-14",
+  "centerLetter": "p",
+  "outerLetters": [
+    "i",
+    "l",
+    "m",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "p",
+    "i",
+    "l",
+    "m",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "multiply"
+  ],
+  "answers": [
+    "imply",
+    "limp",
+    "limply",
+    "lippy",
+    "lump",
+    "lumpy",
+    "multiply",
+    "pill",
+    "pimp",
+    "pimply",
+    "pipit",
+    "pity",
+    "plum",
+    "plump",
+    "plumply",
+    "puli",
+    "pull",
+    "pulp",
+    "pulpit",
+    "pulpy",
+    "pump",
+    "pupil",
+    "puppy",
+    "putt",
+    "putty",
+    "tippy",
+    "tulip",
+    "uplit",
+    "uppity",
+    "uptilt"
+  ],
+  "id": 1655179200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

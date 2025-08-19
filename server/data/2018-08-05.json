@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "August 05, 2018",
+  "printDate": "2018-08-05",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "c",
+    "m",
+    "n",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "c",
+    "m",
+    "n",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "watchman"
+  ],
+  "answers": [
+    "attach",
+    "catch",
+    "chant",
+    "chat",
+    "chaw",
+    "hatch",
+    "hath",
+    "mahatma",
+    "manhattan",
+    "match",
+    "matcha",
+    "math",
+    "natch",
+    "than",
+    "that",
+    "thatch",
+    "thaw",
+    "watch",
+    "watchman",
+    "wham",
+    "what"
+  ],
+  "id": 1533441600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

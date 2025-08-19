@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "August 27, 2021",
+  "printDate": "2021-08-27",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "g",
+    "h",
+    "m",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "g",
+    "h",
+    "m",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "mahogany"
+  ],
+  "answers": [
+    "agony",
+    "ahoy",
+    "annoy",
+    "anyhoo",
+    "gamy",
+    "goony",
+    "hammy",
+    "hoagy",
+    "homogamy",
+    "homonym",
+    "homonymy",
+    "hymn",
+    "mahogany",
+    "mangy",
+    "many",
+    "mayo",
+    "mommy",
+    "monogamy",
+    "mononym",
+    "moony",
+    "myna",
+    "mynah",
+    "naggy",
+    "nanny",
+    "yahoo",
+    "yang",
+    "yoga",
+    "yoohoo"
+  ],
+  "id": 1630036800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

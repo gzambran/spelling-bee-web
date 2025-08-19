@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "October 15, 2021",
+  "printDate": "2021-10-15",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "c",
+    "d",
+    "i",
+    "n",
+    "r"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "c",
+    "d",
+    "i",
+    "n",
+    "r"
+  ],
+  "pangrams": [
+    "arachnid"
+  ],
+  "answers": [
+    "anarchic",
+    "arachnid",
+    "arch",
+    "archaic",
+    "chad",
+    "chai",
+    "chain",
+    "chair",
+    "char",
+    "chard",
+    "chia",
+    "chic",
+    "chica",
+    "chichi",
+    "chin",
+    "china",
+    "cinch",
+    "dacha",
+    "hair",
+    "hand",
+    "hard",
+    "harridan",
+    "hind",
+    "inch",
+    "ranch",
+    "rich"
+  ],
+  "id": 1634270400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

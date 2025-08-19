@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "April 28, 2022",
+  "printDate": "2022-04-28",
+  "centerLetter": "a",
+  "outerLetters": [
+    "k",
+    "l",
+    "o",
+    "t",
+    "u",
+    "w"
+  ],
+  "validLetters": [
+    "a",
+    "k",
+    "l",
+    "o",
+    "t",
+    "u",
+    "w"
+  ],
+  "pangrams": [
+    "walkout"
+  ],
+  "answers": [
+    "allot",
+    "allow",
+    "alto",
+    "atoll",
+    "auto",
+    "koala",
+    "kola",
+    "luau",
+    "outlaw",
+    "outtalk",
+    "talk",
+    "tall",
+    "tallow",
+    "tattoo",
+    "taut",
+    "total",
+    "walk",
+    "walkout",
+    "wall",
+    "wallow",
+    "watt",
+    "waul"
+  ],
+  "id": 1651118400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

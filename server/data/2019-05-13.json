@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "May 13, 2019",
+  "printDate": "2019-05-13",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "b",
+    "e",
+    "g",
+    "m",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "b",
+    "e",
+    "g",
+    "m",
+    "y"
+  ],
+  "pangrams": [
+    "megabyte"
+  ],
+  "answers": [
+    "abate",
+    "abet",
+    "agate",
+    "bate",
+    "batty",
+    "beat",
+    "beet",
+    "begat",
+    "beget",
+    "beta",
+    "byte",
+    "etyma",
+    "gamete",
+    "gate",
+    "mate",
+    "matey",
+    "matte",
+    "meat",
+    "meaty",
+    "meet",
+    "megabyte",
+    "meta",
+    "mete",
+    "tabby",
+    "tame",
+    "tatty",
+    "teabag",
+    "team",
+    "teammate",
+    "teat",
+    "teem"
+  ],
+  "id": 1557720000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "October 05, 2020",
+  "printDate": "2020-10-05",
+  "centerLetter": "g",
+  "outerLetters": [
+    "d",
+    "e",
+    "h",
+    "l",
+    "n",
+    "t"
+  ],
+  "validLetters": [
+    "g",
+    "d",
+    "e",
+    "h",
+    "l",
+    "n",
+    "t"
+  ],
+  "pangrams": [
+    "lengthened"
+  ],
+  "answers": [
+    "edge",
+    "edged",
+    "egged",
+    "geld",
+    "gelded",
+    "gelee",
+    "gelled",
+    "gelt",
+    "gene",
+    "gent",
+    "genteel",
+    "gentle",
+    "gentled",
+    "ghee",
+    "glee",
+    "glen",
+    "hedge",
+    "hedged",
+    "henge",
+    "ledge",
+    "legend",
+    "legged",
+    "length",
+    "lengthen",
+    "lengthened"
+  ],
+  "id": 1601870400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

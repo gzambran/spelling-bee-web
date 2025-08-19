@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "November 12, 2021",
+  "printDate": "2021-11-12",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "j",
+    "l",
+    "m",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "j",
+    "l",
+    "m",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "majorly"
+  ],
+  "answers": [
+    "allay",
+    "alloy",
+    "ally",
+    "amorally",
+    "amyl",
+    "armory",
+    "army",
+    "array",
+    "arroyo",
+    "jolly",
+    "loamy",
+    "lorry",
+    "loyal",
+    "loyally",
+    "majorly",
+    "mammary",
+    "marry",
+    "mayo",
+    "mayor",
+    "mayoral",
+    "molly",
+    "mommy",
+    "morally",
+    "moray",
+    "orally",
+    "rally",
+    "roomy",
+    "royal",
+    "royally"
+  ],
+  "id": 1636693200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

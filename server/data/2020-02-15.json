@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "February 15, 2020",
+  "printDate": "2020-02-15",
+  "centerLetter": "o",
+  "outerLetters": [
+    "d",
+    "n",
+    "p",
+    "r",
+    "u",
+    "w"
+  ],
+  "validLetters": [
+    "o",
+    "d",
+    "n",
+    "p",
+    "r",
+    "u",
+    "w"
+  ],
+  "pangrams": [
+    "downpour"
+  ],
+  "answers": [
+    "donor",
+    "down",
+    "downpour",
+    "drown",
+    "dunno",
+    "nonword",
+    "noon",
+    "noun",
+    "pond",
+    "porn",
+    "porno",
+    "pound",
+    "pronoun",
+    "propound",
+    "rondo",
+    "round",
+    "roundup",
+    "rundown",
+    "udon",
+    "undo",
+    "unwon",
+    "unworn",
+    "unwound",
+    "upon",
+    "worn",
+    "wound"
+  ],
+  "id": 1581742800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

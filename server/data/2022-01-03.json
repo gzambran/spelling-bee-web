@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "January 03, 2022",
+  "printDate": "2022-01-03",
+  "centerLetter": "t",
+  "outerLetters": [
+    "f",
+    "i",
+    "m",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "f",
+    "i",
+    "m",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "mortify"
+  ],
+  "answers": [
+    "fifty",
+    "foot",
+    "fort",
+    "fortify",
+    "forty",
+    "itty",
+    "mitt",
+    "moot",
+    "mortify",
+    "motif",
+    "motor",
+    "motto",
+    "omit",
+    "rift",
+    "riot",
+    "root",
+    "roti",
+    "rotor",
+    "tiff",
+    "tommyrot",
+    "tomtit",
+    "toot",
+    "tori",
+    "torii",
+    "toro",
+    "tort",
+    "trim",
+    "trio",
+    "trot",
+    "troy",
+    "tyro"
+  ],
+  "id": 1641186000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

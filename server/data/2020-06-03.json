@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "June 03, 2020",
+  "printDate": "2020-06-03",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "g",
+    "h",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "g",
+    "h",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "naughty"
+  ],
+  "answers": [
+    "aunt",
+    "aunty",
+    "gang",
+    "gaunt",
+    "gnat",
+    "hang",
+    "haunt",
+    "hung",
+    "hunt",
+    "naan",
+    "naggy",
+    "nana",
+    "nanny",
+    "natant",
+    "natty",
+    "naught",
+    "naughty",
+    "nutty",
+    "tang",
+    "tangy",
+    "taunt",
+    "than",
+    "tuna",
+    "ungag",
+    "unhang",
+    "unhat",
+    "unhung",
+    "untag",
+    "untaught",
+    "yang",
+    "yuan"
+  ],
+  "id": 1591156800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

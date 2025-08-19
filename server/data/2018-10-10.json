@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "October 10, 2018",
+  "printDate": "2018-10-10",
+  "centerLetter": "y",
+  "outerLetters": [
+    "c",
+    "e",
+    "n",
+    "o",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "y",
+    "c",
+    "e",
+    "n",
+    "o",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "potency"
+  ],
+  "answers": [
+    "copy",
+    "cottony",
+    "coyote",
+    "ecotype",
+    "ectype",
+    "netty",
+    "oocyte",
+    "opponency",
+    "penny",
+    "peony",
+    "peppy",
+    "petty",
+    "peyote",
+    "pony",
+    "poppy",
+    "potency",
+    "potty",
+    "teeny",
+    "tony",
+    "tycoon",
+    "type",
+    "typo",
+    "yente"
+  ],
+  "id": 1539144000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

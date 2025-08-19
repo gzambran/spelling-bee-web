@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "May 30, 2021",
+  "printDate": "2021-05-30",
+  "centerLetter": "b",
+  "outerLetters": [
+    "e",
+    "h",
+    "i",
+    "l",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "b",
+    "e",
+    "h",
+    "i",
+    "l",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "blithely"
+  ],
+  "answers": [
+    "beet",
+    "beetle",
+    "belie",
+    "belittle",
+    "bell",
+    "belle",
+    "belly",
+    "belt",
+    "betel",
+    "bible",
+    "bile",
+    "bill",
+    "billet",
+    "billy",
+    "bite",
+    "blithe",
+    "blithely",
+    "byte",
+    "hillbilly",
+    "libel",
+    "libelee"
+  ],
+  "id": 1622347200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

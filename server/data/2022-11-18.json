@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "November 18, 2022",
+  "printDate": "2022-11-18",
+  "centerLetter": "r",
+  "outerLetters": [
+    "c",
+    "i",
+    "l",
+    "n",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "c",
+    "i",
+    "l",
+    "n",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "cornily"
+  ],
+  "answers": [
+    "cirri",
+    "coir",
+    "color",
+    "corn",
+    "cornily",
+    "corny",
+    "croc",
+    "croci",
+    "crony",
+    "croon",
+    "cryonic",
+    "iron",
+    "ironic",
+    "irony",
+    "lorry",
+    "lyric",
+    "noir",
+    "nori",
+    "ricin",
+    "rill",
+    "rococo",
+    "roil",
+    "roll"
+  ],
+  "id": 1668747600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

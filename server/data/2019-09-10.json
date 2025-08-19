@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "September 10, 2019",
+  "printDate": "2019-09-10",
+  "centerLetter": "c",
+  "outerLetters": [
+    "e",
+    "l",
+    "m",
+    "o",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "c",
+    "e",
+    "l",
+    "m",
+    "o",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "complete"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "clomp",
+    "clop",
+    "clot",
+    "collect",
+    "collet",
+    "colt",
+    "come",
+    "comet",
+    "comp",
+    "compel",
+    "compete",
+    "complete",
+    "compote",
+    "cool",
+    "coop",
+    "coopt",
+    "coot",
+    "cope",
+    "cote",
+    "elect",
+    "electee",
+    "emcee",
+    "loco",
+    "locomote",
+    "ocelot",
+    "octet",
+    "telecom"
+  ],
+  "id": 1568088000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

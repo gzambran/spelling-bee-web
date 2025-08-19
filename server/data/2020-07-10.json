@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "July 10, 2020",
+  "printDate": "2020-07-10",
+  "centerLetter": "a",
+  "outerLetters": [
+    "c",
+    "i",
+    "p",
+    "r",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "c",
+    "i",
+    "p",
+    "r",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "privacy"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "airy",
+    "apiary",
+    "aria",
+    "array",
+    "aviary",
+    "carp",
+    "carpi",
+    "carry",
+    "cava",
+    "caviar",
+    "circa",
+    "crap",
+    "crappy",
+    "pair",
+    "papa",
+    "papacy",
+    "papaya",
+    "pappy",
+    "papyri",
+    "parry",
+    "pica",
+    "piracy",
+    "pray",
+    "priapic",
+    "privacy",
+    "racy",
+    "vary",
+    "vicar",
+    "yappy"
+  ],
+  "id": 1594353600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

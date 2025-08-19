@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "December 20, 2020",
+  "printDate": "2020-12-20",
+  "centerLetter": "i",
+  "outerLetters": [
+    "e",
+    "g",
+    "h",
+    "l",
+    "o",
+    "p"
+  ],
+  "validLetters": [
+    "i",
+    "e",
+    "g",
+    "h",
+    "l",
+    "o",
+    "p"
+  ],
+  "pangrams": [
+    "logophile"
+  ],
+  "answers": [
+    "epilog",
+    "giggle",
+    "gigolo",
+    "gill",
+    "high",
+    "hill",
+    "hippie",
+    "hippo",
+    "igloo",
+    "liege",
+    "lipo",
+    "logophile",
+    "lollipop",
+    "olio",
+    "ollie",
+    "piehole",
+    "pile",
+    "pill",
+    "pipe",
+    "plie",
+    "polio"
+  ],
+  "id": 1608440400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

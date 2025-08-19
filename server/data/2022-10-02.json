@@ -1,0 +1,48 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "October 02, 2022",
+  "printDate": "2022-10-02",
+  "centerLetter": "p",
+  "outerLetters": [
+    "c",
+    "e",
+    "g",
+    "n",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "p",
+    "c",
+    "e",
+    "g",
+    "n",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "pungency"
+  ],
+  "answers": [
+    "eggcup",
+    "epee",
+    "eyecup",
+    "guppy",
+    "peen",
+    "peep",
+    "pence",
+    "penne",
+    "penny",
+    "peppy",
+    "puce",
+    "pungency",
+    "punny",
+    "puny",
+    "puppy",
+    "unpeg",
+    "unpen"
+  ],
+  "id": 1664683200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

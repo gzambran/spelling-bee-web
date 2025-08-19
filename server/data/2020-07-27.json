@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "July 27, 2020",
+  "printDate": "2020-07-27",
+  "centerLetter": "t",
+  "outerLetters": [
+    "b",
+    "i",
+    "k",
+    "l",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "t",
+    "b",
+    "i",
+    "k",
+    "l",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "inkblot"
+  ],
+  "answers": [
+    "biotin",
+    "blot",
+    "blotto",
+    "bolt",
+    "bonito",
+    "boot",
+    "inkblot",
+    "into",
+    "kilobit",
+    "kiloton",
+    "kilt",
+    "knit",
+    "knot",
+    "lilt",
+    "lint",
+    "loot",
+    "lotion",
+    "lotto",
+    "notion",
+    "obit",
+    "onto",
+    "tiki",
+    "till",
+    "tilt",
+    "tint",
+    "toil",
+    "toll",
+    "took",
+    "tool",
+    "toolkit",
+    "toon",
+    "toot"
+  ],
+  "id": 1595822400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

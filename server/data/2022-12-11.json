@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "December 11, 2022",
+  "printDate": "2022-12-11",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "m",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "d",
+    "h",
+    "m",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "womanhood"
+  ],
+  "answers": [
+    "adman",
+    "adwoman",
+    "anon",
+    "damn",
+    "dawn",
+    "down",
+    "hand",
+    "madman",
+    "madwoman",
+    "mammon",
+    "manhood",
+    "manna",
+    "moan",
+    "monad",
+    "mondo",
+    "mono",
+    "moon",
+    "mown",
+    "naan",
+    "nada",
+    "nana",
+    "nohow",
+    "nomad",
+    "noon",
+    "wand",
+    "wanna",
+    "woman",
+    "womanhood"
+  ],
+  "id": 1670734800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

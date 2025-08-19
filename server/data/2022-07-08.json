@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "July 08, 2022",
+  "printDate": "2022-07-08",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "l",
+    "n",
+    "z"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "g",
+    "i",
+    "l",
+    "n",
+    "z"
+  ],
+  "pangrams": [
+    "analyzing"
+  ],
+  "answers": [
+    "allay",
+    "allaying",
+    "ally",
+    "allying",
+    "anally",
+    "analyzing",
+    "gaily",
+    "gainly",
+    "gangly",
+    "gayly",
+    "giggly",
+    "glazy",
+    "illy",
+    "inlay",
+    "inlaying",
+    "laggy",
+    "lallygag",
+    "lallygagging",
+    "laying",
+    "lazily",
+    "lazy",
+    "lily",
+    "lying",
+    "naggy",
+    "nanny",
+    "nannying",
+    "ninny",
+    "yang",
+    "zanily",
+    "zany",
+    "zigzaggy",
+    "zingy"
+  ],
+  "id": 1657252800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

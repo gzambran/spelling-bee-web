@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "April 15, 2021",
+  "printDate": "2021-04-15",
+  "centerLetter": "i",
+  "outerLetters": [
+    "d",
+    "g",
+    "n",
+    "o",
+    "x",
+    "z"
+  ],
+  "validLetters": [
+    "i",
+    "d",
+    "g",
+    "n",
+    "o",
+    "x",
+    "z"
+  ],
+  "pangrams": [
+    "oxidizing"
+  ],
+  "answers": [
+    "digging",
+    "ding",
+    "dinging",
+    "dingo",
+    "dining",
+    "dino",
+    "dodging",
+    "dogging",
+    "doing",
+    "donning",
+    "doxing",
+    "doxxing",
+    "dozing",
+    "ginning",
+    "going",
+    "indigo",
+    "inning",
+    "iodizing",
+    "ionizing",
+    "nixing",
+    "nodding",
+    "noggin",
+    "noodging",
+    "ongoing",
+    "onion",
+    "oozing",
+    "oxidizing",
+    "zigging",
+    "zing",
+    "zinging",
+    "zoning"
+  ],
+  "id": 1618459200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

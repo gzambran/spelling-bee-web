@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "February 03, 2022",
+  "printDate": "2022-02-03",
+  "centerLetter": "a",
+  "outerLetters": [
+    "c",
+    "h",
+    "n",
+    "o",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "c",
+    "h",
+    "n",
+    "o",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "anchovy"
+  ],
+  "answers": [
+    "achoo",
+    "achy",
+    "ahoy",
+    "ancho",
+    "anchovy",
+    "annoy",
+    "anon",
+    "anyhoo",
+    "cacao",
+    "cancan",
+    "canna",
+    "cannon",
+    "canny",
+    "canon",
+    "canyon",
+    "cava",
+    "chancy",
+    "coach",
+    "coca",
+    "cocoa",
+    "cyan",
+    "havoc",
+    "naan",
+    "nacho",
+    "nana",
+    "nanny",
+    "navy",
+    "nova",
+    "vacancy",
+    "yahoo"
+  ],
+  "id": 1643864400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

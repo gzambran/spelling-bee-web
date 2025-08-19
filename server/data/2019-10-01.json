@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "October 01, 2019",
+  "printDate": "2019-10-01",
+  "centerLetter": "h",
+  "outerLetters": [
+    "c",
+    "m",
+    "n",
+    "o",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "h",
+    "c",
+    "m",
+    "n",
+    "o",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "cottonmouth"
+  ],
+  "answers": [
+    "chum",
+    "coho",
+    "conch",
+    "cottonmouth",
+    "couch",
+    "couth",
+    "honcho",
+    "hooch",
+    "hoot",
+    "hootch",
+    "hunch",
+    "hunt",
+    "hutch",
+    "month",
+    "mooch",
+    "moth",
+    "mouth",
+    "much",
+    "mucho",
+    "munch",
+    "notch",
+    "ouch",
+    "thou",
+    "tooth",
+    "touch",
+    "uncouth"
+  ],
+  "id": 1569902400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

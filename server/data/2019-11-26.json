@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "November 26, 2019",
+  "printDate": "2019-11-26",
+  "centerLetter": "a",
+  "outerLetters": [
+    "b",
+    "c",
+    "d",
+    "k",
+    "r",
+    "w"
+  ],
+  "validLetters": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "k",
+    "r",
+    "w"
+  ],
+  "pangrams": [
+    "backward",
+    "drawback"
+  ],
+  "answers": [
+    "abracadabra",
+    "award",
+    "awkward",
+    "backward",
+    "barb",
+    "bard",
+    "bark",
+    "barrack",
+    "brad",
+    "carb",
+    "card",
+    "crab",
+    "crack",
+    "craw",
+    "crawdad",
+    "dark",
+    "drab",
+    "draw",
+    "drawback",
+    "rack",
+    "radar",
+    "ward",
+    "wrack"
+  ],
+  "id": 1574744400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

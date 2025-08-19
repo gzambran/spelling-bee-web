@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "August 28, 2018",
+  "printDate": "2018-08-28",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "h",
+    "l",
+    "m",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "h",
+    "l",
+    "m",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "humanly",
+    "unhumanly"
+  ],
+  "answers": [
+    "alumna",
+    "anal",
+    "anally",
+    "annual",
+    "annually",
+    "annul",
+    "human",
+    "humanly",
+    "hymn",
+    "hymnal",
+    "layman",
+    "luna",
+    "lunula",
+    "manly",
+    "manna",
+    "manual",
+    "manually",
+    "many",
+    "myna",
+    "mynah",
+    "naan",
+    "nana",
+    "nanny",
+    "null",
+    "ulna",
+    "unhuman",
+    "unhumanly",
+    "unman",
+    "unmanly",
+    "yuan"
+  ],
+  "id": 1535428800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

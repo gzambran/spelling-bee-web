@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "July 18, 2019",
+  "printDate": "2019-07-18",
+  "centerLetter": "e",
+  "outerLetters": [
+    "c",
+    "h",
+    "k",
+    "p",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "e",
+    "c",
+    "h",
+    "k",
+    "p",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "ketchup"
+  ],
+  "answers": [
+    "check",
+    "checkup",
+    "cheek",
+    "cheep",
+    "chute",
+    "cuke",
+    "cute",
+    "epee",
+    "etch",
+    "heck",
+    "keep",
+    "kept",
+    "ketch",
+    "ketchup",
+    "peck",
+    "peek",
+    "peep",
+    "peke",
+    "puce",
+    "puke",
+    "puppet",
+    "tech",
+    "teepee",
+    "teeth",
+    "teethe",
+    "tepee",
+    "thee",
+    "tutee",
+    "upkeep"
+  ],
+  "id": 1563422400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

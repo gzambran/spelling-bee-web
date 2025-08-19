@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "March 06, 2020",
+  "printDate": "2020-03-06",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "k",
+    "r",
+    "t",
+    "w",
+    "y"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "k",
+    "r",
+    "t",
+    "w",
+    "y"
+  ],
+  "pangrams": [
+    "trackway"
+  ],
+  "answers": [
+    "attack",
+    "attract",
+    "caky",
+    "carat",
+    "caraway",
+    "carry",
+    "cart",
+    "cataract",
+    "catty",
+    "crack",
+    "cracky",
+    "craw",
+    "rack",
+    "racy",
+    "tack",
+    "tacky",
+    "tact",
+    "track",
+    "trackway",
+    "tract",
+    "wack",
+    "wacky",
+    "wrack"
+  ],
+  "id": 1583470800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

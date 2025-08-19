@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "November 25, 2018",
+  "printDate": "2018-11-25",
+  "centerLetter": "u",
+  "outerLetters": [
+    "d",
+    "g",
+    "m",
+    "o",
+    "p",
+    "r"
+  ],
+  "validLetters": [
+    "u",
+    "d",
+    "g",
+    "m",
+    "o",
+    "p",
+    "r"
+  ],
+  "pangrams": [
+    "gumdrop"
+  ],
+  "answers": [
+    "dour",
+    "drug",
+    "drum",
+    "dumdum",
+    "dump",
+    "durum",
+    "gourd",
+    "group",
+    "grump",
+    "gumdrop",
+    "guru",
+    "mudroom",
+    "murmur",
+    "muumuu",
+    "pour",
+    "proud",
+    "pump",
+    "purr",
+    "rumor",
+    "rump",
+    "updo"
+  ],
+  "id": 1543122000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

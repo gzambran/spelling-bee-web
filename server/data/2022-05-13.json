@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "May 13, 2022",
+  "printDate": "2022-05-13",
+  "centerLetter": "k",
+  "outerLetters": [
+    "c",
+    "d",
+    "e",
+    "l",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "k",
+    "c",
+    "d",
+    "e",
+    "l",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "wedlock"
+  ],
+  "answers": [
+    "clock",
+    "clocked",
+    "cock",
+    "cocked",
+    "cockle",
+    "coke",
+    "coked",
+    "coldcock",
+    "coldcocked",
+    "cook",
+    "cooked",
+    "deck",
+    "decked",
+    "deckle",
+    "deke",
+    "deked",
+    "dock",
+    "docked",
+    "eked",
+    "keel",
+    "keeled",
+    "kook",
+    "leek",
+    "lock",
+    "locked",
+    "look",
+    "looked",
+    "wedlock",
+    "week",
+    "woke",
+    "woodcock"
+  ],
+  "id": 1652414400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

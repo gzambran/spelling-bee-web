@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "November 10, 2020",
+  "printDate": "2020-11-10",
+  "centerLetter": "d",
+  "outerLetters": [
+    "c",
+    "g",
+    "h",
+    "i",
+    "l",
+    "o"
+  ],
+  "validLetters": [
+    "d",
+    "c",
+    "g",
+    "h",
+    "i",
+    "l",
+    "o"
+  ],
+  "pangrams": [
+    "godchild"
+  ],
+  "answers": [
+    "child",
+    "childhood",
+    "cichlid",
+    "clod",
+    "codicil",
+    "cold",
+    "colloid",
+    "dildo",
+    "dill",
+    "dodo",
+    "doggo",
+    "doll",
+    "gild",
+    "godchild",
+    "godhood",
+    "gold",
+    "good",
+    "hold",
+    "hood",
+    "hoodoo",
+    "idol"
+  ],
+  "id": 1604984400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

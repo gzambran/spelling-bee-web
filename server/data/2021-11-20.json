@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "November 20, 2021",
+  "printDate": "2021-11-20",
+  "centerLetter": "p",
+  "outerLetters": [
+    "e",
+    "f",
+    "g",
+    "i",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "p",
+    "e",
+    "f",
+    "g",
+    "i",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "pettifog"
+  ],
+  "answers": [
+    "epee",
+    "goop",
+    "peep",
+    "petit",
+    "petite",
+    "pettifog",
+    "pfft",
+    "pipe",
+    "pipet",
+    "pipette",
+    "pipit",
+    "poet",
+    "pogo",
+    "poof",
+    "poop",
+    "pope",
+    "poppet",
+    "potpie",
+    "teepee",
+    "tepee",
+    "tipoff",
+    "tippet",
+    "tiptoe",
+    "tiptop",
+    "tope"
+  ],
+  "id": 1637384400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

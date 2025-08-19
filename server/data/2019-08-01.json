@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "August 01, 2019",
+  "printDate": "2019-08-01",
+  "centerLetter": "o",
+  "outerLetters": [
+    "c",
+    "f",
+    "h",
+    "l",
+    "m",
+    "r"
+  ],
+  "validLetters": [
+    "o",
+    "c",
+    "f",
+    "h",
+    "l",
+    "m",
+    "r"
+  ],
+  "pangrams": [
+    "chloroform"
+  ],
+  "answers": [
+    "chloroform",
+    "coho",
+    "color",
+    "cool",
+    "croc",
+    "floor",
+    "fool",
+    "form",
+    "from",
+    "hooch",
+    "hoof",
+    "horror",
+    "loch",
+    "loco",
+    "loll",
+    "loom",
+    "moll",
+    "mooch",
+    "moor",
+    "rococo",
+    "roll",
+    "romcom",
+    "roof",
+    "room"
+  ],
+  "id": 1564632000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "May 23, 2020",
+  "printDate": "2020-05-23",
+  "centerLetter": "a",
+  "outerLetters": [
+    "b",
+    "h",
+    "i",
+    "m",
+    "n",
+    "p"
+  ],
+  "validLetters": [
+    "a",
+    "b",
+    "h",
+    "i",
+    "m",
+    "n",
+    "p"
+  ],
+  "pangrams": [
+    "amphibian"
+  ],
+  "answers": [
+    "amphibian",
+    "anima",
+    "apian",
+    "baba",
+    "banana",
+    "bibimbap",
+    "iamb",
+    "iambi",
+    "imam",
+    "mahimahi",
+    "maim",
+    "main",
+    "mama",
+    "mamba",
+    "mamma",
+    "mania",
+    "manna",
+    "minima",
+    "naan",
+    "nana",
+    "pain",
+    "pampa",
+    "panama",
+    "panini",
+    "papa"
+  ],
+  "id": 1590206400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

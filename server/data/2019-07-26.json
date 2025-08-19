@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "July 26, 2019",
+  "printDate": "2019-07-26",
+  "centerLetter": "u",
+  "outerLetters": [
+    "b",
+    "f",
+    "i",
+    "l",
+    "m",
+    "r"
+  ],
+  "validLetters": [
+    "u",
+    "b",
+    "f",
+    "i",
+    "l",
+    "m",
+    "r"
+  ],
+  "pangrams": [
+    "brimful"
+  ],
+  "answers": [
+    "bluff",
+    "blur",
+    "blurb",
+    "brimful",
+    "buff",
+    "bulb",
+    "bull",
+    "burb",
+    "burl",
+    "burr",
+    "flub",
+    "fluff",
+    "fulfill",
+    "full",
+    "furl",
+    "ilium",
+    "lull",
+    "lulu",
+    "muff",
+    "mull",
+    "murmur",
+    "muumuu",
+    "ruff"
+  ],
+  "id": 1564113600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

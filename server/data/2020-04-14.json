@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "April 14, 2020",
+  "printDate": "2020-04-14",
+  "centerLetter": "i",
+  "outerLetters": [
+    "g",
+    "h",
+    "l",
+    "m",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "g",
+    "h",
+    "l",
+    "m",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "mightily"
+  ],
+  "answers": [
+    "giggly",
+    "gill",
+    "gilt",
+    "high",
+    "highlight",
+    "highly",
+    "hill",
+    "hilly",
+    "hilt",
+    "illy",
+    "itty",
+    "light",
+    "lightly",
+    "lilt",
+    "lily",
+    "limit",
+    "might",
+    "mightily",
+    "mighty",
+    "mill",
+    "mitt",
+    "thigh",
+    "tight",
+    "tightly",
+    "till",
+    "tilt"
+  ],
+  "id": 1586836800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

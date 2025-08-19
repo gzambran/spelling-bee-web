@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "May 14, 2019",
+  "printDate": "2019-05-14",
+  "centerLetter": "t",
+  "outerLetters": [
+    "f",
+    "i",
+    "l",
+    "n",
+    "r",
+    "u"
+  ],
+  "validLetters": [
+    "t",
+    "f",
+    "i",
+    "l",
+    "n",
+    "r",
+    "u"
+  ],
+  "pangrams": [
+    "unfruitful"
+  ],
+  "answers": [
+    "fitful",
+    "flint",
+    "flirt",
+    "flit",
+    "fruit",
+    "fruitful",
+    "intuit",
+    "lift",
+    "lilt",
+    "lint",
+    "rift",
+    "runt",
+    "tiff",
+    "till",
+    "tilt",
+    "tint",
+    "trill",
+    "tuft",
+    "turf",
+    "turn",
+    "tutti",
+    "tutu",
+    "unfit",
+    "unfruitful",
+    "unit",
+    "unlit",
+    "until"
+  ],
+  "id": 1557806400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

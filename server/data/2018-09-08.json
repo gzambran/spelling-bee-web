@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "September 08, 2018",
+  "printDate": "2018-09-08",
+  "centerLetter": "a",
+  "outerLetters": [
+    "d",
+    "f",
+    "h",
+    "l",
+    "n",
+    "u"
+  ],
+  "validLetters": [
+    "a",
+    "d",
+    "f",
+    "h",
+    "l",
+    "n",
+    "u"
+  ],
+  "pangrams": [
+    "handful"
+  ],
+  "answers": [
+    "alfalfa",
+    "anal",
+    "annual",
+    "annul",
+    "duad",
+    "dual",
+    "fall",
+    "faun",
+    "fauna",
+    "faunal",
+    "flan",
+    "halal",
+    "half",
+    "hall",
+    "hand",
+    "handful",
+    "haul",
+    "hula",
+    "land",
+    "landau",
+    "landfall",
+    "laud",
+    "luau",
+    "luna",
+    "lunula",
+    "naan",
+    "nada",
+    "nana",
+    "ulna",
+    "unhand"
+  ],
+  "id": 1536379200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

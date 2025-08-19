@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "May 08, 2020",
+  "printDate": "2020-05-08",
+  "centerLetter": "d",
+  "outerLetters": [
+    "a",
+    "c",
+    "k",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "d",
+    "a",
+    "c",
+    "k",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "dockyard"
+  ],
+  "answers": [
+    "accord",
+    "ardor",
+    "caddy",
+    "card",
+    "coda",
+    "cord",
+    "daddy",
+    "dark",
+    "dock",
+    "dockyard",
+    "dodo",
+    "doodad",
+    "door",
+    "dork",
+    "dorky",
+    "dory",
+    "dray",
+    "dryad",
+    "dyad",
+    "odor",
+    "radar",
+    "road",
+    "rood",
+    "yard"
+  ],
+  "id": 1588910400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

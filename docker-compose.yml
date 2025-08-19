@@ -1,0 +1,27 @@
+services:
+  spelling-bee-web:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+    container_name: spelling-bee-duel-web
+    restart: unless-stopped
+    ports:
+      - "3002:3002"
+    environment:
+      - NODE_ENV=production
+      - PORT=3002
+    volumes:
+      # Mount puzzle data if you have custom puzzles
+      - ./scripts:/app/scripts:ro
+    networks:
+      - spelling-bee-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3002/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  spelling-bee-network:
+    driver: bridge

@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "September 12, 2019",
+  "printDate": "2019-09-12",
+  "centerLetter": "i",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "h",
+    "l",
+    "n"
+  ],
+  "validLetters": [
+    "i",
+    "a",
+    "b",
+    "d",
+    "h",
+    "l",
+    "n"
+  ],
+  "pangrams": [
+    "handbill"
+  ],
+  "answers": [
+    "alibi",
+    "bail",
+    "bilabial",
+    "bill",
+    "bind",
+    "bindi",
+    "blin",
+    "blind",
+    "blini",
+    "dahlia",
+    "dial",
+    "dill",
+    "hail",
+    "handbill",
+    "hill",
+    "hind",
+    "iliad",
+    "inlaid",
+    "inland",
+    "labia",
+    "labial",
+    "laid",
+    "lain",
+    "lanai",
+    "libidinal",
+    "naiad",
+    "nail"
+  ],
+  "id": 1568260800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

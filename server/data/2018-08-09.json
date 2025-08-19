@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "August 09, 2018",
+  "printDate": "2018-08-09",
+  "centerLetter": "b",
+  "outerLetters": [
+    "e",
+    "f",
+    "i",
+    "l",
+    "n",
+    "x"
+  ],
+  "validLetters": [
+    "b",
+    "e",
+    "f",
+    "i",
+    "l",
+    "n",
+    "x"
+  ],
+  "pangrams": [
+    "inflexible"
+  ],
+  "answers": [
+    "beef",
+    "beeline",
+    "been",
+    "befell",
+    "belie",
+    "belief",
+    "bell",
+    "belle",
+    "bible",
+    "biff",
+    "bile",
+    "bill",
+    "blin",
+    "blini",
+    "enfeeble",
+    "feeble",
+    "flexible",
+    "ibex",
+    "inflexible",
+    "libel",
+    "libelee",
+    "nibble"
+  ],
+  "id": 1533787200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

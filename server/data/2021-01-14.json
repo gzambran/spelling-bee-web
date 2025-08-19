@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "January 14, 2021",
+  "printDate": "2021-01-14",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "f",
+    "h",
+    "k",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "f",
+    "h",
+    "k",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "hayfork"
+  ],
+  "answers": [
+    "afar",
+    "affray",
+    "afro",
+    "array",
+    "arroyo",
+    "farro",
+    "fora",
+    "foray",
+    "fork",
+    "fray",
+    "hark",
+    "harry",
+    "hayfork",
+    "hoar",
+    "hoary",
+    "hoorah",
+    "hooray",
+    "hora",
+    "horror",
+    "okra",
+    "roar",
+    "roof",
+    "rook"
+  ],
+  "id": 1610600400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "October 28, 2019",
+  "printDate": "2019-10-28",
+  "centerLetter": "l",
+  "outerLetters": [
+    "a",
+    "d",
+    "f",
+    "m",
+    "p",
+    "u"
+  ],
+  "validLetters": [
+    "l",
+    "a",
+    "d",
+    "f",
+    "m",
+    "p",
+    "u"
+  ],
+  "pangrams": [
+    "mudflap"
+  ],
+  "answers": [
+    "alfalfa",
+    "alum",
+    "appall",
+    "applaud",
+    "dual",
+    "dull",
+    "fall",
+    "flap",
+    "fluff",
+    "full",
+    "lama",
+    "lamp",
+    "laud",
+    "llama",
+    "luau",
+    "lull",
+    "lulu",
+    "lump",
+    "mall",
+    "mammal",
+    "maul",
+    "mudflap",
+    "mull",
+    "pall",
+    "palm",
+    "palp",
+    "papal",
+    "plum",
+    "plump",
+    "pull",
+    "pulp",
+    "pupal"
+  ],
+  "id": 1572235200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

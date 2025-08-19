@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "November 07, 2019",
+  "printDate": "2019-11-07",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "b",
+    "c",
+    "g",
+    "l",
+    "o"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "b",
+    "c",
+    "g",
+    "l",
+    "o"
+  ],
+  "pangrams": [
+    "backlog"
+  ],
+  "answers": [
+    "aback",
+    "alack",
+    "babka",
+    "back",
+    "backlog",
+    "balk",
+    "black",
+    "blackball",
+    "block",
+    "bock",
+    "book",
+    "callback",
+    "clack",
+    "cloak",
+    "clock",
+    "cock",
+    "cook",
+    "cookbook",
+    "kabob",
+    "koala",
+    "kola",
+    "kook",
+    "lack",
+    "lock",
+    "logbook",
+    "look"
+  ],
+  "id": 1573102800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

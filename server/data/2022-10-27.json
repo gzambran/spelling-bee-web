@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "October 27, 2022",
+  "printDate": "2022-10-27",
+  "centerLetter": "f",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "l",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "f",
+    "a",
+    "b",
+    "d",
+    "l",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "floorboard"
+  ],
+  "answers": [
+    "afar",
+    "afford",
+    "afro",
+    "alfalfa",
+    "aloof",
+    "barf",
+    "boffo",
+    "doff",
+    "fall",
+    "falloff",
+    "farad",
+    "farro",
+    "flab",
+    "flood",
+    "floor",
+    "floorboard",
+    "flora",
+    "floral",
+    "foal",
+    "fold",
+    "food",
+    "fool",
+    "fora",
+    "ford",
+    "loaf",
+    "loofa",
+    "offal",
+    "offload",
+    "roof"
+  ],
+  "id": 1666843200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "June 06, 2021",
+  "printDate": "2021-06-06",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "e",
+    "h",
+    "n",
+    "o",
+    "p"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "e",
+    "h",
+    "n",
+    "o",
+    "p"
+  ],
+  "pangrams": [
+    "payphone"
+  ],
+  "answers": [
+    "ahoy",
+    "annoy",
+    "anyhoo",
+    "anyone",
+    "happy",
+    "honey",
+    "hooey",
+    "hoppy",
+    "hyena",
+    "hype",
+    "hyphen",
+    "hypo",
+    "nanny",
+    "papaya",
+    "pappy",
+    "payee",
+    "payphone",
+    "penny",
+    "peony",
+    "peppy",
+    "phony",
+    "phooey",
+    "pony",
+    "poppy",
+    "yahoo",
+    "yappy",
+    "yeah",
+    "yoohoo"
+  ],
+  "id": 1622952000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

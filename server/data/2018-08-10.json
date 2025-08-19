@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "August 10, 2018",
+  "printDate": "2018-08-10",
+  "centerLetter": "d",
+  "outerLetters": [
+    "a",
+    "b",
+    "i",
+    "j",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "d",
+    "a",
+    "b",
+    "i",
+    "j",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "jaybird"
+  ],
+  "answers": [
+    "arid",
+    "baddy",
+    "bard",
+    "biddy",
+    "bird",
+    "brad",
+    "braid",
+    "daddy",
+    "dairy",
+    "diary",
+    "drab",
+    "dray",
+    "drib",
+    "dryad",
+    "dyad",
+    "jaybird",
+    "rabid",
+    "radar",
+    "radii",
+    "raid",
+    "yard",
+    "yardbird"
+  ],
+  "id": 1533873600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

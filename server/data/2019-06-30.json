@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "June 30, 2019",
+  "printDate": "2019-06-30",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "m",
+    "n",
+    "o",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "m",
+    "n",
+    "o",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "marathon"
+  ],
+  "answers": [
+    "amaranth",
+    "arhat",
+    "haram",
+    "harm",
+    "hart",
+    "hath",
+    "hatha",
+    "hoar",
+    "honor",
+    "hoorah",
+    "hoot",
+    "hora",
+    "horn",
+    "horror",
+    "mahatma",
+    "mammoth",
+    "manhattan",
+    "marathon",
+    "math",
+    "month",
+    "moth",
+    "north",
+    "oath",
+    "than",
+    "that",
+    "thorn",
+    "throat",
+    "tooth",
+    "torah",
+    "troth"
+  ],
+  "id": 1561867200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,49 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "July 23, 2022",
+  "printDate": "2022-07-23",
+  "centerLetter": "o",
+  "outerLetters": [
+    "c",
+    "d",
+    "f",
+    "i",
+    "m",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "c",
+    "d",
+    "f",
+    "i",
+    "m",
+    "y"
+  ],
+  "pangrams": [
+    "commodify"
+  ],
+  "answers": [
+    "cocci",
+    "codify",
+    "coif",
+    "comfy",
+    "comic",
+    "commodify",
+    "dodo",
+    "doff",
+    "doom",
+    "doomy",
+    "foci",
+    "food",
+    "idiocy",
+    "idiom",
+    "modify",
+    "mommy",
+    "mood",
+    "moody"
+  ],
+  "id": 1658548800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

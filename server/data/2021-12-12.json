@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "December 12, 2021",
+  "printDate": "2021-12-12",
+  "centerLetter": "d",
+  "outerLetters": [
+    "g",
+    "i",
+    "l",
+    "n",
+    "u",
+    "v"
+  ],
+  "validLetters": [
+    "d",
+    "g",
+    "i",
+    "l",
+    "n",
+    "u",
+    "v"
+  ],
+  "pangrams": [
+    "divulging"
+  ],
+  "answers": [
+    "diddling",
+    "digging",
+    "dill",
+    "ding",
+    "dinging",
+    "dining",
+    "dividing",
+    "diving",
+    "divining",
+    "divulging",
+    "duding",
+    "dull",
+    "dulling",
+    "dung",
+    "dunning",
+    "gild",
+    "gilding",
+    "gliding",
+    "guiding",
+    "guild",
+    "idling",
+    "indulging",
+    "livid",
+    "nudging",
+    "undid",
+    "vivid"
+  ],
+  "id": 1639285200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "March 10, 2019",
+  "printDate": "2019-03-10",
+  "centerLetter": "u",
+  "outerLetters": [
+    "f",
+    "l",
+    "m",
+    "n",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "u",
+    "f",
+    "l",
+    "m",
+    "n",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "mournful"
+  ],
+  "answers": [
+    "flour",
+    "fluff",
+    "forum",
+    "foul",
+    "four",
+    "froufrou",
+    "full",
+    "furl",
+    "furor",
+    "lull",
+    "lulu",
+    "mourn",
+    "mournful",
+    "muff",
+    "mull",
+    "murmur",
+    "muumuu",
+    "noun",
+    "null",
+    "roomful",
+    "ruff",
+    "rumor",
+    "runoff",
+    "unfurl",
+    "unmoor",
+    "unroll",
+    "unroof"
+  ],
+  "id": 1552194000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

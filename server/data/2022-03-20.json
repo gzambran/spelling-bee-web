@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "March 20, 2022",
+  "printDate": "2022-03-20",
+  "centerLetter": "f",
+  "outerLetters": [
+    "a",
+    "h",
+    "i",
+    "l",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "f",
+    "a",
+    "h",
+    "i",
+    "l",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "halfwit"
+  ],
+  "answers": [
+    "alfalfa",
+    "fail",
+    "faith",
+    "fall",
+    "fatal",
+    "fatwa",
+    "fiat",
+    "fifth",
+    "filial",
+    "fill",
+    "filth",
+    "flail",
+    "flat",
+    "flaw",
+    "flit",
+    "haft",
+    "half",
+    "halfwit",
+    "lift",
+    "tiff",
+    "waft",
+    "waif",
+    "whiff"
+  ],
+  "id": 1647748800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

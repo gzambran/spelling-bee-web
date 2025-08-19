@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "September 05, 2022",
+  "printDate": "2022-09-05",
+  "centerLetter": "l",
+  "outerLetters": [
+    "d",
+    "h",
+    "i",
+    "n",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "l",
+    "d",
+    "h",
+    "i",
+    "n",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "downhill"
+  ],
+  "answers": [
+    "dildo",
+    "dill",
+    "doll",
+    "downhill",
+    "hill",
+    "hold",
+    "hollow",
+    "howl",
+    "idol",
+    "lion",
+    "loin",
+    "loll",
+    "loon",
+    "lowdown",
+    "nonillion",
+    "olio",
+    "wild",
+    "wildwood",
+    "will",
+    "willow",
+    "wool"
+  ],
+  "id": 1662350400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

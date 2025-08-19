@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "February 22, 2022",
+  "printDate": "2022-02-22",
+  "centerLetter": "f",
+  "outerLetters": [
+    "b",
+    "e",
+    "i",
+    "l",
+    "n",
+    "u"
+  ],
+  "validLetters": [
+    "f",
+    "b",
+    "e",
+    "i",
+    "l",
+    "n",
+    "u"
+  ],
+  "pangrams": [
+    "bluefin",
+    "unbelief"
+  ],
+  "answers": [
+    "beef",
+    "befell",
+    "belief",
+    "biff",
+    "bluefin",
+    "bluff",
+    "buff",
+    "elfin",
+    "enfeeble",
+    "feeble",
+    "feel",
+    "feline",
+    "fell",
+    "fennel",
+    "fief",
+    "fife",
+    "file",
+    "fill",
+    "fine",
+    "flee",
+    "flub",
+    "flue",
+    "fluff",
+    "fuel",
+    "fulfill",
+    "full",
+    "funnel",
+    "infill",
+    "life",
+    "lifeline",
+    "unbelief"
+  ],
+  "id": 1645506000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "February 17, 2021",
+  "printDate": "2021-02-17",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "d",
+    "i",
+    "l",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "d",
+    "i",
+    "l",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "validity"
+  ],
+  "answers": [
+    "alit",
+    "atilt",
+    "avidity",
+    "data",
+    "daylit",
+    "ditty",
+    "itty",
+    "laity",
+    "lilt",
+    "lividity",
+    "tail",
+    "tali",
+    "tall",
+    "tally",
+    "tatty",
+    "tidal",
+    "tidally",
+    "tidily",
+    "tidy",
+    "till",
+    "tilt",
+    "validity",
+    "vital",
+    "vitality",
+    "vitally",
+    "vividity"
+  ],
+  "id": 1613538000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

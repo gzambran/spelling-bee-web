@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "February 15, 2022",
+  "printDate": "2022-02-15",
+  "centerLetter": "g",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "l",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "g",
+    "a",
+    "b",
+    "d",
+    "l",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "ladybug"
+  ],
+  "answers": [
+    "alga",
+    "algal",
+    "baggy",
+    "buggy",
+    "bulgy",
+    "gabby",
+    "gaga",
+    "gala",
+    "gall",
+    "gaudy",
+    "gayly",
+    "glad",
+    "gladly",
+    "glug",
+    "gulag",
+    "gull",
+    "gullably",
+    "gully",
+    "ladybug",
+    "laggy",
+    "lallygag",
+    "ugly"
+  ],
+  "id": 1644901200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

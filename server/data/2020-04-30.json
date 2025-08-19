@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "April 30, 2020",
+  "printDate": "2020-04-30",
+  "centerLetter": "a",
+  "outerLetters": [
+    "b",
+    "c",
+    "d",
+    "h",
+    "k",
+    "n"
+  ],
+  "validLetters": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "h",
+    "k",
+    "n"
+  ],
+  "pangrams": [
+    "backhand"
+  ],
+  "answers": [
+    "aback",
+    "ankh",
+    "baba",
+    "babka",
+    "back",
+    "backhand",
+    "banana",
+    "banc",
+    "band",
+    "bandana",
+    "bandanna",
+    "bank",
+    "cabana",
+    "cancan",
+    "chad",
+    "dacha",
+    "dank",
+    "hack",
+    "hand",
+    "hank",
+    "khan",
+    "knack",
+    "naan",
+    "nada",
+    "nana"
+  ],
+  "id": 1588219200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

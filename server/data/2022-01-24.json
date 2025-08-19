@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "January 24, 2022",
+  "printDate": "2022-01-24",
+  "centerLetter": "t",
+  "outerLetters": [
+    "c",
+    "g",
+    "h",
+    "i",
+    "n",
+    "p"
+  ],
+  "validLetters": [
+    "t",
+    "c",
+    "g",
+    "h",
+    "i",
+    "n",
+    "p"
+  ],
+  "pangrams": [
+    "pitching"
+  ],
+  "answers": [
+    "chit",
+    "chitin",
+    "citing",
+    "hint",
+    "hinting",
+    "hitch",
+    "hitching",
+    "hitting",
+    "igniting",
+    "inciting",
+    "itch",
+    "itching",
+    "night",
+    "ninth",
+    "pint",
+    "pipit",
+    "pitch",
+    "pitching",
+    "pith",
+    "pitting",
+    "thigh",
+    "thin",
+    "thing",
+    "thinning",
+    "tight",
+    "tinct",
+    "tinging",
+    "tint",
+    "tinting",
+    "tipping",
+    "tithing"
+  ],
+  "id": 1643000400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

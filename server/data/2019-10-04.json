@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "October 04, 2019",
+  "printDate": "2019-10-04",
+  "centerLetter": "r",
+  "outerLetters": [
+    "c",
+    "g",
+    "h",
+    "o",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "c",
+    "g",
+    "h",
+    "o",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "grouchy"
+  ],
+  "answers": [
+    "church",
+    "churchy",
+    "churro",
+    "croc",
+    "crouch",
+    "curry",
+    "gory",
+    "grog",
+    "groggy",
+    "grouch",
+    "grouchy",
+    "guru",
+    "gyro",
+    "horror",
+    "hour",
+    "hurry",
+    "occur",
+    "orgy",
+    "rococo",
+    "rough",
+    "your"
+  ],
+  "id": 1570161600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

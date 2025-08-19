@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "September 21, 2018",
+  "printDate": "2018-09-21",
+  "centerLetter": "w",
+  "outerLetters": [
+    "d",
+    "i",
+    "m",
+    "n",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "w",
+    "d",
+    "i",
+    "m",
+    "n",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "midtown"
+  ],
+  "answers": [
+    "dimwit",
+    "down",
+    "downtown",
+    "downwind",
+    "midtown",
+    "minnow",
+    "mown",
+    "nitwit",
+    "town",
+    "twin",
+    "twit",
+    "widow",
+    "wind",
+    "window",
+    "winnow",
+    "wino",
+    "wont",
+    "wonton",
+    "wood",
+    "woodwind",
+    "woot"
+  ],
+  "id": 1537502400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "April 03, 2020",
+  "printDate": "2020-04-03",
+  "centerLetter": "t",
+  "outerLetters": [
+    "c",
+    "d",
+    "i",
+    "l",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "c",
+    "d",
+    "i",
+    "l",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "ductility",
+    "lucidity"
+  ],
+  "answers": [
+    "city",
+    "cult",
+    "cultic",
+    "ditty",
+    "duct",
+    "ductility",
+    "duty",
+    "illicit",
+    "illicitly",
+    "itty",
+    "licit",
+    "licitly",
+    "lilt",
+    "lucidity",
+    "tidily",
+    "tidy",
+    "till",
+    "tilt",
+    "tutti",
+    "tutu",
+    "utility"
+  ],
+  "id": 1585886400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

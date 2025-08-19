@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "December 20, 2021",
+  "printDate": "2021-12-20",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "c",
+    "h",
+    "i",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "c",
+    "h",
+    "i",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "matriarch"
+  ],
+  "answers": [
+    "armchair",
+    "cami",
+    "charm",
+    "cram",
+    "hamartia",
+    "haram",
+    "harm",
+    "imam",
+    "mahatma",
+    "mahimahi",
+    "maim",
+    "mama",
+    "mamma",
+    "maraca",
+    "march",
+    "mariachi",
+    "marm",
+    "mart",
+    "match",
+    "matcha",
+    "math",
+    "matriarch",
+    "mica",
+    "mimic",
+    "mirth",
+    "mitt",
+    "tamari",
+    "tarmac",
+    "tatami",
+    "tram",
+    "tramcar",
+    "trim"
+  ],
+  "id": 1639976400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

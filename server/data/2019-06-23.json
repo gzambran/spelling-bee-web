@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "June 23, 2019",
+  "printDate": "2019-06-23",
+  "centerLetter": "e",
+  "outerLetters": [
+    "c",
+    "l",
+    "m",
+    "o",
+    "p",
+    "x"
+  ],
+  "validLetters": [
+    "e",
+    "c",
+    "l",
+    "m",
+    "o",
+    "p",
+    "x"
+  ],
+  "pangrams": [
+    "complex"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "come",
+    "compel",
+    "complex",
+    "cope",
+    "elope",
+    "emcee",
+    "epee",
+    "excel",
+    "exec",
+    "expel",
+    "expellee",
+    "expo",
+    "lexeme",
+    "lope",
+    "melee",
+    "meme",
+    "memo",
+    "mole",
+    "mope",
+    "oleo",
+    "peel",
+    "peep",
+    "people",
+    "poem",
+    "pole",
+    "pome",
+    "pomelo",
+    "pommel",
+    "pope"
+  ],
+  "id": 1561262400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

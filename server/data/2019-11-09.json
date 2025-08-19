@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "November 09, 2019",
+  "printDate": "2019-11-09",
+  "centerLetter": "o",
+  "outerLetters": [
+    "g",
+    "h",
+    "i",
+    "l",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "o",
+    "g",
+    "h",
+    "i",
+    "l",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "lowlight"
+  ],
+  "answers": [
+    "gigolo",
+    "glow",
+    "googol",
+    "goth",
+    "hollow",
+    "holt",
+    "hoot",
+    "howl",
+    "igloo",
+    "litho",
+    "logo",
+    "loll",
+    "loot",
+    "lotto",
+    "lowlight",
+    "olio",
+    "toil",
+    "toll",
+    "tool",
+    "toot",
+    "tooth",
+    "willow",
+    "woohoo",
+    "wool",
+    "woot"
+  ],
+  "id": 1573275600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

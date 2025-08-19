@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "August 11, 2018",
+  "printDate": "2018-08-11",
+  "centerLetter": "p",
+  "outerLetters": [
+    "a",
+    "c",
+    "m",
+    "n",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "p",
+    "a",
+    "c",
+    "m",
+    "n",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "company",
+    "accompany"
+  ],
+  "answers": [
+    "accompany",
+    "camp",
+    "campo",
+    "campy",
+    "canopy",
+    "capo",
+    "capon",
+    "comp",
+    "company",
+    "coop",
+    "copay",
+    "copy",
+    "nappy",
+    "pampa",
+    "panama",
+    "papa",
+    "papacy",
+    "papaya",
+    "pappy",
+    "pomp",
+    "pompano",
+    "pompom",
+    "pony",
+    "poop",
+    "poppa",
+    "poppy",
+    "yappy"
+  ],
+  "id": 1533960000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

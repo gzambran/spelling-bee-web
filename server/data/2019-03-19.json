@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "March 19, 2019",
+  "printDate": "2019-03-19",
+  "centerLetter": "i",
+  "outerLetters": [
+    "c",
+    "h",
+    "m",
+    "n",
+    "o",
+    "p"
+  ],
+  "validLetters": [
+    "i",
+    "c",
+    "h",
+    "m",
+    "n",
+    "o",
+    "p"
+  ],
+  "pangrams": [
+    "homophonic"
+  ],
+  "answers": [
+    "chic",
+    "chichi",
+    "chimp",
+    "chin",
+    "chino",
+    "chip",
+    "cinch",
+    "cocci",
+    "coin",
+    "comic",
+    "conic",
+    "hippo",
+    "homophonic",
+    "icon",
+    "iconic",
+    "inch",
+    "ionic",
+    "mimic",
+    "mini",
+    "minim",
+    "minion",
+    "nincompoop",
+    "onion",
+    "opinion",
+    "phonic",
+    "picnic",
+    "pimp",
+    "pinch",
+    "pinion"
+  ],
+  "id": 1552968000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

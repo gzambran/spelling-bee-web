@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "April 06, 2020",
+  "printDate": "2020-04-06",
+  "centerLetter": "b",
+  "outerLetters": [
+    "d",
+    "h",
+    "l",
+    "n",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "b",
+    "d",
+    "h",
+    "l",
+    "n",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "bloodhound"
+  ],
+  "answers": [
+    "blob",
+    "blond",
+    "blood",
+    "bloodhound",
+    "boho",
+    "bold",
+    "boll",
+    "bolo",
+    "bonbon",
+    "bond",
+    "bonobo",
+    "boob",
+    "booboo",
+    "boohoo",
+    "boon",
+    "bound",
+    "bulb",
+    "bull",
+    "doubloon",
+    "hobnob",
+    "hobo",
+    "hubbub",
+    "lobo",
+    "noob",
+    "unbound"
+  ],
+  "id": 1586145600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

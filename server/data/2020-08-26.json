@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "August 26, 2020",
+  "printDate": "2020-08-26",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "e",
+    "i",
+    "l",
+    "t",
+    "v"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "e",
+    "i",
+    "l",
+    "t",
+    "v"
+  ],
+  "pangrams": [
+    "talkative"
+  ],
+  "answers": [
+    "alike",
+    "alkali",
+    "kale",
+    "keel",
+    "kettle",
+    "kill",
+    "kilt",
+    "kite",
+    "kvell",
+    "lake",
+    "latke",
+    "leak",
+    "leek",
+    "like",
+    "take",
+    "talk",
+    "talkative",
+    "talkie",
+    "teak",
+    "teakettle",
+    "tiki",
+    "tikka"
+  ],
+  "id": 1598414400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

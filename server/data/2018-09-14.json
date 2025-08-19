@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "September 14, 2018",
+  "printDate": "2018-09-14",
+  "centerLetter": "v",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "r"
+  ],
+  "validLetters": [
+    "v",
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "r"
+  ],
+  "pangrams": [
+    "carnival"
+  ],
+  "answers": [
+    "anvil",
+    "arrival",
+    "avail",
+    "avian",
+    "caravan",
+    "carnival",
+    "caviar",
+    "cavil",
+    "civic",
+    "civil",
+    "civilian",
+    "incivil",
+    "larva",
+    "larval",
+    "lava",
+    "naval",
+    "nirvana",
+    "rival",
+    "vain",
+    "vanilla",
+    "vanillin",
+    "vial",
+    "vicar",
+    "villa",
+    "villain",
+    "viral"
+  ],
+  "id": 1536897600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

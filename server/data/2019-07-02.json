@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "July 02, 2019",
+  "printDate": "2019-07-02",
+  "centerLetter": "a",
+  "outerLetters": [
+    "c",
+    "f",
+    "j",
+    "k",
+    "l",
+    "p"
+  ],
+  "validLetters": [
+    "a",
+    "c",
+    "f",
+    "j",
+    "k",
+    "l",
+    "p"
+  ],
+  "pangrams": [
+    "flapjack"
+  ],
+  "answers": [
+    "alack",
+    "alfalfa",
+    "alpaca",
+    "appall",
+    "calf",
+    "call",
+    "calla",
+    "clack",
+    "clap",
+    "fall",
+    "flack",
+    "flak",
+    "flap",
+    "flapjack",
+    "jack",
+    "jackal",
+    "kappa",
+    "lack",
+    "pack",
+    "pall",
+    "palp",
+    "papa",
+    "papal"
+  ],
+  "id": 1562040000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "November 05, 2019",
+  "printDate": "2019-11-05",
+  "centerLetter": "p",
+  "outerLetters": [
+    "c",
+    "e",
+    "l",
+    "m",
+    "o",
+    "x"
+  ],
+  "validLetters": [
+    "p",
+    "c",
+    "e",
+    "l",
+    "m",
+    "o",
+    "x"
+  ],
+  "pangrams": [
+    "complex"
+  ],
+  "answers": [
+    "clomp",
+    "clop",
+    "comp",
+    "compel",
+    "complex",
+    "coop",
+    "cope",
+    "elope",
+    "epee",
+    "expel",
+    "expellee",
+    "expo",
+    "lollop",
+    "loop",
+    "lope",
+    "mope",
+    "peel",
+    "peep",
+    "people",
+    "plop",
+    "poem",
+    "pole",
+    "poll",
+    "polo",
+    "pome",
+    "pomelo",
+    "pommel",
+    "pomp",
+    "pompom",
+    "pool",
+    "poop",
+    "pope"
+  ],
+  "id": 1572930000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

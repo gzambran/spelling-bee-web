@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "July 20, 2021",
+  "printDate": "2021-07-20",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "p",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "c",
+    "i",
+    "p",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "privacy"
+  ],
+  "answers": [
+    "airy",
+    "apiary",
+    "aria",
+    "array",
+    "aviary",
+    "carp",
+    "carpi",
+    "carry",
+    "caviar",
+    "circa",
+    "cirri",
+    "crap",
+    "crappy",
+    "pair",
+    "papyri",
+    "parry",
+    "piracy",
+    "pray",
+    "priapic",
+    "pricy",
+    "privacy",
+    "privy",
+    "racy",
+    "vary",
+    "vicar"
+  ],
+  "id": 1626753600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

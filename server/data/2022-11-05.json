@@ -1,0 +1,49 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "November 05, 2022",
+  "printDate": "2022-11-05",
+  "centerLetter": "z",
+  "outerLetters": [
+    "a",
+    "b",
+    "e",
+    "l",
+    "m",
+    "o"
+  ],
+  "validLetters": [
+    "z",
+    "a",
+    "b",
+    "e",
+    "l",
+    "m",
+    "o"
+  ],
+  "pangrams": [
+    "bamboozle"
+  ],
+  "answers": [
+    "ablaze",
+    "amaze",
+    "azalea",
+    "bamboozle",
+    "bazoo",
+    "bezel",
+    "blaze",
+    "booze",
+    "bozo",
+    "embezzle",
+    "laze",
+    "maze",
+    "meze",
+    "mezze",
+    "mezzo",
+    "ooze",
+    "zeal",
+    "zoom"
+  ],
+  "id": 1667620800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

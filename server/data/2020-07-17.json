@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "July 17, 2020",
+  "printDate": "2020-07-17",
+  "centerLetter": "l",
+  "outerLetters": [
+    "c",
+    "f",
+    "i",
+    "k",
+    "n",
+    "u"
+  ],
+  "validLetters": [
+    "l",
+    "c",
+    "f",
+    "i",
+    "k",
+    "n",
+    "u"
+  ],
+  "pangrams": [
+    "cufflink"
+  ],
+  "answers": [
+    "click",
+    "cliff",
+    "clinic",
+    "clink",
+    "cluck",
+    "clunk",
+    "cufflink",
+    "cull",
+    "fill",
+    "flick",
+    "fluff",
+    "flunk",
+    "fulfill",
+    "full",
+    "infill",
+    "kill",
+    "kiln",
+    "lick",
+    "link",
+    "luck",
+    "lull",
+    "lulu",
+    "lunk",
+    "null",
+    "unlink"
+  ],
+  "id": 1594958400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

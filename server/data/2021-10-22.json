@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "October 22, 2021",
+  "printDate": "2021-10-22",
+  "centerLetter": "i",
+  "outerLetters": [
+    "d",
+    "e",
+    "f",
+    "h",
+    "m",
+    "u"
+  ],
+  "validLetters": [
+    "i",
+    "d",
+    "e",
+    "f",
+    "h",
+    "m",
+    "u"
+  ],
+  "pangrams": [
+    "dehumidified",
+    "humidified"
+  ],
+  "answers": [
+    "defied",
+    "dehumidified",
+    "deified",
+    "died",
+    "dime",
+    "dimmed",
+    "eddied",
+    "edified",
+    "fief",
+    "fife",
+    "fifed",
+    "hide",
+    "hied",
+    "humid",
+    "humidified",
+    "medium",
+    "midi",
+    "miff",
+    "miffed",
+    "mime",
+    "mimed",
+    "muddied",
+    "mummified"
+  ],
+  "id": 1634875200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

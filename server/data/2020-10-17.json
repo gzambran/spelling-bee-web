@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "October 17, 2020",
+  "printDate": "2020-10-17",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "c",
+    "e",
+    "l",
+    "m",
+    "y"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "c",
+    "e",
+    "l",
+    "m",
+    "y"
+  ],
+  "pangrams": [
+    "alchemy"
+  ],
+  "answers": [
+    "ache",
+    "achy",
+    "ahem",
+    "alchemy",
+    "cache",
+    "challah",
+    "each",
+    "halal",
+    "hale",
+    "hall",
+    "hammy",
+    "heal",
+    "heel",
+    "hell",
+    "helm",
+    "hemal",
+    "heme",
+    "leach",
+    "lech",
+    "leech",
+    "lychee",
+    "mayhem",
+    "yeah",
+    "yecch",
+    "yech"
+  ],
+  "id": 1602907200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

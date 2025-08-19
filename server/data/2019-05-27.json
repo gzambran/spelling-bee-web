@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "May 27, 2019",
+  "printDate": "2019-05-27",
+  "centerLetter": "u",
+  "outerLetters": [
+    "c",
+    "f",
+    "l",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "u",
+    "c",
+    "f",
+    "l",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "colorfully"
+  ],
+  "answers": [
+    "colorful",
+    "colorfully",
+    "cuff",
+    "cull",
+    "curl",
+    "curly",
+    "curry",
+    "flour",
+    "floury",
+    "fluff",
+    "fluffy",
+    "flurry",
+    "foul",
+    "foully",
+    "four",
+    "froufrou",
+    "full",
+    "fully",
+    "furl",
+    "furor",
+    "furry",
+    "fury",
+    "lull",
+    "lulu",
+    "occur",
+    "ruff",
+    "ruffly",
+    "your"
+  ],
+  "id": 1558929600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

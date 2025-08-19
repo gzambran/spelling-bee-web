@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "April 16, 2019",
+  "printDate": "2019-04-16",
+  "centerLetter": "n",
+  "outerLetters": [
+    "e",
+    "f",
+    "l",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "n",
+    "e",
+    "f",
+    "l",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "fluently",
+    "tunefully"
+  ],
+  "answers": [
+    "effluent",
+    "entente",
+    "fennel",
+    "fluent",
+    "fluently",
+    "funnel",
+    "funny",
+    "lent",
+    "lune",
+    "lunette",
+    "nene",
+    "nettle",
+    "nettly",
+    "netty",
+    "null",
+    "nutty",
+    "teen",
+    "teeny",
+    "telnet",
+    "tenet",
+    "tent",
+    "tune",
+    "tuneful",
+    "tunefully",
+    "tunnel",
+    "unfelt",
+    "unfunny",
+    "unlet",
+    "untune",
+    "yente"
+  ],
+  "id": 1555387200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

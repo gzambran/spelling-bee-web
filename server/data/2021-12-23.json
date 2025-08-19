@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "December 23, 2021",
+  "printDate": "2021-12-23",
+  "centerLetter": "u",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "n",
+    "q",
+    "t"
+  ],
+  "validLetters": [
+    "u",
+    "a",
+    "c",
+    "i",
+    "n",
+    "q",
+    "t"
+  ],
+  "pangrams": [
+    "acquaint"
+  ],
+  "answers": [
+    "acquaint",
+    "acquit",
+    "aqua",
+    "aquanaut",
+    "aquatic",
+    "aquatint",
+    "aunt",
+    "cinquain",
+    "intuit",
+    "quaint",
+    "quant",
+    "quanta",
+    "quint",
+    "quintain",
+    "quit",
+    "taunt",
+    "taut",
+    "tuna",
+    "tunic",
+    "tutti",
+    "tutu",
+    "uncut",
+    "unit"
+  ],
+  "id": 1640235600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "October 02, 2021",
+  "printDate": "2021-10-02",
+  "centerLetter": "i",
+  "outerLetters": [
+    "c",
+    "f",
+    "g",
+    "h",
+    "l",
+    "n"
+  ],
+  "validLetters": [
+    "i",
+    "c",
+    "f",
+    "g",
+    "h",
+    "l",
+    "n"
+  ],
+  "pangrams": [
+    "filching",
+    "flinching"
+  ],
+  "answers": [
+    "chic",
+    "chichi",
+    "chili",
+    "chill",
+    "chilling",
+    "chin",
+    "chinning",
+    "cinch",
+    "cinching",
+    "clinch",
+    "clinching",
+    "filch",
+    "filching",
+    "finch",
+    "flinch",
+    "flinching",
+    "high",
+    "hill",
+    "hilling",
+    "hinging",
+    "inch",
+    "inching",
+    "nigh"
+  ],
+  "id": 1633147200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

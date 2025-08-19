@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "May 06, 2020",
+  "printDate": "2020-05-06",
+  "centerLetter": "u",
+  "outerLetters": [
+    "a",
+    "f",
+    "g",
+    "h",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "u",
+    "a",
+    "f",
+    "g",
+    "h",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "fraught"
+  ],
+  "answers": [
+    "aught",
+    "augur",
+    "aura",
+    "fraught",
+    "frug",
+    "fugu",
+    "gruff",
+    "guar",
+    "guff",
+    "guru",
+    "huff",
+    "hurrah",
+    "hurt",
+    "ruff",
+    "taught",
+    "taut",
+    "thug",
+    "truth",
+    "tuft",
+    "turf",
+    "tutu"
+  ],
+  "id": 1588737600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

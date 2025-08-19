@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "May 05, 2020",
+  "printDate": "2020-05-05",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "f",
+    "g",
+    "l",
+    "n",
+    "r"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "f",
+    "g",
+    "l",
+    "n",
+    "r"
+  ],
+  "pangrams": [
+    "flagrant"
+  ],
+  "answers": [
+    "altar",
+    "arrant",
+    "attar",
+    "fart",
+    "fatal",
+    "flagrant",
+    "flat",
+    "fragrant",
+    "frat",
+    "gallant",
+    "gnat",
+    "graft",
+    "grant",
+    "natal",
+    "natant",
+    "raft",
+    "ragtag",
+    "rant",
+    "ratatat",
+    "rattan",
+    "tall",
+    "tang",
+    "tantara",
+    "tantra",
+    "tart",
+    "tartan",
+    "tartar"
+  ],
+  "id": 1588651200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

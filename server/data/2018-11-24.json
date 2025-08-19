@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "November 24, 2018",
+  "printDate": "2018-11-24",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "b",
+    "k",
+    "l",
+    "p",
+    "u"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "b",
+    "k",
+    "l",
+    "p",
+    "u"
+  ],
+  "pangrams": [
+    "pullback"
+  ],
+  "answers": [
+    "aback",
+    "alack",
+    "alpaca",
+    "back",
+    "backpack",
+    "backup",
+    "black",
+    "blackball",
+    "blackcap",
+    "buck",
+    "cabal",
+    "cabala",
+    "call",
+    "calla",
+    "callback",
+    "caul",
+    "caulk",
+    "clack",
+    "clap",
+    "club",
+    "cluck",
+    "cull",
+    "cuppa",
+    "lack",
+    "luck",
+    "pack",
+    "pluck",
+    "puck",
+    "pullback"
+  ],
+  "id": 1543035600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

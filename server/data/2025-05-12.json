@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "May 12, 2025",
+  "printDate": "2025-05-12",
+  "centerLetter": "b",
+  "outerLetters": [
+    "g",
+    "i",
+    "n",
+    "o",
+    "u",
+    "x"
+  ],
+  "validLetters": [
+    "b",
+    "g",
+    "i",
+    "n",
+    "o",
+    "u",
+    "x"
+  ],
+  "pangrams": [
+    "unboxing"
+  ],
+  "answers": [
+    "binging",
+    "bingo",
+    "binning",
+    "bobbin",
+    "bobbing",
+    "bogging",
+    "boing",
+    "bonbon",
+    "bong",
+    "bongo",
+    "boning",
+    "bonobo",
+    "boob",
+    "booboo",
+    "booing",
+    "boon",
+    "boxing",
+    "bugging",
+    "bung",
+    "bunion",
+    "gibbon",
+    "gibing",
+    "inbox",
+    "noob",
+    "nubbin",
+    "unbox",
+    "unboxing"
+  ],
+  "id": 1747022400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

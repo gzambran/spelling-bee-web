@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "August 14, 2020",
+  "printDate": "2020-08-14",
+  "centerLetter": "l",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "i",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "l",
+    "a",
+    "b",
+    "d",
+    "i",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "audibly"
+  ],
+  "answers": [
+    "alibi",
+    "audibly",
+    "bail",
+    "bialy",
+    "bilabial",
+    "bill",
+    "billy",
+    "build",
+    "daily",
+    "daylily",
+    "dial",
+    "diddly",
+    "dill",
+    "dilly",
+    "dillydally",
+    "idly",
+    "idyl",
+    "idyll",
+    "iliad",
+    "illy",
+    "labia",
+    "labial",
+    "laid",
+    "lily"
+  ],
+  "id": 1597377600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "September 19, 2018",
+  "printDate": "2018-09-19",
+  "centerLetter": "f",
+  "outerLetters": [
+    "g",
+    "i",
+    "l",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "f",
+    "g",
+    "i",
+    "l",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "glorify"
+  ],
+  "answers": [
+    "fill",
+    "filly",
+    "flog",
+    "floor",
+    "foggily",
+    "foggy",
+    "fogy",
+    "foil",
+    "folio",
+    "folly",
+    "fool",
+    "forgo",
+    "frill",
+    "frilly",
+    "frog",
+    "froggy",
+    "glorify",
+    "golf",
+    "goof",
+    "goofily",
+    "goofy",
+    "iffy",
+    "logoff",
+    "riff",
+    "roof"
+  ],
+  "id": 1537329600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

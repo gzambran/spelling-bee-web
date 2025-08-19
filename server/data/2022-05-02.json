@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "May 02, 2022",
+  "printDate": "2022-05-02",
+  "centerLetter": "f",
+  "outerLetters": [
+    "a",
+    "l",
+    "o",
+    "r",
+    "u",
+    "v"
+  ],
+  "validLetters": [
+    "f",
+    "a",
+    "l",
+    "o",
+    "r",
+    "u",
+    "v"
+  ],
+  "pangrams": [
+    "flavorful"
+  ],
+  "answers": [
+    "afar",
+    "afoul",
+    "afro",
+    "alfalfa",
+    "aloof",
+    "fall",
+    "falloff",
+    "farro",
+    "fava",
+    "favor",
+    "flavor",
+    "flavorful",
+    "floor",
+    "flora",
+    "floral",
+    "flour",
+    "fluff",
+    "foal",
+    "fool",
+    "fora",
+    "foul",
+    "four",
+    "froufrou",
+    "full",
+    "furl",
+    "furor",
+    "loaf",
+    "loofa",
+    "offal",
+    "roof",
+    "ruff"
+  ],
+  "id": 1651464000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

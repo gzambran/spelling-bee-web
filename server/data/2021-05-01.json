@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "May 01, 2021",
+  "printDate": "2021-05-01",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "e",
+    "m",
+    "n",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "e",
+    "m",
+    "n",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "payment"
+  ],
+  "answers": [
+    "empty",
+    "enemy",
+    "many",
+    "matey",
+    "meany",
+    "meaty",
+    "myna",
+    "nanny",
+    "natty",
+    "netty",
+    "panty",
+    "papaya",
+    "pappy",
+    "patty",
+    "payee",
+    "payment",
+    "peaty",
+    "penny",
+    "peppy",
+    "petty",
+    "tatty",
+    "teeny",
+    "type",
+    "yappy",
+    "yenta",
+    "yente"
+  ],
+  "id": 1619841600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

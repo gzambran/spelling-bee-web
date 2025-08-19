@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "January 01, 2019",
+  "printDate": "2019-01-01",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "h",
+    "i",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "h",
+    "i",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "arrhythmia"
+  ],
+  "answers": [
+    "amity",
+    "army",
+    "arrhythmia",
+    "hamartia",
+    "hammy",
+    "harm",
+    "imam",
+    "mahatma",
+    "mahimahi",
+    "maim",
+    "mama",
+    "mamma",
+    "mammary",
+    "mammy",
+    "marm",
+    "marry",
+    "mart",
+    "martyr",
+    "math",
+    "mirth",
+    "mitt",
+    "myrrh",
+    "myth",
+    "rhythm",
+    "tatami",
+    "tram",
+    "trim"
+  ],
+  "id": 1546318800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

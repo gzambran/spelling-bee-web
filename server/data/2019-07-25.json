@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "July 25, 2019",
+  "printDate": "2019-07-25",
+  "centerLetter": "f",
+  "outerLetters": [
+    "c",
+    "e",
+    "l",
+    "n",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "f",
+    "c",
+    "e",
+    "l",
+    "n",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "fluency"
+  ],
+  "answers": [
+    "clef",
+    "cuff",
+    "effluence",
+    "eyeful",
+    "feel",
+    "fell",
+    "fence",
+    "fennel",
+    "flee",
+    "fleece",
+    "fleecy",
+    "flue",
+    "fluency",
+    "fluff",
+    "fluffy",
+    "fuel",
+    "full",
+    "fully",
+    "funnel",
+    "funny",
+    "uncuff",
+    "unfunny"
+  ],
+  "id": 1564027200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

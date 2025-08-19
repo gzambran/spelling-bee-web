@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "October 27, 2018",
+  "printDate": "2018-10-27",
+  "centerLetter": "i",
+  "outerLetters": [
+    "d",
+    "h",
+    "l",
+    "n",
+    "o",
+    "p"
+  ],
+  "validLetters": [
+    "i",
+    "d",
+    "h",
+    "l",
+    "n",
+    "o",
+    "p"
+  ],
+  "pangrams": [
+    "dolphin"
+  ],
+  "answers": [
+    "dildo",
+    "dill",
+    "dino",
+    "diploid",
+    "dolphin",
+    "hill",
+    "hind",
+    "hippo",
+    "idol",
+    "lido",
+    "lion",
+    "lipid",
+    "lipo",
+    "lipoid",
+    "loin",
+    "lollipop",
+    "nonillion",
+    "olio",
+    "onion",
+    "opinion",
+    "opioid",
+    "pill",
+    "pillion",
+    "pinion",
+    "polio",
+    "poplin"
+  ],
+  "id": 1540612800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

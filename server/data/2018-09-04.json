@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "September 04, 2018",
+  "printDate": "2018-09-04",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "h",
+    "n",
+    "o",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "h",
+    "n",
+    "o",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "anchovy"
+  ],
+  "answers": [
+    "achoo",
+    "achy",
+    "ahchoo",
+    "ancho",
+    "anchovy",
+    "cacao",
+    "cancan",
+    "cannon",
+    "canny",
+    "canon",
+    "canyon",
+    "chancy",
+    "coach",
+    "coca",
+    "cocoa",
+    "cocoon",
+    "coho",
+    "conch",
+    "convoy",
+    "coon",
+    "cyan",
+    "havoc",
+    "honcho",
+    "hooch",
+    "nacho",
+    "vacancy"
+  ],
+  "id": 1536033600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

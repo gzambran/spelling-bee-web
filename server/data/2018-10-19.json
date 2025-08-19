@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "October 19, 2018",
+  "printDate": "2018-10-19",
+  "centerLetter": "e",
+  "outerLetters": [
+    "b",
+    "l",
+    "m",
+    "n",
+    "t",
+    "z"
+  ],
+  "validLetters": [
+    "e",
+    "b",
+    "l",
+    "m",
+    "n",
+    "t",
+    "z"
+  ],
+  "pangrams": [
+    "embezzlement"
+  ],
+  "answers": [
+    "beet",
+    "beetle",
+    "belt",
+    "bent",
+    "betel",
+    "element",
+    "embezzlement",
+    "entente",
+    "lent",
+    "meet",
+    "melt",
+    "mentee",
+    "mete",
+    "mettle",
+    "nettle",
+    "teem",
+    "teen",
+    "tell",
+    "telnet",
+    "tenement",
+    "tenet",
+    "tent"
+  ],
+  "id": 1539921600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

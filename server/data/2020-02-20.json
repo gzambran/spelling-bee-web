@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "February 20, 2020",
+  "printDate": "2020-02-20",
+  "centerLetter": "i",
+  "outerLetters": [
+    "a",
+    "c",
+    "d",
+    "h",
+    "n",
+    "p"
+  ],
+  "validLetters": [
+    "i",
+    "a",
+    "c",
+    "d",
+    "h",
+    "n",
+    "p"
+  ],
+  "pangrams": [
+    "handicap"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "aphid",
+    "apian",
+    "candid",
+    "canid",
+    "chai",
+    "chain",
+    "chia",
+    "chic",
+    "chica",
+    "chichi",
+    "chin",
+    "china",
+    "chip",
+    "cicada",
+    "cinch",
+    "handicap",
+    "hind",
+    "inch",
+    "indicia",
+    "naiad",
+    "niacin",
+    "paid",
+    "pain",
+    "panic",
+    "panini",
+    "pica",
+    "picnic",
+    "pinch"
+  ],
+  "id": 1582174800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

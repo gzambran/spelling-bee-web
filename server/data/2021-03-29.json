@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "March 29, 2021",
+  "printDate": "2021-03-29",
+  "centerLetter": "c",
+  "outerLetters": [
+    "d",
+    "e",
+    "k",
+    "n",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "c",
+    "d",
+    "e",
+    "k",
+    "n",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "untucked"
+  ],
+  "answers": [
+    "cede",
+    "ceded",
+    "cent",
+    "cued",
+    "cuke",
+    "cute",
+    "decedent",
+    "decent",
+    "deck",
+    "decked",
+    "deduce",
+    "deduced",
+    "deduct",
+    "deducted",
+    "detect",
+    "detected",
+    "deuce",
+    "duck",
+    "ducked",
+    "duct",
+    "ducted",
+    "dunce",
+    "educe",
+    "educed",
+    "neck",
+    "necked",
+    "tuck",
+    "tucked",
+    "uncut",
+    "undetected",
+    "untuck",
+    "untucked"
+  ],
+  "id": 1616990400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

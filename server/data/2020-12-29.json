@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "December 29, 2020",
+  "printDate": "2020-12-29",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "c",
+    "d",
+    "k",
+    "p",
+    "r"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "c",
+    "d",
+    "k",
+    "p",
+    "r"
+  ],
+  "pangrams": [
+    "trackpad"
+  ],
+  "answers": [
+    "adapt",
+    "apart",
+    "apparat",
+    "attack",
+    "attar",
+    "attract",
+    "carat",
+    "cart",
+    "cataract",
+    "dart",
+    "data",
+    "drat",
+    "karat",
+    "kart",
+    "pact",
+    "part",
+    "prat",
+    "rapt",
+    "ratatat",
+    "rattrap",
+    "tack",
+    "tact",
+    "tapa",
+    "tarp",
+    "tart",
+    "tartar",
+    "track",
+    "trackpad",
+    "tract",
+    "trap"
+  ],
+  "id": 1609218000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

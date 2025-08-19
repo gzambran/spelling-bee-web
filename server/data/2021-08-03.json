@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "August 03, 2021",
+  "printDate": "2021-08-03",
+  "centerLetter": "f",
+  "outerLetters": [
+    "a",
+    "i",
+    "m",
+    "n",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "f",
+    "a",
+    "i",
+    "m",
+    "n",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "infirmary"
+  ],
+  "answers": [
+    "afar",
+    "affair",
+    "affirm",
+    "affray",
+    "fair",
+    "fairy",
+    "fanny",
+    "farina",
+    "farm",
+    "firm",
+    "fray",
+    "friar",
+    "friary",
+    "iffy",
+    "infamy",
+    "infirm",
+    "infirmary",
+    "mafia",
+    "miff",
+    "naif",
+    "raffia",
+    "ramify",
+    "riff",
+    "riffraff"
+  ],
+  "id": 1627963200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

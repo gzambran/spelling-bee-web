@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "May 06, 2019",
+  "printDate": "2019-05-06",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "n",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "d",
+    "h",
+    "n",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "womanhood"
+  ],
+  "answers": [
+    "adman",
+    "adwoman",
+    "ammo",
+    "damn",
+    "doom",
+    "madam",
+    "madman",
+    "madwoman",
+    "mama",
+    "mamma",
+    "mammon",
+    "manhood",
+    "manna",
+    "moan",
+    "momma",
+    "monad",
+    "mondo",
+    "mono",
+    "mood",
+    "moon",
+    "mown",
+    "nomad",
+    "wham",
+    "whammo",
+    "whom",
+    "woman",
+    "womanhood"
+  ],
+  "id": 1557115200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

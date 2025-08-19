@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "April 17, 2025",
+  "printDate": "2025-04-17",
+  "centerLetter": "a",
+  "outerLetters": [
+    "c",
+    "d",
+    "i",
+    "t",
+    "u",
+    "v"
+  ],
+  "validLetters": [
+    "a",
+    "c",
+    "d",
+    "i",
+    "t",
+    "u",
+    "v"
+  ],
+  "pangrams": [
+    "viaduct"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "addict",
+    "adduct",
+    "attic",
+    "audit",
+    "avid",
+    "cacti",
+    "cava",
+    "cicada",
+    "data",
+    "dicta",
+    "didact",
+    "didactic",
+    "diva",
+    "ducat",
+    "tacit",
+    "tact",
+    "tactic",
+    "taut",
+    "viaduct"
+  ],
+  "id": 1744862400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

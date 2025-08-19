@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "June 04, 2019",
+  "printDate": "2019-06-04",
+  "centerLetter": "a",
+  "outerLetters": [
+    "f",
+    "h",
+    "k",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "f",
+    "h",
+    "k",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "hayfork"
+  ],
+  "answers": [
+    "afar",
+    "affray",
+    "afro",
+    "ahoy",
+    "array",
+    "arroyo",
+    "farro",
+    "fora",
+    "foray",
+    "fray",
+    "hark",
+    "harry",
+    "hayfork",
+    "hoar",
+    "hoary",
+    "hookah",
+    "hoorah",
+    "hooray",
+    "hora",
+    "kayak",
+    "kayo",
+    "oaky",
+    "okay",
+    "okra",
+    "roar",
+    "yahoo"
+  ],
+  "id": 1559620800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

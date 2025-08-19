@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "December 16, 2019",
+  "printDate": "2019-12-16",
+  "centerLetter": "n",
+  "outerLetters": [
+    "g",
+    "o",
+    "r",
+    "t",
+    "u",
+    "w"
+  ],
+  "validLetters": [
+    "n",
+    "g",
+    "o",
+    "r",
+    "t",
+    "u",
+    "w"
+  ],
+  "pangrams": [
+    "outgrown"
+  ],
+  "answers": [
+    "gong",
+    "goon",
+    "gorgon",
+    "gown",
+    "grown",
+    "grunt",
+    "noon",
+    "noun",
+    "onto",
+    "outgrown",
+    "outgun",
+    "outrun",
+    "outworn",
+    "rung",
+    "runout",
+    "runt",
+    "tong",
+    "toon",
+    "torn",
+    "town",
+    "turn",
+    "turnout",
+    "unto",
+    "unwon",
+    "unworn",
+    "wont",
+    "wonton",
+    "worn",
+    "wrong",
+    "wrung"
+  ],
+  "id": 1576472400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

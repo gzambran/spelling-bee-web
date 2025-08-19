@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "June 09, 2025",
+  "printDate": "2025-06-09",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "h",
+    "i",
+    "l",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "h",
+    "i",
+    "l",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "habitability"
+  ],
+  "answers": [
+    "ability",
+    "ably",
+    "alibi",
+    "baba",
+    "baby",
+    "baht",
+    "bail",
+    "bait",
+    "ball",
+    "bath",
+    "battily",
+    "batty",
+    "bialy",
+    "bilabial",
+    "bill",
+    "billy",
+    "blab",
+    "blabby",
+    "blah",
+    "blat",
+    "habit",
+    "habitability",
+    "habitat",
+    "hillbilly",
+    "labia",
+    "labial",
+    "lability",
+    "liability",
+    "tabby",
+    "tabla",
+    "tibia",
+    "tibial"
+  ],
+  "id": 1749441600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

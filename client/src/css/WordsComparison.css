@@ -1,0 +1,307 @@
+/* Base container styles */
+.words-container {
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+.words-comparison-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  color: #1f2937;
+  text-align: center;
+}
+
+/* Grid layouts for different player counts */
+.words-grid {
+  display: grid;
+  gap: 1rem;
+  width: 100%;
+}
+
+/* 2-player layout (legacy) */
+.two-column-layout .words-grid {
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+/* 3-4 player layout */
+.four-column-layout .words-grid {
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+/* 5+ player layout */
+.grid-layout .words-grid {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .four-column-layout .words-grid,
+  .grid-layout .words-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem;
+  }
+  
+  .two-column-layout .words-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .words-grid {
+    grid-template-columns: 1fr !important;
+    gap: 0.75rem;
+  }
+}
+
+/* Word column styles */
+.word-column {
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.word-column.current-player-column {
+  background: #eff6ff;
+  border-color: #3b82f6;
+  box-shadow: 0 2px 4px rgba(59, 130, 246, 0.1);
+}
+
+.column-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.player-score {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #6b7280;
+  background: #e5e7eb;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  white-space: nowrap;
+}
+
+.current-player-column .player-score {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+
+/* Words list */
+.words-list {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: 0.25rem;
+}
+
+/* Scrollbar styling */
+.words-list::-webkit-scrollbar {
+  width: 4px;
+}
+
+.words-list::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 2px;
+}
+
+.words-list::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 2px;
+}
+
+.words-list::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Word item styles */
+.word-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0.75rem;
+  background: white;
+  border-radius: 6px;
+  border: 1px solid #e5e7eb;
+  transition: all 0.2s ease;
+}
+
+.word-item:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Unique word highlighting */
+.word-item.unique-word-item {
+  background: #fef3c7;
+  border-color: #f59e0b;
+}
+
+.word-item.shared-word-item {
+  background: white;
+  border-color: #e5e7eb;
+}
+
+/* Word text styles */
+.word-text {
+  font-weight: 500;
+  color: #1f2937;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+}
+
+.word-text.unique-word-text {
+  color: #92400e;
+  font-weight: 600;
+}
+
+.word-text.pangram-word {
+  color: #7c3aed;
+  font-weight: 700;
+}
+
+/* Points container */
+.points-container {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.word-points {
+  font-weight: 600;
+  color: #374151;
+  font-size: 0.85rem;
+  min-width: 1.5rem;
+  text-align: right;
+}
+
+.word-points.unique-word-points {
+  color: #92400e;
+}
+
+.word-points.pangram-points {
+  color: #7c3aed;
+}
+
+/* Special indicators */
+.pangram-star {
+  color: #7c3aed;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.unique-indicator {
+  color: #f59e0b;
+  font-size: 0.8rem;
+  cursor: help;
+}
+
+/* Empty state */
+.empty-state {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  color: #9ca3af;
+  font-style: italic;
+}
+
+.empty-text {
+  font-size: 0.9rem;
+}
+
+/* Legend for multi-player games */
+.words-legend {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background: #f9fafb;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.legend-indicator {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.legend-indicator.unique-word-indicator {
+  color: #f59e0b;
+}
+
+.legend-indicator.shared-word-indicator {
+  color: #6b7280;
+}
+
+.legend-indicator.pangram-indicator {
+  color: #7c3aed;
+}
+
+/* Compact view for many players */
+.grid-layout .word-column {
+  padding: 0.75rem;
+  min-height: 180px;
+}
+
+.grid-layout .column-title {
+  font-size: 0.9rem;
+}
+
+.grid-layout .word-text {
+  font-size: 0.85rem;
+}
+
+.grid-layout .word-points {
+  font-size: 0.8rem;
+}
+
+/* Animation for new words */
+@keyframes wordAppear {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.word-item {
+  animation: wordAppear 0.3s ease-out;
+}
+
+/* Focus styles for accessibility */
+.word-item:focus-within {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}

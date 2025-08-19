@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "August 15, 2021",
+  "printDate": "2021-08-15",
+  "centerLetter": "t",
+  "outerLetters": [
+    "e",
+    "i",
+    "l",
+    "p",
+    "v",
+    "x"
+  ],
+  "validLetters": [
+    "t",
+    "e",
+    "i",
+    "l",
+    "p",
+    "v",
+    "x"
+  ],
+  "pangrams": [
+    "expletive"
+  ],
+  "answers": [
+    "elite",
+    "exit",
+    "expletive",
+    "lilt",
+    "lite",
+    "little",
+    "pellet",
+    "pelt",
+    "petit",
+    "petite",
+    "pipet",
+    "pipette",
+    "pipit",
+    "teepee",
+    "teletext",
+    "telex",
+    "tell",
+    "tepee",
+    "text",
+    "textile",
+    "tile",
+    "till",
+    "tilt",
+    "tippet",
+    "tipple",
+    "title",
+    "tittle",
+    "velvet"
+  ],
+  "id": 1629000000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

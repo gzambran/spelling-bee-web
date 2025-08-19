@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "March 23, 2022",
+  "printDate": "2022-03-23",
+  "centerLetter": "o",
+  "outerLetters": [
+    "c",
+    "d",
+    "i",
+    "m",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "c",
+    "d",
+    "i",
+    "m",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "commodity"
+  ],
+  "answers": [
+    "cocci",
+    "comic",
+    "comity",
+    "commit",
+    "commodity",
+    "coot",
+    "ditto",
+    "dodo",
+    "doom",
+    "doomy",
+    "dotcom",
+    "dotty",
+    "idiocy",
+    "idiom",
+    "idiot",
+    "idiotic",
+    "mommy",
+    "mood",
+    "moody",
+    "moot",
+    "motto",
+    "oddity",
+    "omit",
+    "toddy",
+    "tomtit",
+    "toot"
+  ],
+  "id": 1648008000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "November 09, 2018",
+  "printDate": "2018-11-09",
+  "centerLetter": "c",
+  "outerLetters": [
+    "b",
+    "e",
+    "l",
+    "n",
+    "o",
+    "v"
+  ],
+  "validLetters": [
+    "c",
+    "b",
+    "e",
+    "l",
+    "n",
+    "o",
+    "v"
+  ],
+  "pangrams": [
+    "benevolence"
+  ],
+  "answers": [
+    "benevolence",
+    "bloc",
+    "bocce",
+    "celeb",
+    "cell",
+    "cello",
+    "clone",
+    "clove",
+    "cloven",
+    "cobble",
+    "cocoon",
+    "coevolve",
+    "colleen",
+    "colon",
+    "colonel",
+    "cone",
+    "convene",
+    "cool",
+    "coon",
+    "cove",
+    "coven",
+    "loco",
+    "neocon",
+    "nonce",
+    "once"
+  ],
+  "id": 1541739600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "August 09, 2019",
+  "printDate": "2019-08-09",
+  "centerLetter": "i",
+  "outerLetters": [
+    "c",
+    "h",
+    "n",
+    "t",
+    "y",
+    "z"
+  ],
+  "validLetters": [
+    "i",
+    "c",
+    "h",
+    "n",
+    "t",
+    "y",
+    "z"
+  ],
+  "pangrams": [
+    "chintzy"
+  ],
+  "answers": [
+    "chic",
+    "chichi",
+    "chin",
+    "chintz",
+    "chintzy",
+    "chit",
+    "chitin",
+    "cinch",
+    "city",
+    "cynic",
+    "hinny",
+    "hint",
+    "hitch",
+    "inch",
+    "itch",
+    "itchy",
+    "itty",
+    "ninny",
+    "ninth",
+    "thin",
+    "tinct",
+    "tinny",
+    "tint",
+    "tiny",
+    "tizzy",
+    "zinc",
+    "ziti"
+  ],
+  "id": 1565323200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

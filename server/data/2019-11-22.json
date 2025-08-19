@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "November 22, 2019",
+  "printDate": "2019-11-22",
+  "centerLetter": "m",
+  "outerLetters": [
+    "i",
+    "l",
+    "p",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "m",
+    "i",
+    "l",
+    "p",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "multiply"
+  ],
+  "answers": [
+    "ilium",
+    "imply",
+    "limit",
+    "limp",
+    "limply",
+    "lump",
+    "lumpy",
+    "mill",
+    "mitt",
+    "mull",
+    "multiply",
+    "mummy",
+    "mutt",
+    "muumuu",
+    "pimp",
+    "pimply",
+    "plum",
+    "plump",
+    "plumply",
+    "plumpy",
+    "pump",
+    "tummy",
+    "tumult",
+    "yummy"
+  ],
+  "id": 1574398800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "February 19, 2022",
+  "printDate": "2022-02-19",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "t",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "g",
+    "i",
+    "t",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "gravity"
+  ],
+  "answers": [
+    "agar",
+    "airy",
+    "aria",
+    "array",
+    "arty",
+    "atria",
+    "attar",
+    "avatar",
+    "aviary",
+    "girt",
+    "gravity",
+    "gravy",
+    "gray",
+    "grit",
+    "gritty",
+    "raga",
+    "ragtag",
+    "raita",
+    "rarity",
+    "ratatat",
+    "ratty",
+    "tarry",
+    "tart",
+    "tartar",
+    "tiara",
+    "trait",
+    "tray",
+    "trig",
+    "trivia",
+    "vagary",
+    "vary"
+  ],
+  "id": 1645246800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

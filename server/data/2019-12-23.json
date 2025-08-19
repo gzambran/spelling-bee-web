@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "December 23, 2019",
+  "printDate": "2019-12-23",
+  "centerLetter": "h",
+  "outerLetters": [
+    "c",
+    "g",
+    "i",
+    "l",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "h",
+    "c",
+    "g",
+    "i",
+    "l",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "glitchy"
+  ],
+  "answers": [
+    "chic",
+    "chichi",
+    "chicly",
+    "chili",
+    "chill",
+    "chilly",
+    "chit",
+    "glitch",
+    "glitchy",
+    "high",
+    "highlight",
+    "highly",
+    "hill",
+    "hilly",
+    "hilt",
+    "hitch",
+    "itch",
+    "itchy",
+    "light",
+    "lightly",
+    "litchi",
+    "thigh",
+    "tight",
+    "tightly"
+  ],
+  "id": 1577077200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

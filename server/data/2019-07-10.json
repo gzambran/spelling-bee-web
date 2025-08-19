@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "July 10, 2019",
+  "printDate": "2019-07-10",
+  "centerLetter": "p",
+  "outerLetters": [
+    "m",
+    "n",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "p",
+    "m",
+    "n",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "promontory"
+  ],
+  "answers": [
+    "pomp",
+    "pompom",
+    "pontoon",
+    "pony",
+    "poop",
+    "poor",
+    "poppy",
+    "porn",
+    "porno",
+    "port",
+    "potty",
+    "prom",
+    "promo",
+    "promontory",
+    "prompt",
+    "pronto",
+    "prop",
+    "proton",
+    "pyro",
+    "romp",
+    "ropy",
+    "toponym",
+    "toponymy",
+    "torpor",
+    "tromp",
+    "troop",
+    "typo"
+  ],
+  "id": 1562731200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

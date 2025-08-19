@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "December 31, 2021",
+  "printDate": "2021-12-31",
+  "centerLetter": "u",
+  "outerLetters": [
+    "e",
+    "k",
+    "m",
+    "n",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "u",
+    "e",
+    "k",
+    "m",
+    "n",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "unkempt"
+  ],
+  "answers": [
+    "meetup",
+    "menu",
+    "mute",
+    "mutt",
+    "muumuu",
+    "nuke",
+    "puke",
+    "pump",
+    "punk",
+    "punt",
+    "puppet",
+    "putt",
+    "tune",
+    "tuneup",
+    "tutee",
+    "tutu",
+    "umpteen",
+    "unkempt",
+    "unkept",
+    "unmet",
+    "unpen",
+    "untune",
+    "upkeep"
+  ],
+  "id": 1640926800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

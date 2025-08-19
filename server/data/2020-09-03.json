@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "September 03, 2020",
+  "printDate": "2020-09-03",
+  "centerLetter": "e",
+  "outerLetters": [
+    "c",
+    "l",
+    "m",
+    "o",
+    "p",
+    "x"
+  ],
+  "validLetters": [
+    "e",
+    "c",
+    "l",
+    "m",
+    "o",
+    "p",
+    "x"
+  ],
+  "pangrams": [
+    "complex"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "come",
+    "compel",
+    "complex",
+    "elope",
+    "emcee",
+    "epee",
+    "excel",
+    "exec",
+    "expel",
+    "expellee",
+    "expo",
+    "lope",
+    "melee",
+    "meme",
+    "memo",
+    "mole",
+    "mope",
+    "oleo",
+    "peel",
+    "peep",
+    "people",
+    "poem",
+    "pole",
+    "pome",
+    "pomelo",
+    "pommel",
+    "pope"
+  ],
+  "id": 1599105600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

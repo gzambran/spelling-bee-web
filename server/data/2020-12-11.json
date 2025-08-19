@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "December 11, 2020",
+  "printDate": "2020-12-11",
+  "centerLetter": "i",
+  "outerLetters": [
+    "a",
+    "l",
+    "o",
+    "t",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "a",
+    "l",
+    "o",
+    "t",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "volatility"
+  ],
+  "answers": [
+    "aioli",
+    "alit",
+    "atilt",
+    "avail",
+    "illy",
+    "iota",
+    "itty",
+    "laity",
+    "lilt",
+    "lily",
+    "oily",
+    "olio",
+    "tail",
+    "tali",
+    "till",
+    "tilt",
+    "toil",
+    "totality",
+    "vial",
+    "villa",
+    "viol",
+    "viola",
+    "vital",
+    "vitality",
+    "vitally",
+    "voila",
+    "volatility"
+  ],
+  "id": 1607662800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

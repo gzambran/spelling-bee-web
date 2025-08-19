@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "April 20, 2021",
+  "printDate": "2021-04-20",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "k",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "b",
+    "c",
+    "d",
+    "k",
+    "y"
+  ],
+  "pangrams": [
+    "backyard"
+  ],
+  "answers": [
+    "abracadabra",
+    "array",
+    "backyard",
+    "barb",
+    "bard",
+    "bark",
+    "barrack",
+    "brad",
+    "bray",
+    "carb",
+    "card",
+    "carry",
+    "crab",
+    "crabby",
+    "crack",
+    "cracky",
+    "crybaby",
+    "dark",
+    "drab",
+    "dray",
+    "dryad",
+    "rack",
+    "racy",
+    "radar",
+    "yard"
+  ],
+  "id": 1618891200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

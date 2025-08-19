@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "March 28, 2022",
+  "printDate": "2022-03-28",
+  "centerLetter": "l",
+  "outerLetters": [
+    "c",
+    "g",
+    "i",
+    "o",
+    "r",
+    "w"
+  ],
+  "validLetters": [
+    "l",
+    "c",
+    "g",
+    "i",
+    "o",
+    "r",
+    "w"
+  ],
+  "pangrams": [
+    "cowgirl"
+  ],
+  "answers": [
+    "clog",
+    "coil",
+    "colic",
+    "color",
+    "cool",
+    "cowgirl",
+    "cowl",
+    "gigolo",
+    "gill",
+    "girl",
+    "glow",
+    "googol",
+    "grill",
+    "growl",
+    "igloo",
+    "illogic",
+    "loci",
+    "loco",
+    "logic",
+    "logo",
+    "logroll",
+    "loll",
+    "olio",
+    "rill",
+    "roil",
+    "roll",
+    "wilco",
+    "will",
+    "willow",
+    "wool"
+  ],
+  "id": 1648440000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

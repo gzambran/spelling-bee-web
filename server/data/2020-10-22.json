@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "October 22, 2020",
+  "printDate": "2020-10-22",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "d",
+    "k",
+    "l",
+    "r",
+    "w"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "d",
+    "k",
+    "l",
+    "r",
+    "w"
+  ],
+  "pangrams": [
+    "awkwardly"
+  ],
+  "answers": [
+    "allay",
+    "ally",
+    "array",
+    "away",
+    "awkwardly",
+    "awry",
+    "daddy",
+    "dally",
+    "darkly",
+    "drawly",
+    "dray",
+    "dryad",
+    "dryly",
+    "drywall",
+    "dyad",
+    "kayak",
+    "lady",
+    "layaway",
+    "rally",
+    "rawly",
+    "walkway",
+    "wary",
+    "waylay",
+    "wayward",
+    "waywardly",
+    "wryly",
+    "yard",
+    "yawl"
+  ],
+  "id": 1603339200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

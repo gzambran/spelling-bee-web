@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "June 17, 2022",
+  "printDate": "2022-06-17",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "c",
+    "o",
+    "r",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "c",
+    "o",
+    "r",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "autocracy",
+    "carryout"
+  ],
+  "answers": [
+    "accuracy",
+    "actuary",
+    "array",
+    "arroyo",
+    "arty",
+    "autocracy",
+    "carroty",
+    "carry",
+    "carryout",
+    "catty",
+    "curacy",
+    "curry",
+    "oaty",
+    "oratory",
+    "outcry",
+    "racy",
+    "ratty",
+    "rotary",
+    "rotatory",
+    "rutty",
+    "tarry",
+    "tatty",
+    "tray",
+    "troy",
+    "tryout",
+    "tyro",
+    "your",
+    "yuca",
+    "yucca",
+    "yurt"
+  ],
+  "id": 1655438400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

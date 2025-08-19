@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "August 23, 2022",
+  "printDate": "2022-08-23",
+  "centerLetter": "m",
+  "outerLetters": [
+    "d",
+    "i",
+    "n",
+    "o",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "m",
+    "d",
+    "i",
+    "n",
+    "o",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "midtown"
+  ],
+  "answers": [
+    "dimwit",
+    "dominion",
+    "domino",
+    "doom",
+    "idiom",
+    "midi",
+    "midtown",
+    "mind",
+    "mini",
+    "minim",
+    "minion",
+    "minnow",
+    "mint",
+    "mitt",
+    "mondo",
+    "mono",
+    "mood",
+    "moon",
+    "moot",
+    "motion",
+    "motto",
+    "mown",
+    "omit",
+    "timid",
+    "tomtit"
+  ],
+  "id": 1661227200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

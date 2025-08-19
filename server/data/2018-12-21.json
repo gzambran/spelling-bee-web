@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "December 21, 2018",
+  "printDate": "2018-12-21",
+  "centerLetter": "o",
+  "outerLetters": [
+    "m",
+    "n",
+    "p",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "m",
+    "n",
+    "p",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "promontory"
+  ],
+  "answers": [
+    "mono",
+    "monotony",
+    "moon",
+    "moony",
+    "morn",
+    "moron",
+    "noon",
+    "norm",
+    "onto",
+    "pontoon",
+    "pony",
+    "porn",
+    "porno",
+    "promontory",
+    "pronto",
+    "proton",
+    "tony",
+    "toon",
+    "toponym",
+    "toponymy",
+    "torn"
+  ],
+  "id": 1545368400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

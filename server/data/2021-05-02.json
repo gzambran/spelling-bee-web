@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "May 02, 2021",
+  "printDate": "2021-05-02",
+  "centerLetter": "p",
+  "outerLetters": [
+    "c",
+    "h",
+    "i",
+    "m",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "p",
+    "c",
+    "h",
+    "i",
+    "m",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "homophonic",
+    "monophonic"
+  ],
+  "answers": [
+    "chimp",
+    "chip",
+    "chomp",
+    "chop",
+    "cioppino",
+    "comp",
+    "coop",
+    "hippo",
+    "homophonic",
+    "hoop",
+    "monophonic",
+    "nincompoop",
+    "oomph",
+    "opinion",
+    "phonic",
+    "phono",
+    "picnic",
+    "pimp",
+    "pinch",
+    "pinion",
+    "pippin",
+    "pomp",
+    "pompom",
+    "poncho",
+    "pooch",
+    "pooh",
+    "poop"
+  ],
+  "id": 1619928000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

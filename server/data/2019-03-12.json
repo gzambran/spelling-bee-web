@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "March 12, 2019",
+  "printDate": "2019-03-12",
+  "centerLetter": "l",
+  "outerLetters": [
+    "d",
+    "h",
+    "m",
+    "o",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "l",
+    "d",
+    "h",
+    "m",
+    "o",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "loudmouth"
+  ],
+  "answers": [
+    "doll",
+    "dolt",
+    "dull",
+    "hold",
+    "holdout",
+    "holt",
+    "hoodlum",
+    "hull",
+    "loll",
+    "loom",
+    "loot",
+    "lotto",
+    "loud",
+    "loudmouth",
+    "lout",
+    "lull",
+    "lulu",
+    "modulo",
+    "mold",
+    "moll",
+    "molt",
+    "mull",
+    "told",
+    "toll",
+    "tool",
+    "tumult"
+  ],
+  "id": 1552363200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

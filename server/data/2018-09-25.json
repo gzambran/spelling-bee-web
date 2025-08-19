@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "September 25, 2018",
+  "printDate": "2018-09-25",
+  "centerLetter": "i",
+  "outerLetters": [
+    "d",
+    "k",
+    "l",
+    "n",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "d",
+    "k",
+    "l",
+    "n",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "unkindly"
+  ],
+  "answers": [
+    "diddly",
+    "dill",
+    "dilly",
+    "dink",
+    "dinky",
+    "idly",
+    "idyl",
+    "idyll",
+    "illy",
+    "inky",
+    "kiddy",
+    "kill",
+    "kiln",
+    "kind",
+    "kindly",
+    "kink",
+    "kinkily",
+    "kinky",
+    "lily",
+    "link",
+    "ninny",
+    "nudnik",
+    "undid",
+    "unkind",
+    "unkindly",
+    "unkink",
+    "unlink"
+  ],
+  "id": 1537848000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,51 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "November 08, 2022",
+  "printDate": "2022-11-08",
+  "centerLetter": "g",
+  "outerLetters": [
+    "h",
+    "l",
+    "n",
+    "o",
+    "r",
+    "u"
+  ],
+  "validLetters": [
+    "g",
+    "h",
+    "l",
+    "n",
+    "o",
+    "r",
+    "u"
+  ],
+  "pangrams": [
+    "hourlong"
+  ],
+  "answers": [
+    "ghoul",
+    "glug",
+    "gong",
+    "googol",
+    "goon",
+    "gorgon",
+    "grog",
+    "gull",
+    "guru",
+    "hourlong",
+    "hung",
+    "logo",
+    "logroll",
+    "long",
+    "longhorn",
+    "lung",
+    "oolong",
+    "rough",
+    "rung",
+    "unhung"
+  ],
+  "id": 1667883600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

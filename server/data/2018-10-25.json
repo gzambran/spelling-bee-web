@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "October 25, 2018",
+  "printDate": "2018-10-25",
+  "centerLetter": "r",
+  "outerLetters": [
+    "c",
+    "i",
+    "m",
+    "o",
+    "p",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "c",
+    "i",
+    "m",
+    "o",
+    "p",
+    "y"
+  ],
+  "pangrams": [
+    "microcopy"
+  ],
+  "answers": [
+    "cirri",
+    "crimp",
+    "crimpy",
+    "croc",
+    "croci",
+    "crop",
+    "micro",
+    "microcopy",
+    "mimicry",
+    "mirror",
+    "moor",
+    "poor",
+    "pricy",
+    "prim",
+    "primo",
+    "primp",
+    "prior",
+    "priory",
+    "prom",
+    "promo",
+    "prop",
+    "pyro",
+    "rococo",
+    "romcom",
+    "romp",
+    "room",
+    "roomy",
+    "ropy"
+  ],
+  "id": 1540440000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "December 21, 2021",
+  "printDate": "2021-12-21",
+  "centerLetter": "w",
+  "outerLetters": [
+    "g",
+    "i",
+    "k",
+    "n",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "w",
+    "g",
+    "i",
+    "k",
+    "n",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "unknowing"
+  ],
+  "answers": [
+    "gown",
+    "gowning",
+    "kiwi",
+    "know",
+    "knowing",
+    "known",
+    "owing",
+    "owning",
+    "unknowing",
+    "unknown",
+    "unwon",
+    "wigging",
+    "wiki",
+    "wing",
+    "winging",
+    "wining",
+    "wink",
+    "winking",
+    "winning",
+    "winnow",
+    "winnowing",
+    "wino",
+    "wonk",
+    "wooing",
+    "wowing"
+  ],
+  "id": 1640062800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

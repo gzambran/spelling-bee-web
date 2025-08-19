@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "February 26, 2019",
+  "printDate": "2019-02-26",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "l",
+    "n",
+    "o",
+    "w",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "l",
+    "n",
+    "o",
+    "w",
+    "y"
+  ],
+  "pangrams": [
+    "narrowly"
+  ],
+  "answers": [
+    "array",
+    "arrow",
+    "arroyo",
+    "awry",
+    "lorry",
+    "narrow",
+    "narrowly",
+    "nary",
+    "nonroyal",
+    "oral",
+    "orally",
+    "rally",
+    "rawly",
+    "rayon",
+    "roan",
+    "roar",
+    "roll",
+    "rollaway",
+    "royal",
+    "royally",
+    "wallaroo",
+    "warn",
+    "wary",
+    "worn",
+    "worry",
+    "wryly",
+    "yarn",
+    "yarrow"
+  ],
+  "id": 1551157200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

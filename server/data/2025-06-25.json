@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "June 25, 2025",
+  "printDate": "2025-06-25",
+  "centerLetter": "f",
+  "outerLetters": [
+    "b",
+    "e",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "f",
+    "b",
+    "e",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "nonbelief"
+  ],
+  "answers": [
+    "beef",
+    "befell",
+    "belief",
+    "biff",
+    "boffo",
+    "elfin",
+    "enfeeble",
+    "feeble",
+    "feel",
+    "feline",
+    "fell",
+    "felon",
+    "fennel",
+    "fief",
+    "fife",
+    "file",
+    "fill",
+    "fine",
+    "flee",
+    "floe",
+    "foible",
+    "foil",
+    "folio",
+    "fool",
+    "infill",
+    "info",
+    "life",
+    "lifeline",
+    "nonbelief",
+    "offline"
+  ],
+  "id": 1750824000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

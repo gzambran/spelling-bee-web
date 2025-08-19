@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "December 19, 2018",
+  "printDate": "2018-12-19",
+  "centerLetter": "i",
+  "outerLetters": [
+    "d",
+    "h",
+    "l",
+    "o",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "i",
+    "d",
+    "h",
+    "l",
+    "o",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "withhold"
+  ],
+  "answers": [
+    "dildo",
+    "dill",
+    "ditto",
+    "hill",
+    "hilt",
+    "idiot",
+    "idol",
+    "lido",
+    "lilt",
+    "litho",
+    "olio",
+    "till",
+    "tilt",
+    "toil",
+    "twilit",
+    "twill",
+    "twit",
+    "whit",
+    "widow",
+    "widowhood",
+    "width",
+    "wild",
+    "wildwood",
+    "will",
+    "willow",
+    "wilt",
+    "with",
+    "withhold"
+  ],
+  "id": 1545195600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

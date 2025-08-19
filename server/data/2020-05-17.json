@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "May 17, 2020",
+  "printDate": "2020-05-17",
+  "centerLetter": "u",
+  "outerLetters": [
+    "c",
+    "i",
+    "l",
+    "p",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "u",
+    "c",
+    "i",
+    "l",
+    "p",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "culprit"
+  ],
+  "answers": [
+    "circuit",
+    "cull",
+    "culprit",
+    "cult",
+    "cultic",
+    "curl",
+    "curt",
+    "cutup",
+    "irrupt",
+    "lull",
+    "lulu",
+    "pull",
+    "pulp",
+    "pulpit",
+    "pupil",
+    "purl",
+    "purr",
+    "putt",
+    "tulip",
+    "tutti",
+    "tutu",
+    "uplit",
+    "uptilt",
+    "uric"
+  ],
+  "id": 1589688000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

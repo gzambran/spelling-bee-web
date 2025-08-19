@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "November 20, 2018",
+  "printDate": "2018-11-20",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "o",
+    "p",
+    "r"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "d",
+    "h",
+    "o",
+    "p",
+    "r"
+  ],
+  "pangrams": [
+    "orphanhood"
+  ],
+  "answers": [
+    "adorn",
+    "anaphor",
+    "anaphora",
+    "anon",
+    "apron",
+    "darn",
+    "donor",
+    "hadron",
+    "hand",
+    "hardpan",
+    "harpoon",
+    "honor",
+    "honorand",
+    "horn",
+    "naan",
+    "nada",
+    "nana",
+    "noon",
+    "orphan",
+    "orphanhood",
+    "panda",
+    "pardon",
+    "phono",
+    "pond",
+    "porn",
+    "porno",
+    "radon",
+    "rand",
+    "roan",
+    "rondo"
+  ],
+  "id": 1542690000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

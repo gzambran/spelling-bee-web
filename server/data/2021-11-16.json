@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "November 16, 2021",
+  "printDate": "2021-11-16",
+  "centerLetter": "g",
+  "outerLetters": [
+    "e",
+    "l",
+    "m",
+    "o",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "g",
+    "e",
+    "l",
+    "m",
+    "o",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "etymology"
+  ],
+  "answers": [
+    "eggy",
+    "elegy",
+    "etymology",
+    "gelee",
+    "gelt",
+    "gemology",
+    "geology",
+    "glee",
+    "glom",
+    "gloom",
+    "gloomy",
+    "goggle",
+    "goggly",
+    "golem",
+    "golly",
+    "gooey",
+    "google",
+    "googly",
+    "googol",
+    "leggy",
+    "loge",
+    "logo",
+    "logy",
+    "ogee",
+    "ogle",
+    "otology",
+    "teleology",
+    "toggle"
+  ],
+  "id": 1637038800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

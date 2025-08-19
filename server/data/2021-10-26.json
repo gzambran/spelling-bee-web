@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "October 26, 2021",
+  "printDate": "2021-10-26",
+  "centerLetter": "u",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "n",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "u",
+    "a",
+    "c",
+    "i",
+    "n",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "curtain",
+    "taciturn"
+  ],
+  "answers": [
+    "aunt",
+    "aura",
+    "circuit",
+    "currant",
+    "curt",
+    "curtain",
+    "incur",
+    "intuit",
+    "inurn",
+    "ruin",
+    "runic",
+    "runt",
+    "taciturn",
+    "taunt",
+    "taut",
+    "truant",
+    "tuna",
+    "tunic",
+    "turn",
+    "tutti",
+    "tutu",
+    "uncut",
+    "unit",
+    "unitarian",
+    "uric"
+  ],
+  "id": 1635220800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

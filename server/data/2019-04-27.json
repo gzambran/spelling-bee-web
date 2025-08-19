@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "April 27, 2019",
+  "printDate": "2019-04-27",
+  "centerLetter": "g",
+  "outerLetters": [
+    "h",
+    "i",
+    "l",
+    "o",
+    "p",
+    "y"
+  ],
+  "validLetters": [
+    "g",
+    "h",
+    "i",
+    "l",
+    "o",
+    "p",
+    "y"
+  ],
+  "pangrams": [
+    "philology"
+  ],
+  "answers": [
+    "giggly",
+    "gigolo",
+    "gill",
+    "gloop",
+    "gloopy",
+    "glop",
+    "gloppy",
+    "glyph",
+    "goggly",
+    "golly",
+    "googly",
+    "googol",
+    "goop",
+    "goopy",
+    "high",
+    "highly",
+    "igloo",
+    "logily",
+    "logo",
+    "logy",
+    "oligopoly",
+    "philology",
+    "piggy",
+    "pogo",
+    "yogi"
+  ],
+  "id": 1556337600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

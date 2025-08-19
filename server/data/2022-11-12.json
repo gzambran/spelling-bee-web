@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "November 12, 2022",
+  "printDate": "2022-11-12",
+  "centerLetter": "w",
+  "outerLetters": [
+    "a",
+    "f",
+    "i",
+    "l",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "w",
+    "a",
+    "f",
+    "i",
+    "l",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "airflow"
+  ],
+  "answers": [
+    "airflow",
+    "allow",
+    "arrow",
+    "fallow",
+    "farrow",
+    "flaw",
+    "flow",
+    "follow",
+    "foofaraw",
+    "fowl",
+    "waif",
+    "wail",
+    "wall",
+    "wallaroo",
+    "wallow",
+    "warrior",
+    "will",
+    "willow",
+    "wolf",
+    "woof",
+    "wool"
+  ],
+  "id": 1668229200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "July 07, 2019",
+  "printDate": "2019-07-07",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "c",
+    "h",
+    "o",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "c",
+    "h",
+    "o",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "anchovy"
+  ],
+  "answers": [
+    "ancho",
+    "anchovy",
+    "annoy",
+    "anon",
+    "cancan",
+    "cannon",
+    "canny",
+    "canon",
+    "canyon",
+    "chancy",
+    "cocoon",
+    "conch",
+    "convoy",
+    "cyan",
+    "honcho",
+    "naan",
+    "nacho",
+    "nana",
+    "nanny",
+    "navy",
+    "noon",
+    "nova",
+    "vacancy"
+  ],
+  "id": 1562472000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

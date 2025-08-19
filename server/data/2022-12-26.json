@@ -1,0 +1,51 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "December 26, 2022",
+  "printDate": "2022-12-26",
+  "centerLetter": "v",
+  "outerLetters": [
+    "a",
+    "i",
+    "l",
+    "n",
+    "o",
+    "p"
+  ],
+  "validLetters": [
+    "v",
+    "a",
+    "i",
+    "l",
+    "n",
+    "o",
+    "p"
+  ],
+  "pangrams": [
+    "pavilion"
+  ],
+  "answers": [
+    "anvil",
+    "avail",
+    "avian",
+    "lava",
+    "naval",
+    "nova",
+    "oval",
+    "pavilion",
+    "pavlova",
+    "vain",
+    "vanilla",
+    "vanillin",
+    "vanpool",
+    "vial",
+    "villa",
+    "villain",
+    "viol",
+    "viola",
+    "violin",
+    "voila"
+  ],
+  "id": 1672030800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

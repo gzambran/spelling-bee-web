@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "January 30, 2020",
+  "printDate": "2020-01-30",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "h",
+    "r",
+    "u",
+    "w",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "h",
+    "r",
+    "u",
+    "w",
+    "y"
+  ],
+  "pangrams": [
+    "thruway"
+  ],
+  "answers": [
+    "arhat",
+    "arty",
+    "athwart",
+    "attar",
+    "hart",
+    "hath",
+    "hatha",
+    "hurt",
+    "ratatat",
+    "ratty",
+    "rutty",
+    "tarry",
+    "tart",
+    "tartar",
+    "tatty",
+    "taut",
+    "that",
+    "thataway",
+    "thaw",
+    "thruway",
+    "thwart",
+    "tray",
+    "truth",
+    "tutu",
+    "wart",
+    "warty",
+    "watt",
+    "what",
+    "wrath",
+    "yurt"
+  ],
+  "id": 1580360400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

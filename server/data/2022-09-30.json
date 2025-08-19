@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "September 30, 2022",
+  "printDate": "2022-09-30",
+  "centerLetter": "a",
+  "outerLetters": [
+    "j",
+    "l",
+    "n",
+    "o",
+    "r",
+    "u"
+  ],
+  "validLetters": [
+    "a",
+    "j",
+    "l",
+    "n",
+    "o",
+    "r",
+    "u"
+  ],
+  "pangrams": [
+    "journal"
+  ],
+  "answers": [
+    "ajar",
+    "anal",
+    "annal",
+    "annual",
+    "annul",
+    "annular",
+    "anon",
+    "aura",
+    "aural",
+    "aurora",
+    "auroral",
+    "journal",
+    "llano",
+    "loan",
+    "luau",
+    "luna",
+    "lunar",
+    "lunula",
+    "naan",
+    "nana",
+    "oral",
+    "raja",
+    "roan",
+    "roar",
+    "rural",
+    "ulna",
+    "ulnar"
+  ],
+  "id": 1664510400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

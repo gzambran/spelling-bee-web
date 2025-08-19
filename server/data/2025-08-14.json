@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "August 14, 2025",
+  "printDate": "2025-08-14",
+  "centerLetter": "i",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "h",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "i",
+    "a",
+    "b",
+    "d",
+    "h",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "birdbath"
+  ],
+  "answers": [
+    "birdbath",
+    "aria",
+    "arid",
+    "atria",
+    "bait",
+    "bird",
+    "birria",
+    "birth",
+    "braid",
+    "briar",
+    "dirt",
+    "drib",
+    "habit",
+    "habitat",
+    "hair",
+    "rabbi",
+    "rabbit",
+    "rabid",
+    "radii",
+    "raid",
+    "raita",
+    "ribbit",
+    "third",
+    "tiara",
+    "tibia",
+    "tidbit",
+    "trait",
+    "triad"
+  ],
+  "id": 18136,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

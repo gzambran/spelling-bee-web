@@ -1,0 +1,273 @@
+.results-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #FFC543 0%, #FFB627 100%);
+  padding: 2rem 1rem;
+}
+
+.results-content {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.results-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #2E2E2E;
+  font-style: italic;
+}
+
+/* Header */
+.results-title {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: #2E2E2E;
+  text-align: center;
+  margin: 0;
+}
+
+/* Card styles for content sections */
+.card {
+  background: rgba(255, 251, 242, 0.95);
+  border-radius: 12px;
+  padding: 1.5rem;
+  border: 1px solid #E8B94E;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Current Player Summary */
+.current-player-summary {
+  text-align: center;
+}
+
+.rank-display {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.rank-display.winner-rank {
+  color: #8B4513;
+}
+
+.tie-rank {
+  color: #4CAF50;
+}
+
+.crown {
+  margin-left: 0.5rem;
+  font-size: 1.1em;
+}
+
+.score-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #2E2E2E;
+}
+
+.score-label {
+  font-size: 0.9rem;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tie-indicator {
+  text-align: center;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #D9A93D;
+  margin-top: 1rem;
+}
+
+/* Leaderboard */
+.leaderboard-section h3 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #2E2E2E;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.leaderboard-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 6px;
+  border: 1px solid rgba(232, 185, 78, 0.3);
+}
+
+.leaderboard-row:last-child {
+  margin-bottom: 0;
+}
+
+.leaderboard-row.current-player {
+  background: rgba(239, 246, 255, 0.9);
+  border-color: #3b82f6;
+}
+
+.leaderboard-row.winner {
+  background: rgba(254, 243, 199, 0.9);
+  border-color: #D9A93D;
+}
+
+.rank-badge {
+  font-size: 1.2rem;
+  font-weight: 600;
+  min-width: 2rem;
+  text-align: center;
+}
+
+.player-name {
+  flex: 1;
+  font-weight: 500;
+  color: #2E2E2E;
+  margin: 0 1rem;
+}
+
+.you-indicator {
+  color: #3b82f6;
+  font-weight: 600;
+  font-size: 0.85em;
+}
+
+.player-stats {
+  text-align: right;
+}
+
+.round-score {
+  font-weight: 600;
+  color: #2E2E2E;
+}
+
+.word-count {
+  font-size: 0.85rem;
+  color: #666;
+}
+
+/* Ready status */
+.ready-status-section h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #2E2E2E;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.player-ready-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 6px;
+  border: 1px solid rgba(232, 185, 78, 0.3);
+}
+
+.player-ready-item:last-child {
+  margin-bottom: 0;
+}
+
+.player-ready-item.current-player {
+  background: rgba(239, 246, 255, 0.9);
+  border-color: #3b82f6;
+}
+
+.ready-badge {
+  background: #4CAF50;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.ready-count {
+  text-align: center;
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 0.75rem;
+}
+
+/* Ready button */
+.ready-button {
+  width: 100%;
+  background: #8B4513;
+  border: 2px solid #654321;
+  border-radius: 12px;
+  padding: 1rem 1.5rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.ready-button:hover:not(:disabled) {
+  background: #A0541A;
+  transform: translateY(-1px);
+}
+
+.ready-button.ready-button-pressed {
+  background: #654321;
+  cursor: wait;
+}
+
+.ready-button-text {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+/* Toast notification */
+.players-ready-toast {
+  position: fixed;
+  top: 2rem;
+  left: 1rem;
+  right: 1rem;
+  z-index: 1000;
+  background: #4CAF50;
+  color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .results-container {
+    padding: 1rem 0.5rem;
+  }
+  
+  .results-title {
+    font-size: 1.5rem;
+  }
+  
+  .card {
+    padding: 1rem;
+  }
+  
+  .score-value {
+    font-size: 2rem;
+  }
+  
+  .leaderboard-row {
+    flex-direction: column;
+    gap: 0.5rem;
+    text-align: center;
+  }
+  
+  .player-name {
+    margin: 0;
+  }
+}

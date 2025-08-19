@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "September 10, 2018",
+  "printDate": "2018-09-10",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "i",
+    "n",
+    "r"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "d",
+    "h",
+    "i",
+    "n",
+    "r"
+  ],
+  "pangrams": [
+    "hairband",
+    "hindbrain"
+  ],
+  "answers": [
+    "baba",
+    "banana",
+    "band",
+    "bandana",
+    "bandanna",
+    "barb",
+    "barbarian",
+    "bard",
+    "barn",
+    "bind",
+    "bindi",
+    "bird",
+    "birdbrain",
+    "brad",
+    "braid",
+    "brain",
+    "bran",
+    "brand",
+    "briar",
+    "drab",
+    "drib",
+    "hairband",
+    "hindbrain",
+    "rabbi",
+    "rabid"
+  ],
+  "id": 1536552000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

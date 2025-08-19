@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "September 14, 2022",
+  "printDate": "2022-09-14",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "c",
+    "h",
+    "o",
+    "p",
+    "y"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "c",
+    "h",
+    "o",
+    "p",
+    "y"
+  ],
+  "pangrams": [
+    "cacophony"
+  ],
+  "answers": [
+    "ancho",
+    "annoy",
+    "anon",
+    "anyhoo",
+    "cacophony",
+    "cancan",
+    "canna",
+    "cannon",
+    "canny",
+    "canon",
+    "canopy",
+    "canyon",
+    "capon",
+    "chancy",
+    "cocoon",
+    "conch",
+    "cyan",
+    "honcho",
+    "naan",
+    "nacho",
+    "nana",
+    "nanny",
+    "noon",
+    "phono",
+    "phony",
+    "poncho",
+    "pony"
+  ],
+  "id": 1663128000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

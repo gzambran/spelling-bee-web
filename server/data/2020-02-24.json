@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "February 24, 2020",
+  "printDate": "2020-02-24",
+  "centerLetter": "i",
+  "outerLetters": [
+    "f",
+    "m",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "f",
+    "m",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "mortify"
+  ],
+  "answers": [
+    "fifty",
+    "firm",
+    "fortify",
+    "iffy",
+    "itty",
+    "miff",
+    "mirror",
+    "mitt",
+    "mortify",
+    "motif",
+    "omit",
+    "riff",
+    "rift",
+    "riot",
+    "roti",
+    "tiff",
+    "tomtit",
+    "tori",
+    "torii",
+    "trim",
+    "trio"
+  ],
+  "id": 1582520400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

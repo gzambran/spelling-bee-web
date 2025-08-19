@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "November 11, 2021",
+  "printDate": "2021-11-11",
+  "centerLetter": "m",
+  "outerLetters": [
+    "c",
+    "i",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "m",
+    "c",
+    "i",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "locomotion"
+  ],
+  "answers": [
+    "comic",
+    "commit",
+    "common",
+    "commotion",
+    "limit",
+    "limn",
+    "limo",
+    "locomotion",
+    "loom",
+    "mill",
+    "million",
+    "mimic",
+    "mini",
+    "minim",
+    "minion",
+    "mint",
+    "mitt",
+    "moil",
+    "moll",
+    "molt",
+    "mono",
+    "monotonic",
+    "moon",
+    "moonlit",
+    "moot",
+    "motion",
+    "motto",
+    "noncom",
+    "omit",
+    "tomtit"
+  ],
+  "id": 1636606800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "April 03, 2025",
+  "printDate": "2025-04-03",
+  "centerLetter": "i",
+  "outerLetters": [
+    "g",
+    "h",
+    "l",
+    "n",
+    "w",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "g",
+    "h",
+    "l",
+    "n",
+    "w",
+    "y"
+  ],
+  "pangrams": [
+    "whiningly"
+  ],
+  "answers": [
+    "whiling",
+    "whinging",
+    "whining",
+    "whiningly",
+    "whinny",
+    "whinnying",
+    "whiny",
+    "wigging",
+    "wiggling",
+    "wiggly",
+    "wiggy",
+    "will",
+    "willing",
+    "willingly",
+    "wily",
+    "wing",
+    "winging",
+    "wining",
+    "winning",
+    "winningly",
+    "winy"
+  ],
+  "id": 1743652800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

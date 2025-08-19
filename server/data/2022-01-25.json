@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "January 25, 2022",
+  "printDate": "2022-01-25",
+  "centerLetter": "b",
+  "outerLetters": [
+    "e",
+    "h",
+    "n",
+    "o",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "b",
+    "e",
+    "h",
+    "n",
+    "o",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "honeybun"
+  ],
+  "answers": [
+    "been",
+    "boho",
+    "bonbon",
+    "bone",
+    "bonny",
+    "bonobo",
+    "bony",
+    "boob",
+    "booboo",
+    "booby",
+    "boohoo",
+    "boon",
+    "bunny",
+    "buoy",
+    "ebon",
+    "ebony",
+    "hobby",
+    "hobnob",
+    "hobo",
+    "honeybee",
+    "honeybun",
+    "hubbub",
+    "hubby",
+    "noob",
+    "nubby",
+    "obey",
+    "oboe"
+  ],
+  "id": 1643086800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

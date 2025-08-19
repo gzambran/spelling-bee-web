@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "December 17, 2018",
+  "printDate": "2018-12-17",
+  "centerLetter": "g",
+  "outerLetters": [
+    "d",
+    "h",
+    "l",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "g",
+    "d",
+    "h",
+    "l",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "hydrology"
+  ],
+  "answers": [
+    "dodgy",
+    "doggo",
+    "doggy",
+    "glory",
+    "godhood",
+    "godly",
+    "goggly",
+    "gold",
+    "golly",
+    "good",
+    "goodly",
+    "goody",
+    "googly",
+    "googol",
+    "gory",
+    "grody",
+    "grog",
+    "groggy",
+    "gyro",
+    "horology",
+    "hydrology",
+    "logo",
+    "logroll",
+    "logy",
+    "orgy"
+  ],
+  "id": 1545022800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

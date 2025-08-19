@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "November 13, 2018",
+  "printDate": "2018-11-13",
+  "centerLetter": "f",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "f",
+    "a",
+    "g",
+    "i",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "gratify"
+  ],
+  "answers": [
+    "afar",
+    "affair",
+    "affray",
+    "fair",
+    "fairy",
+    "fart",
+    "fatty",
+    "fiat",
+    "fifty",
+    "frag",
+    "frat",
+    "fratty",
+    "fray",
+    "friar",
+    "friary",
+    "frittata",
+    "gaff",
+    "gift",
+    "graffiti",
+    "graft",
+    "gratify",
+    "grift",
+    "iffy",
+    "raft",
+    "ratify",
+    "riff",
+    "riffraff",
+    "rift",
+    "taffy",
+    "tariff",
+    "tiff"
+  ],
+  "id": 1542085200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

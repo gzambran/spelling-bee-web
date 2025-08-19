@@ -1,0 +1,50 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "February 01, 2022",
+  "printDate": "2022-02-01",
+  "centerLetter": "t",
+  "outerLetters": [
+    "g",
+    "h",
+    "l",
+    "m",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "g",
+    "h",
+    "l",
+    "m",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "mythology"
+  ],
+  "answers": [
+    "goth",
+    "holt",
+    "hoot",
+    "hotly",
+    "loot",
+    "lotto",
+    "molt",
+    "moot",
+    "moth",
+    "mothy",
+    "motto",
+    "myth",
+    "mythology",
+    "otology",
+    "toll",
+    "tool",
+    "toot",
+    "tooth",
+    "toothy"
+  ],
+  "id": 1643691600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

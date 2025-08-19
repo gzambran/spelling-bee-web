@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "August 29, 2019",
+  "printDate": "2019-08-29",
+  "centerLetter": "i",
+  "outerLetters": [
+    "d",
+    "f",
+    "l",
+    "m",
+    "n",
+    "u"
+  ],
+  "validLetters": [
+    "i",
+    "d",
+    "f",
+    "l",
+    "m",
+    "n",
+    "u"
+  ],
+  "pangrams": [
+    "mindful",
+    "unmindful"
+  ],
+  "answers": [
+    "dill",
+    "fill",
+    "film",
+    "find",
+    "fluid",
+    "fulfill",
+    "ilium",
+    "indium",
+    "infill",
+    "limn",
+    "midi",
+    "miff",
+    "mild",
+    "mill",
+    "mind",
+    "mindful",
+    "mini",
+    "minim",
+    "minimum",
+    "muffin",
+    "muni",
+    "undid",
+    "unmindful"
+  ],
+  "id": 1567051200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

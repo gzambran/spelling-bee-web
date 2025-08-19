@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "October 11, 2018",
+  "printDate": "2018-10-11",
+  "centerLetter": "o",
+  "outerLetters": [
+    "a",
+    "c",
+    "j",
+    "k",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "o",
+    "a",
+    "c",
+    "j",
+    "k",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "jackpot"
+  ],
+  "answers": [
+    "atop",
+    "cacao",
+    "capo",
+    "coact",
+    "coat",
+    "coca",
+    "cock",
+    "cockapoo",
+    "cockatoo",
+    "cocoa",
+    "cook",
+    "cooktop",
+    "coop",
+    "coopt",
+    "coot",
+    "jackpot",
+    "jock",
+    "kapok",
+    "kook",
+    "pock",
+    "poop",
+    "poppa",
+    "potato",
+    "taco",
+    "tattoo",
+    "toccata",
+    "tock",
+    "took",
+    "toot",
+    "topcoat"
+  ],
+  "id": 1539230400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

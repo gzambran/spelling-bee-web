@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "July 20, 2019",
+  "printDate": "2019-07-20",
+  "centerLetter": "c",
+  "outerLetters": [
+    "b",
+    "i",
+    "k",
+    "o",
+    "r",
+    "w"
+  ],
+  "validLetters": [
+    "c",
+    "b",
+    "i",
+    "k",
+    "o",
+    "r",
+    "w"
+  ],
+  "pangrams": [
+    "brickwork"
+  ],
+  "answers": [
+    "bock",
+    "boric",
+    "brick",
+    "brickwork",
+    "cirri",
+    "cocci",
+    "cock",
+    "cook",
+    "cookbook",
+    "cork",
+    "crib",
+    "crick",
+    "croc",
+    "croci",
+    "crock",
+    "crook",
+    "crow",
+    "kick",
+    "rick",
+    "rock",
+    "rococo",
+    "wick"
+  ],
+  "id": 1563595200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

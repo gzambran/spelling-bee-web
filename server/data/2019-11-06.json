@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "November 06, 2019",
+  "printDate": "2019-11-06",
+  "centerLetter": "g",
+  "outerLetters": [
+    "a",
+    "h",
+    "n",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "g",
+    "a",
+    "h",
+    "n",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "naughty"
+  ],
+  "answers": [
+    "aught",
+    "gaga",
+    "gang",
+    "gaunt",
+    "gnat",
+    "hang",
+    "haughty",
+    "hung",
+    "naggy",
+    "naught",
+    "naughty",
+    "tang",
+    "tangy",
+    "taught",
+    "thug",
+    "ungag",
+    "unhang",
+    "unhung",
+    "untag",
+    "untaught",
+    "yang"
+  ],
+  "id": 1573016400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

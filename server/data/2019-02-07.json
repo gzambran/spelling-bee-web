@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "February 07, 2019",
+  "printDate": "2019-02-07",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "b",
+    "c",
+    "l",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "b",
+    "c",
+    "l",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "blowback"
+  ],
+  "answers": [
+    "aback",
+    "alack",
+    "babka",
+    "back",
+    "balk",
+    "black",
+    "blackball",
+    "block",
+    "blowback",
+    "bock",
+    "book",
+    "callback",
+    "clack",
+    "cloak",
+    "clock",
+    "cock",
+    "cook",
+    "cookbook",
+    "kabob",
+    "koala",
+    "kola",
+    "kook",
+    "lack",
+    "lawbook",
+    "lock",
+    "look",
+    "wack",
+    "wacko",
+    "walk"
+  ],
+  "id": 1549515600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "October 07, 2019",
+  "printDate": "2019-10-07",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "b",
+    "j",
+    "k",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "b",
+    "j",
+    "k",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "bootjack",
+    "jackboot"
+  ],
+  "answers": [
+    "aback",
+    "attack",
+    "back",
+    "bobcat",
+    "bock",
+    "bootjack",
+    "cacao",
+    "catboat",
+    "coact",
+    "coat",
+    "coca",
+    "cock",
+    "cockatoo",
+    "cocoa",
+    "cook",
+    "cookbook",
+    "coot",
+    "jack",
+    "jackboot",
+    "jock",
+    "tack",
+    "taco",
+    "tact",
+    "tobacco",
+    "toccata",
+    "tock"
+  ],
+  "id": 1570420800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

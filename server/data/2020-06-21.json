@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "June 21, 2020",
+  "printDate": "2020-06-21",
+  "centerLetter": "n",
+  "outerLetters": [
+    "g",
+    "o",
+    "p",
+    "r",
+    "u",
+    "w"
+  ],
+  "validLetters": [
+    "n",
+    "g",
+    "o",
+    "p",
+    "r",
+    "u",
+    "w"
+  ],
+  "pangrams": [
+    "grownup"
+  ],
+  "answers": [
+    "gong",
+    "goon",
+    "gorgon",
+    "gown",
+    "grown",
+    "grownup",
+    "noon",
+    "noun",
+    "oppugn",
+    "pong",
+    "popgun",
+    "porn",
+    "porno",
+    "prong",
+    "pronoun",
+    "rung",
+    "unwon",
+    "unworn",
+    "upon",
+    "worn",
+    "wrong",
+    "wrung"
+  ],
+  "id": 1592712000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

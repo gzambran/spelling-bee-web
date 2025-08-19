@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "July 13, 2020",
+  "printDate": "2020-07-13",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "k",
+    "m",
+    "o",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "k",
+    "m",
+    "o",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "tomahawk"
+  ],
+  "answers": [
+    "hath",
+    "hatha",
+    "hawk",
+    "hook",
+    "hookah",
+    "hoot",
+    "mahatma",
+    "mammoth",
+    "math",
+    "mohawk",
+    "moth",
+    "oath",
+    "that",
+    "thaw",
+    "tomahawk",
+    "tooth",
+    "wahoo",
+    "wham",
+    "whammo",
+    "what",
+    "whoa",
+    "whom",
+    "woohoo"
+  ],
+  "id": 1594612800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

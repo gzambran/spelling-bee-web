@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "April 11, 2020",
+  "printDate": "2020-04-11",
+  "centerLetter": "r",
+  "outerLetters": [
+    "c",
+    "i",
+    "l",
+    "o",
+    "t",
+    "v"
+  ],
+  "validLetters": [
+    "r",
+    "c",
+    "i",
+    "l",
+    "o",
+    "t",
+    "v"
+  ],
+  "pangrams": [
+    "vitriolic"
+  ],
+  "answers": [
+    "cirri",
+    "citric",
+    "color",
+    "critic",
+    "croc",
+    "croci",
+    "rill",
+    "riot",
+    "rococo",
+    "roil",
+    "roll",
+    "root",
+    "roti",
+    "roto",
+    "rotor",
+    "rototill",
+    "tori",
+    "toric",
+    "torii",
+    "toro",
+    "tort",
+    "tricolor",
+    "tricot",
+    "trill",
+    "trio",
+    "troll",
+    "trot",
+    "victor",
+    "vitriol",
+    "vitriolic"
+  ],
+  "id": 1586577600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

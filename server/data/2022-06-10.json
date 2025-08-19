@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "June 10, 2022",
+  "printDate": "2022-06-10",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "f",
+    "g",
+    "h",
+    "r",
+    "u"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "f",
+    "g",
+    "h",
+    "r",
+    "u"
+  ],
+  "pangrams": [
+    "fraught"
+  ],
+  "answers": [
+    "arhat",
+    "attar",
+    "aught",
+    "fart",
+    "frat",
+    "fraught",
+    "graft",
+    "haft",
+    "hart",
+    "hath",
+    "hatha",
+    "hurt",
+    "raft",
+    "ragtag",
+    "ratatat",
+    "tart",
+    "tartar",
+    "taught",
+    "taut",
+    "that",
+    "thug",
+    "truth",
+    "tuft",
+    "turf",
+    "tutu"
+  ],
+  "id": 1654833600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

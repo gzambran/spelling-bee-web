@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "November 23, 2022",
+  "printDate": "2022-11-23",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "c",
+    "e",
+    "h",
+    "k",
+    "n"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "c",
+    "e",
+    "h",
+    "k",
+    "n"
+  ],
+  "pangrams": [
+    "namecheck"
+  ],
+  "answers": [
+    "acme",
+    "ahem",
+    "amen",
+    "came",
+    "emcee",
+    "enema",
+    "heme",
+    "henchman",
+    "henchmen",
+    "mace",
+    "make",
+    "mama",
+    "mamma",
+    "mane",
+    "manna",
+    "mean",
+    "mecca",
+    "meek",
+    "meme",
+    "menace",
+    "name",
+    "namecheck"
+  ],
+  "id": 1669179600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

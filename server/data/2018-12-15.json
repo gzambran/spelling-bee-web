@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "December 15, 2018",
+  "printDate": "2018-12-15",
+  "centerLetter": "l",
+  "outerLetters": [
+    "a",
+    "d",
+    "k",
+    "o",
+    "r",
+    "w"
+  ],
+  "validLetters": [
+    "l",
+    "a",
+    "d",
+    "k",
+    "o",
+    "r",
+    "w"
+  ],
+  "pangrams": [
+    "workload"
+  ],
+  "answers": [
+    "allow",
+    "doll",
+    "dollar",
+    "dolor",
+    "drawl",
+    "droll",
+    "drool",
+    "koala",
+    "kola",
+    "lard",
+    "lark",
+    "load",
+    "loll",
+    "look",
+    "lord",
+    "oral",
+    "roll",
+    "walk",
+    "wall",
+    "wallaroo",
+    "wallow",
+    "warlord",
+    "wool",
+    "workload",
+    "world"
+  ],
+  "id": 1544850000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

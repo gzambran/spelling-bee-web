@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "February 26, 2021",
+  "printDate": "2021-02-26",
+  "centerLetter": "u",
+  "outerLetters": [
+    "b",
+    "g",
+    "i",
+    "l",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "u",
+    "b",
+    "g",
+    "i",
+    "l",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "gullibility"
+  ],
+  "answers": [
+    "bubbly",
+    "buggy",
+    "built",
+    "bulb",
+    "bulgy",
+    "bull",
+    "bully",
+    "butt",
+    "butyl",
+    "glug",
+    "glut",
+    "guilt",
+    "guiltily",
+    "guilty",
+    "gull",
+    "gullibility",
+    "gullibly",
+    "gully",
+    "lull",
+    "lulu",
+    "tubby",
+    "tutti",
+    "tutu",
+    "ugly",
+    "utility"
+  ],
+  "id": 1614315600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

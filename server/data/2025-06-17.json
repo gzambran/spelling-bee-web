@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "June 17, 2025",
+  "printDate": "2025-06-17",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "f",
+    "i",
+    "n",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "f",
+    "i",
+    "n",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "infirmary"
+  ],
+  "answers": [
+    "affirm",
+    "airman",
+    "anima",
+    "army",
+    "farm",
+    "firm",
+    "imam",
+    "infamy",
+    "infirm",
+    "infirmary",
+    "mafia",
+    "maim",
+    "main",
+    "mama",
+    "mamma",
+    "mammary",
+    "mania",
+    "manna",
+    "many",
+    "marina",
+    "marinara",
+    "marm",
+    "marry",
+    "miff",
+    "mini",
+    "minim",
+    "minima",
+    "mirin",
+    "myna",
+    "ramify"
+  ],
+  "id": 1750132800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "May 11, 2022",
+  "printDate": "2022-05-11",
+  "centerLetter": "p",
+  "outerLetters": [
+    "a",
+    "c",
+    "g",
+    "h",
+    "i",
+    "n"
+  ],
+  "validLetters": [
+    "p",
+    "a",
+    "c",
+    "g",
+    "h",
+    "i",
+    "n"
+  ],
+  "pangrams": [
+    "chapping"
+  ],
+  "answers": [
+    "apian",
+    "aping",
+    "capping",
+    "chap",
+    "chapping",
+    "chip",
+    "chipping",
+    "gaping",
+    "napping",
+    "nipping",
+    "pacing",
+    "pagan",
+    "paging",
+    "pain",
+    "paining",
+    "pang",
+    "panic",
+    "panini",
+    "panning",
+    "papa",
+    "pica",
+    "picnic",
+    "pigging",
+    "pinch",
+    "pinching",
+    "ping",
+    "pinging",
+    "pining",
+    "pinning",
+    "piping",
+    "pippin"
+  ],
+  "id": 1652241600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "December 12, 2019",
+  "printDate": "2019-12-12",
+  "centerLetter": "o",
+  "outerLetters": [
+    "g",
+    "i",
+    "l",
+    "m",
+    "x",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "g",
+    "i",
+    "l",
+    "m",
+    "x",
+    "y"
+  ],
+  "pangrams": [
+    "mixology"
+  ],
+  "answers": [
+    "gigolo",
+    "glom",
+    "gloom",
+    "gloomily",
+    "gloomy",
+    "goggly",
+    "golly",
+    "googly",
+    "googol",
+    "igloo",
+    "limo",
+    "logo",
+    "logy",
+    "loll",
+    "loom",
+    "mixology",
+    "moil",
+    "moll",
+    "mommy",
+    "oily",
+    "olio",
+    "yogi"
+  ],
+  "id": 1576126800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

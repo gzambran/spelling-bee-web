@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "November 10, 2018",
+  "printDate": "2018-11-10",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "l",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "g",
+    "i",
+    "l",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "alright",
+    "arthralgia"
+  ],
+  "answers": [
+    "aargh",
+    "airtight",
+    "alight",
+    "alright",
+    "arhat",
+    "aright",
+    "arthralgia",
+    "girth",
+    "hail",
+    "hair",
+    "halal",
+    "hall",
+    "halt",
+    "hart",
+    "hath",
+    "hatha",
+    "hiatal",
+    "high",
+    "highlight",
+    "hightail",
+    "hill",
+    "hilt",
+    "lath",
+    "light",
+    "right",
+    "taillight",
+    "that",
+    "thigh",
+    "thrall",
+    "thrill",
+    "tight"
+  ],
+  "id": 1541826000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "July 07, 2020",
+  "printDate": "2020-07-07",
+  "centerLetter": "p",
+  "outerLetters": [
+    "h",
+    "i",
+    "l",
+    "o",
+    "r",
+    "w"
+  ],
+  "validLetters": [
+    "p",
+    "h",
+    "i",
+    "l",
+    "o",
+    "r",
+    "w"
+  ],
+  "pangrams": [
+    "whippoorwill",
+    "whirlpool"
+  ],
+  "answers": [
+    "hippo",
+    "hoop",
+    "lipo",
+    "lollipop",
+    "lollop",
+    "loop",
+    "orlop",
+    "pill",
+    "pillow",
+    "plop",
+    "plow",
+    "polio",
+    "poll",
+    "polo",
+    "pooh",
+    "pool",
+    "poop",
+    "poor",
+    "powwow",
+    "prior",
+    "prop",
+    "prow",
+    "prowl",
+    "whip",
+    "whippoorwill",
+    "whirlpool",
+    "whoop",
+    "whop"
+  ],
+  "id": 1594094400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "June 21, 2021",
+  "printDate": "2021-06-21",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "d",
+    "k",
+    "l",
+    "w",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "d",
+    "k",
+    "l",
+    "w",
+    "y"
+  ],
+  "pangrams": [
+    "awkwardly"
+  ],
+  "answers": [
+    "array",
+    "award",
+    "awkward",
+    "awkwardly",
+    "awry",
+    "dark",
+    "darkly",
+    "draw",
+    "drawl",
+    "drawly",
+    "dray",
+    "dryad",
+    "dryly",
+    "drywall",
+    "lard",
+    "lark",
+    "radar",
+    "rally",
+    "rawly",
+    "ward",
+    "wary",
+    "wayward",
+    "waywardly",
+    "wryly",
+    "yard"
+  ],
+  "id": 1624248000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

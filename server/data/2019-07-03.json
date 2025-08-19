@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "July 03, 2019",
+  "printDate": "2019-07-03",
+  "centerLetter": "p",
+  "outerLetters": [
+    "e",
+    "k",
+    "m",
+    "n",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "p",
+    "e",
+    "k",
+    "m",
+    "n",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "unkempt"
+  ],
+  "answers": [
+    "epee",
+    "keep",
+    "kempt",
+    "kept",
+    "meetup",
+    "peek",
+    "peen",
+    "peep",
+    "peke",
+    "penmen",
+    "penne",
+    "pent",
+    "puke",
+    "pump",
+    "punk",
+    "punt",
+    "puppet",
+    "putt",
+    "teepee",
+    "temp",
+    "tempt",
+    "tepee",
+    "tuneup",
+    "umpteen",
+    "unkempt",
+    "unkept",
+    "upkeep"
+  ],
+  "id": 1562126400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

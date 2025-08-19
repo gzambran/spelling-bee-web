@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "October 05, 2021",
+  "printDate": "2021-10-05",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "l",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "c",
+    "i",
+    "l",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "cocktail"
+  ],
+  "answers": [
+    "alack",
+    "alkali",
+    "attack",
+    "clack",
+    "click",
+    "cloak",
+    "clock",
+    "cock",
+    "cockatoo",
+    "cocktail",
+    "cook",
+    "kick",
+    "kill",
+    "kilo",
+    "kilt",
+    "koala",
+    "kola",
+    "kook",
+    "lack",
+    "lick",
+    "lock",
+    "look",
+    "tack",
+    "talk",
+    "tick",
+    "ticktock",
+    "tiki",
+    "tikka",
+    "tock",
+    "took",
+    "toolkit"
+  ],
+  "id": 1633406400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

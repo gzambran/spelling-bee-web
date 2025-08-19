@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "October 04, 2018",
+  "printDate": "2018-10-04",
+  "centerLetter": "t",
+  "outerLetters": [
+    "f",
+    "h",
+    "l",
+    "m",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "t",
+    "f",
+    "h",
+    "l",
+    "m",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "mouthful"
+  ],
+  "answers": [
+    "flout",
+    "foot",
+    "holt",
+    "hoot",
+    "hotfoot",
+    "loft",
+    "loot",
+    "lotto",
+    "lout",
+    "molt",
+    "moot",
+    "moth",
+    "motto",
+    "mouth",
+    "mouthful",
+    "mutt",
+    "thou",
+    "tofu",
+    "toll",
+    "tool",
+    "toot",
+    "tooth",
+    "toothful",
+    "tout",
+    "tuft",
+    "tumult",
+    "tutu"
+  ],
+  "id": 1538625600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

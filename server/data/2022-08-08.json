@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "August 08, 2022",
+  "printDate": "2022-08-08",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "f",
+    "g",
+    "i",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "f",
+    "g",
+    "i",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "gratify"
+  ],
+  "answers": [
+    "affray",
+    "airy",
+    "array",
+    "arty",
+    "fairy",
+    "fatty",
+    "fifty",
+    "fratty",
+    "fray",
+    "friary",
+    "gratify",
+    "gray",
+    "gritty",
+    "iffy",
+    "itty",
+    "rarity",
+    "ratify",
+    "ratty",
+    "taffy",
+    "tarry",
+    "tatty",
+    "tray"
+  ],
+  "id": 1659931200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

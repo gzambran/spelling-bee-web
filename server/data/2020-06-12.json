@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "June 12, 2020",
+  "printDate": "2020-06-12",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "h",
+    "k",
+    "o"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "b",
+    "d",
+    "h",
+    "k",
+    "o"
+  ],
+  "pangrams": [
+    "handbook"
+  ],
+  "answers": [
+    "abandon",
+    "ankh",
+    "anon",
+    "baboon",
+    "banana",
+    "band",
+    "bandana",
+    "bandanna",
+    "bank",
+    "bonbon",
+    "bond",
+    "bonk",
+    "bonobo",
+    "boon",
+    "dank",
+    "hand",
+    "handbook",
+    "hank",
+    "hobnob",
+    "honk",
+    "khan",
+    "knob",
+    "naan",
+    "nabob",
+    "nada",
+    "nana",
+    "noob",
+    "nook",
+    "noon"
+  ],
+  "id": 1591934400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

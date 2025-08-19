@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "April 23, 2022",
+  "printDate": "2022-04-23",
+  "centerLetter": "p",
+  "outerLetters": [
+    "e",
+    "i",
+    "l",
+    "n",
+    "u",
+    "v"
+  ],
+  "validLetters": [
+    "p",
+    "e",
+    "i",
+    "l",
+    "n",
+    "u",
+    "v"
+  ],
+  "pangrams": [
+    "vulpine"
+  ],
+  "answers": [
+    "epee",
+    "lineup",
+    "lupine",
+    "ninepin",
+    "nipple",
+    "peel",
+    "peen",
+    "peep",
+    "peeve",
+    "penile",
+    "penne",
+    "pile",
+    "pileup",
+    "pill",
+    "pine",
+    "pinup",
+    "pipe",
+    "pipeline",
+    "pippin",
+    "plie",
+    "pule",
+    "puli",
+    "pull",
+    "pulp",
+    "pupil",
+    "unpen",
+    "unpile",
+    "unpin",
+    "veep",
+    "vulpine"
+  ],
+  "id": 1650686400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

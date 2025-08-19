@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "July 07, 2025",
+  "printDate": "2025-07-07",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "d",
+    "f",
+    "p",
+    "r",
+    "u"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "d",
+    "f",
+    "p",
+    "r",
+    "u"
+  ],
+  "pangrams": [
+    "updraft"
+  ],
+  "answers": [
+    "adapt",
+    "apart",
+    "apparat",
+    "attar",
+    "daft",
+    "dart",
+    "data",
+    "draft",
+    "drat",
+    "fart",
+    "frat",
+    "part",
+    "pfft",
+    "prat",
+    "putt",
+    "raft",
+    "rapt",
+    "ratatat",
+    "rattrap",
+    "tapa",
+    "tarp",
+    "tart",
+    "tartar",
+    "taut",
+    "trap",
+    "tuft",
+    "turf",
+    "tutu",
+    "updraft"
+  ],
+  "id": 1751860800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

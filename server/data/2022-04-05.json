@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "April 05, 2022",
+  "printDate": "2022-04-05",
+  "centerLetter": "a",
+  "outerLetters": [
+    "c",
+    "i",
+    "p",
+    "t",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "c",
+    "i",
+    "p",
+    "t",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "captivity"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "activity",
+    "attic",
+    "cacti",
+    "capacity",
+    "captivity",
+    "catty",
+    "cava",
+    "cavity",
+    "pact",
+    "papa",
+    "papacy",
+    "papaya",
+    "pappy",
+    "patty",
+    "pica",
+    "piccata",
+    "pita",
+    "pitapat",
+    "tacit",
+    "tact",
+    "tactic",
+    "tapa",
+    "tatty",
+    "vivacity",
+    "yappy"
+  ],
+  "id": 1649131200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

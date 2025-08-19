@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "May 20, 2022",
+  "printDate": "2022-05-20",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "c",
+    "h",
+    "n",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "c",
+    "h",
+    "n",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "raunchy"
+  ],
+  "answers": [
+    "accuracy",
+    "anarchy",
+    "arcana",
+    "arch",
+    "array",
+    "aura",
+    "canary",
+    "carny",
+    "carry",
+    "char",
+    "chary",
+    "church",
+    "churchy",
+    "churn",
+    "cranny",
+    "crunch",
+    "crunchy",
+    "curacy",
+    "curry",
+    "harry",
+    "hurrah",
+    "hurray",
+    "hurry",
+    "narc",
+    "nary",
+    "racy",
+    "ranch",
+    "raunch",
+    "raunchy",
+    "runny",
+    "yarn"
+  ],
+  "id": 1653019200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

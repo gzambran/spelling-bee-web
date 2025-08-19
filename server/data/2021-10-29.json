@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "October 29, 2021",
+  "printDate": "2021-10-29",
+  "centerLetter": "t",
+  "outerLetters": [
+    "g",
+    "i",
+    "l",
+    "r",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "g",
+    "i",
+    "l",
+    "r",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "liturgy"
+  ],
+  "answers": [
+    "gilt",
+    "girt",
+    "glut",
+    "grit",
+    "grittily",
+    "gritty",
+    "guilt",
+    "guiltily",
+    "guilty",
+    "itty",
+    "lilt",
+    "liturgy",
+    "rutty",
+    "till",
+    "tilt",
+    "trig",
+    "trill",
+    "truly",
+    "tutti",
+    "tutu",
+    "utility",
+    "yurt"
+  ],
+  "id": 1635480000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

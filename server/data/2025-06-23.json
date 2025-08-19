@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "June 23, 2025",
+  "printDate": "2025-06-23",
+  "centerLetter": "k",
+  "outerLetters": [
+    "c",
+    "h",
+    "i",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "k",
+    "c",
+    "h",
+    "i",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "hickory"
+  ],
+  "answers": [
+    "chick",
+    "chock",
+    "cock",
+    "cocky",
+    "cook",
+    "cork",
+    "corky",
+    "crick",
+    "crock",
+    "crook",
+    "hick",
+    "hickory",
+    "hock",
+    "hook",
+    "hooky",
+    "icky",
+    "kick",
+    "kicky",
+    "kook",
+    "kooky",
+    "rick",
+    "rock",
+    "rocky",
+    "rook"
+  ],
+  "id": 1750651200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

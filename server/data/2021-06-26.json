@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "June 26, 2021",
+  "printDate": "2021-06-26",
+  "centerLetter": "a",
+  "outerLetters": [
+    "c",
+    "k",
+    "r",
+    "t",
+    "w",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "c",
+    "k",
+    "r",
+    "t",
+    "w",
+    "y"
+  ],
+  "pangrams": [
+    "trackway"
+  ],
+  "answers": [
+    "array",
+    "arty",
+    "attar",
+    "attract",
+    "awry",
+    "carat",
+    "caraway",
+    "carry",
+    "cart",
+    "cataract",
+    "crack",
+    "cracky",
+    "craw",
+    "karat",
+    "kart",
+    "rack",
+    "racy",
+    "ratatat",
+    "ratty",
+    "tarry",
+    "tart",
+    "tartar",
+    "track",
+    "trackway",
+    "tract",
+    "tray",
+    "wart",
+    "warty",
+    "wary",
+    "wrack"
+  ],
+  "id": 1624680000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

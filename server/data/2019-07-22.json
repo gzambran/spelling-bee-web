@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "July 22, 2019",
+  "printDate": "2019-07-22",
+  "centerLetter": "a",
+  "outerLetters": [
+    "f",
+    "g",
+    "h",
+    "r",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "a",
+    "f",
+    "g",
+    "h",
+    "r",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "fraught"
+  ],
+  "answers": [
+    "aargh",
+    "afar",
+    "agar",
+    "arhat",
+    "attar",
+    "aught",
+    "augur",
+    "aura",
+    "fart",
+    "frag",
+    "frat",
+    "fraught",
+    "gaff",
+    "gaga",
+    "graft",
+    "guar",
+    "haft",
+    "hart",
+    "hath",
+    "hatha",
+    "hurrah",
+    "raft",
+    "raga",
+    "ragtag",
+    "ratatat",
+    "tart",
+    "tartar",
+    "taught",
+    "taut",
+    "that"
+  ],
+  "id": 1563768000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

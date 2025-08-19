@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "November 25, 2019",
+  "printDate": "2019-11-25",
+  "centerLetter": "d",
+  "outerLetters": [
+    "g",
+    "h",
+    "l",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "d",
+    "g",
+    "h",
+    "l",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "hydrology"
+  ],
+  "answers": [
+    "dodgy",
+    "dodo",
+    "doggo",
+    "doggy",
+    "doll",
+    "dolly",
+    "dolor",
+    "door",
+    "dory",
+    "droll",
+    "drolly",
+    "drool",
+    "drooly",
+    "dryly",
+    "godhood",
+    "godly",
+    "gold",
+    "good",
+    "goodly",
+    "goody",
+    "grody",
+    "hold",
+    "hood",
+    "hoodoo",
+    "hydro",
+    "hydrology",
+    "lord",
+    "lordly",
+    "lordy",
+    "oddly",
+    "odor",
+    "rood"
+  ],
+  "id": 1574658000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

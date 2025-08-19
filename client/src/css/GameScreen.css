@@ -1,0 +1,146 @@
+.game-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #FFC543 0%, #FFB627 100%);
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+  user-select: none;
+}
+
+.game-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.game-loading p {
+  font-size: 1.125rem;
+  color: #666666;
+  font-style: italic;
+}
+
+/* Current Word Display - Fixed heights to prevent layout shifts */
+.word-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  height: 100px; /* Fixed height instead of min-height */
+}
+
+.current-word {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #2E2E2E;
+  letter-spacing: 3px;
+  height: 60px; /* Fixed height instead of min-height */
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  /* Add subtle text shadow for better readability */
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+  /* Prevent text selection on the current word */
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  
+  /* Ensure consistent space for content */
+  max-width: 90%;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Remove the problematic ::after pseudo-element that was causing shifts */
+/* We can add a subtle visual effect without changing layout */
+.current-word:not(:empty) {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 8px 16px;
+  transition: background-color 0.2s ease;
+}
+
+/* Game Layout - Ensure proper spacing */
+.game-container > * {
+  flex-shrink: 0;
+}
+
+/* Add some breathing room between sections */
+.game-container > :not(:last-child) {
+  margin-bottom: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .game-container {
+    padding-top: 30px;
+  }
+  
+  .word-container {
+    padding: 15px;
+    height: 85px; /* Fixed height */
+  }
+  
+  .current-word {
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    height: 50px; /* Fixed height */
+  }
+}
+
+@media (max-width: 480px) {
+  .game-container {
+    padding-top: 20px;
+  }
+  
+  .word-container {
+    padding: 12px;
+    height: 75px; /* Fixed height */
+  }
+  
+  .current-word {
+    font-size: 1.3rem;
+    letter-spacing: 1.5px;
+    height: 45px; /* Fixed height */
+  }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  .game-container {
+    background: #FFF;
+  }
+  
+  .current-word {
+    color: #000;
+    text-shadow: none;
+  }
+  
+  .current-word:not(:empty) {
+    background: #F0F0F0;
+    border: 2px solid #000;
+  }
+}
+
+/* Reduced motion - no problematic animations */
+@media (prefers-reduced-motion: reduce) {
+  .current-word:not(:empty) {
+    transition: none;
+  }
+}
+
+/* Focus management for keyboard users */
+.game-container:focus-within {
+  outline: none;
+}
+
+/* Ensure proper stacking order */
+.game-container {
+  position: relative;
+  z-index: 1;
+}

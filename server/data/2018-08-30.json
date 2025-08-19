@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "August 30, 2018",
+  "printDate": "2018-08-30",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "c",
+    "e",
+    "h",
+    "n",
+    "t"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "c",
+    "e",
+    "h",
+    "n",
+    "t"
+  ],
+  "pangrams": [
+    "chantey"
+  ],
+  "answers": [
+    "achy",
+    "canny",
+    "catchy",
+    "catty",
+    "cayenne",
+    "chancy",
+    "chantey",
+    "chatty",
+    "cyan",
+    "eyeteeth",
+    "hyena",
+    "nanny",
+    "natty",
+    "netty",
+    "tatty",
+    "techy",
+    "teeny",
+    "tenancy",
+    "tetchy",
+    "they",
+    "yacht",
+    "yeah",
+    "yean",
+    "yecch",
+    "yech",
+    "yenta",
+    "yente"
+  ],
+  "id": 1535601600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

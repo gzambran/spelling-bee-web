@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "March 21, 2022",
+  "printDate": "2022-03-21",
+  "centerLetter": "v",
+  "outerLetters": [
+    "a",
+    "e",
+    "h",
+    "i",
+    "l",
+    "y"
+  ],
+  "validLetters": [
+    "v",
+    "a",
+    "e",
+    "h",
+    "i",
+    "l",
+    "y"
+  ],
+  "pangrams": [
+    "heavily"
+  ],
+  "answers": [
+    "alive",
+    "avail",
+    "eave",
+    "evil",
+    "evilly",
+    "halva",
+    "halvah",
+    "halve",
+    "have",
+    "heave",
+    "heavily",
+    "heavy",
+    "helve",
+    "hive",
+    "lava",
+    "lave",
+    "leave",
+    "levee",
+    "level",
+    "levy",
+    "live",
+    "lively",
+    "vale",
+    "valley",
+    "valve",
+    "veal",
+    "veil",
+    "vial",
+    "vile",
+    "vilely",
+    "villa"
+  ],
+  "id": 1647835200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

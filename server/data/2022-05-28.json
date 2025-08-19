@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "May 28, 2022",
+  "printDate": "2022-05-28",
+  "centerLetter": "l",
+  "outerLetters": [
+    "c",
+    "e",
+    "m",
+    "o",
+    "p",
+    "x"
+  ],
+  "validLetters": [
+    "l",
+    "c",
+    "e",
+    "m",
+    "o",
+    "p",
+    "x"
+  ],
+  "pangrams": [
+    "complex"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "clomp",
+    "clop",
+    "compel",
+    "complex",
+    "cool",
+    "elope",
+    "excel",
+    "expel",
+    "expellee",
+    "loco",
+    "loll",
+    "lollop",
+    "loom",
+    "loop",
+    "lope",
+    "melee",
+    "mole",
+    "moll",
+    "oleo",
+    "peel",
+    "people",
+    "plop",
+    "pole",
+    "poll",
+    "polo",
+    "pomelo",
+    "pommel",
+    "pool"
+  ],
+  "id": 1653710400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

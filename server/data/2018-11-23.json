@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "November 23, 2018",
+  "printDate": "2018-11-23",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "d",
+    "n",
+    "q",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "d",
+    "n",
+    "q",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "quadrant"
+  ],
+  "answers": [
+    "arrant",
+    "attar",
+    "aura",
+    "darn",
+    "dart",
+    "drat",
+    "nurturant",
+    "quadrant",
+    "quadrat",
+    "quart",
+    "radar",
+    "rand",
+    "rant",
+    "ratatat",
+    "rattan",
+    "runt",
+    "tantara",
+    "tantra",
+    "tart",
+    "tartan",
+    "tartar",
+    "tranq",
+    "truant",
+    "tundra",
+    "turn"
+  ],
+  "id": 1542949200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

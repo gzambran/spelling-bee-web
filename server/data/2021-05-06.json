@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "May 06, 2021",
+  "printDate": "2021-05-06",
+  "centerLetter": "m",
+  "outerLetters": [
+    "g",
+    "i",
+    "n",
+    "p",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "m",
+    "g",
+    "i",
+    "n",
+    "p",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "imputing"
+  ],
+  "answers": [
+    "gimp",
+    "gimping",
+    "gumming",
+    "impinging",
+    "impugn",
+    "impugning",
+    "imputing",
+    "miming",
+    "mini",
+    "minim",
+    "minimum",
+    "mining",
+    "mint",
+    "minting",
+    "mitt",
+    "mugging",
+    "mung",
+    "muting",
+    "mutt",
+    "muumuu",
+    "pimp",
+    "pimping",
+    "pump",
+    "pumping",
+    "timing",
+    "umping"
+  ],
+  "id": 1620273600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

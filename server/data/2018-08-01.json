@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "August 01, 2018",
+  "printDate": "2018-08-01",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "c",
+    "g",
+    "i",
+    "k",
+    "r"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "c",
+    "g",
+    "i",
+    "k",
+    "r"
+  ],
+  "pangrams": [
+    "gimcrack"
+  ],
+  "answers": [
+    "cram",
+    "gamma",
+    "gimcrack",
+    "gimmick",
+    "gram",
+    "gramma",
+    "grammar",
+    "grim",
+    "imam",
+    "karma",
+    "karmic",
+    "mack",
+    "magi",
+    "magic",
+    "magma",
+    "maim",
+    "maki",
+    "mama",
+    "mamma",
+    "maraca",
+    "mark",
+    "marm",
+    "mica",
+    "mick",
+    "mimic"
+  ],
+  "id": 1533096000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

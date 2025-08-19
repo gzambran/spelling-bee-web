@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "October 13, 2019",
+  "printDate": "2019-10-13",
+  "centerLetter": "p",
+  "outerLetters": [
+    "e",
+    "h",
+    "i",
+    "l",
+    "n",
+    "w"
+  ],
+  "validLetters": [
+    "p",
+    "e",
+    "h",
+    "i",
+    "l",
+    "n",
+    "w"
+  ],
+  "pangrams": [
+    "pinwheel"
+  ],
+  "answers": [
+    "epee",
+    "help",
+    "helpline",
+    "hippie",
+    "nephew",
+    "ninepin",
+    "nipple",
+    "peel",
+    "peen",
+    "peep",
+    "peewee",
+    "penile",
+    "penne",
+    "pewee",
+    "phew",
+    "philhellene",
+    "pile",
+    "pill",
+    "pine",
+    "pinwheel",
+    "pipe",
+    "pipeline",
+    "plie",
+    "weep",
+    "weepie",
+    "whelp",
+    "whip",
+    "wipe"
+  ],
+  "id": 1570939200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

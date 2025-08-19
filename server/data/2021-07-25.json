@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "July 25, 2021",
+  "printDate": "2021-07-25",
+  "centerLetter": "m",
+  "outerLetters": [
+    "b",
+    "e",
+    "l",
+    "n",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "m",
+    "b",
+    "e",
+    "l",
+    "n",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "noblewomen"
+  ],
+  "answers": [
+    "bellmen",
+    "bloom",
+    "bomb",
+    "bombe",
+    "boom",
+    "bowmen",
+    "emblem",
+    "lemon",
+    "loom",
+    "melee",
+    "mellow",
+    "melon",
+    "meme",
+    "memo",
+    "meow",
+    "mewl",
+    "mole",
+    "moll",
+    "mono",
+    "moon",
+    "mown",
+    "noblemen",
+    "noblewomen",
+    "omen",
+    "womb",
+    "women"
+  ],
+  "id": 1627185600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

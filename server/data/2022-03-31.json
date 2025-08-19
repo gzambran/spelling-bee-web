@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "March 31, 2022",
+  "printDate": "2022-03-31",
+  "centerLetter": "i",
+  "outerLetters": [
+    "c",
+    "e",
+    "f",
+    "h",
+    "l",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "c",
+    "e",
+    "f",
+    "h",
+    "l",
+    "y"
+  ],
+  "pangrams": [
+    "chiefly"
+  ],
+  "answers": [
+    "celli",
+    "chic",
+    "chichi",
+    "chicle",
+    "chicly",
+    "chief",
+    "chiefly",
+    "chili",
+    "chill",
+    "chilly",
+    "cicely",
+    "cliche",
+    "cliff",
+    "cyclic",
+    "fiche",
+    "fief",
+    "fife",
+    "filch",
+    "file",
+    "fill",
+    "filly",
+    "hill",
+    "hilly",
+    "icicle",
+    "icily",
+    "iffy",
+    "illy",
+    "lice",
+    "life",
+    "lily"
+  ],
+  "id": 1648699200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

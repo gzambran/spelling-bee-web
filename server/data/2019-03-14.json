@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "March 14, 2019",
+  "printDate": "2019-03-14",
+  "centerLetter": "u",
+  "outerLetters": [
+    "c",
+    "d",
+    "f",
+    "i",
+    "l",
+    "t"
+  ],
+  "validLetters": [
+    "u",
+    "c",
+    "d",
+    "f",
+    "i",
+    "l",
+    "t"
+  ],
+  "pangrams": [
+    "difficult"
+  ],
+  "answers": [
+    "cuff",
+    "cull",
+    "cult",
+    "cultic",
+    "difficult",
+    "duct",
+    "duff",
+    "dull",
+    "dutiful",
+    "fitful",
+    "fluff",
+    "fluid",
+    "fluidic",
+    "fulfill",
+    "full",
+    "lucid",
+    "lull",
+    "lulu",
+    "tuft",
+    "tutti",
+    "tutu"
+  ],
+  "id": 1552536000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

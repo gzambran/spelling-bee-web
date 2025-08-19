@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "December 18, 2019",
+  "printDate": "2019-12-18",
+  "centerLetter": "o",
+  "outerLetters": [
+    "c",
+    "l",
+    "m",
+    "n",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "c",
+    "l",
+    "m",
+    "n",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "uncommonly"
+  ],
+  "answers": [
+    "cloy",
+    "cocoon",
+    "colon",
+    "colony",
+    "column",
+    "common",
+    "commonly",
+    "cool",
+    "coolly",
+    "coyly",
+    "loco",
+    "loll",
+    "loom",
+    "loon",
+    "loony",
+    "moll",
+    "mommy",
+    "mono",
+    "moon",
+    "moony",
+    "noncom",
+    "noon",
+    "noun",
+    "nylon",
+    "only",
+    "uncommon",
+    "uncommonly",
+    "uncool"
+  ],
+  "id": 1576645200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

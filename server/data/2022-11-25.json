@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "November 25, 2022",
+  "printDate": "2022-11-25",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "n",
+    "p",
+    "r"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "g",
+    "i",
+    "n",
+    "p",
+    "r"
+  ],
+  "pangrams": [
+    "parking",
+    "pranking"
+  ],
+  "answers": [
+    "akin",
+    "inking",
+    "irking",
+    "kappa",
+    "king",
+    "kinging",
+    "kingpin",
+    "kink",
+    "kinking",
+    "kippa",
+    "napkin",
+    "paprika",
+    "park",
+    "parka",
+    "parking",
+    "pink",
+    "pinking",
+    "prank",
+    "pranking",
+    "raking",
+    "rank",
+    "ranking",
+    "rink"
+  ],
+  "id": 1669352400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

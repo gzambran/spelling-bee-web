@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "March 29, 2022",
+  "printDate": "2022-03-29",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "i",
+    "m",
+    "o",
+    "t",
+    "x"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "i",
+    "m",
+    "o",
+    "t",
+    "x"
+  ],
+  "pangrams": [
+    "axiomatic"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "atomic",
+    "attic",
+    "axiomatic",
+    "cacao",
+    "cacti",
+    "cami",
+    "camo",
+    "ciao",
+    "coact",
+    "coat",
+    "coati",
+    "coax",
+    "coca",
+    "cocci",
+    "cocoa",
+    "coma",
+    "comic",
+    "comma",
+    "commit",
+    "coot",
+    "coxa",
+    "mica",
+    "mimic",
+    "tacit",
+    "taco",
+    "tact",
+    "tactic",
+    "toccata",
+    "tomcat",
+    "toxic"
+  ],
+  "id": 1648526400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

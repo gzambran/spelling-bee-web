@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "March 11, 2022",
+  "printDate": "2022-03-11",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "e",
+    "j",
+    "n",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "e",
+    "j",
+    "n",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "jawbone"
+  ],
+  "answers": [
+    "baba",
+    "babe",
+    "baboon",
+    "banana",
+    "bane",
+    "banjo",
+    "baobab",
+    "bean",
+    "been",
+    "boba",
+    "bonbon",
+    "bone",
+    "bonobo",
+    "boob",
+    "booboo",
+    "boon",
+    "bowwow",
+    "ebon",
+    "jawbone",
+    "jojoba",
+    "nabob",
+    "noob",
+    "oboe",
+    "wannabe"
+  ],
+  "id": 1646974800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

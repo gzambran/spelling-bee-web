@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "September 24, 2021",
+  "printDate": "2021-09-24",
+  "centerLetter": "h",
+  "outerLetters": [
+    "e",
+    "g",
+    "i",
+    "n",
+    "w",
+    "z"
+  ],
+  "validLetters": [
+    "h",
+    "e",
+    "g",
+    "i",
+    "n",
+    "w",
+    "z"
+  ],
+  "pangrams": [
+    "wheezing"
+  ],
+  "answers": [
+    "ghee",
+    "heinie",
+    "henge",
+    "hewing",
+    "hewn",
+    "hieing",
+    "high",
+    "hinge",
+    "hinging",
+    "neigh",
+    "neighing",
+    "nigh",
+    "weigh",
+    "weighing",
+    "whee",
+    "wheeze",
+    "wheezing",
+    "when",
+    "whew",
+    "whine",
+    "whining",
+    "whiz",
+    "whizz",
+    "whizzing"
+  ],
+  "id": 1632456000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

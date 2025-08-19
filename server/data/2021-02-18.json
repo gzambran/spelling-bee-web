@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "February 18, 2021",
+  "printDate": "2021-02-18",
+  "centerLetter": "d",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "n",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "d",
+    "a",
+    "g",
+    "i",
+    "n",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "adapting"
+  ],
+  "answers": [
+    "adapt",
+    "adapting",
+    "adding",
+    "aiding",
+    "dang",
+    "dapping",
+    "data",
+    "dating",
+    "digging",
+    "digit",
+    "ding",
+    "dinging",
+    "dining",
+    "dint",
+    "dipping",
+    "gadding",
+    "indignant",
+    "nada",
+    "naiad",
+    "padding",
+    "paid",
+    "panda",
+    "pandit",
+    "pidgin",
+    "tiding"
+  ],
+  "id": 1613624400,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

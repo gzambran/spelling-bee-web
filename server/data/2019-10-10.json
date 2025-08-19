@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "October 10, 2019",
+  "printDate": "2019-10-10",
+  "centerLetter": "c",
+  "outerLetters": [
+    "e",
+    "g",
+    "l",
+    "n",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "c",
+    "e",
+    "g",
+    "l",
+    "n",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "glycogen",
+    "gynecology"
+  ],
+  "answers": [
+    "cell",
+    "cello",
+    "clog",
+    "clone",
+    "cloy",
+    "cocoon",
+    "cogency",
+    "colleen",
+    "college",
+    "cologne",
+    "colon",
+    "colonel",
+    "colony",
+    "cone",
+    "cool",
+    "coolly",
+    "coyly",
+    "cycle",
+    "cyclone",
+    "ecology",
+    "glycogen",
+    "gynecology",
+    "loco",
+    "neocon",
+    "nonce",
+    "once",
+    "oncology"
+  ],
+  "id": 1570680000,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

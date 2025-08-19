@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "August 24, 2020",
+  "printDate": "2020-08-24",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "b",
+    "c",
+    "e",
+    "l",
+    "w"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "b",
+    "c",
+    "e",
+    "l",
+    "w"
+  ],
+  "pangrams": [
+    "chewable"
+  ],
+  "answers": [
+    "ache",
+    "beach",
+    "beech",
+    "belch",
+    "blah",
+    "bleach",
+    "blech",
+    "cache",
+    "challah",
+    "chaw",
+    "chew",
+    "chewable",
+    "each",
+    "halal",
+    "hale",
+    "hall",
+    "heal",
+    "healable",
+    "heehaw",
+    "heel",
+    "hell",
+    "leach",
+    "lech",
+    "leech",
+    "whale",
+    "whee",
+    "wheel",
+    "whew"
+  ],
+  "id": 1598241600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "March 15, 2022",
+  "printDate": "2022-03-15",
+  "centerLetter": "a",
+  "outerLetters": [
+    "d",
+    "i",
+    "r",
+    "w",
+    "y",
+    "z"
+  ],
+  "validLetters": [
+    "a",
+    "d",
+    "i",
+    "r",
+    "w",
+    "y",
+    "z"
+  ],
+  "pangrams": [
+    "wizardry"
+  ],
+  "answers": [
+    "airway",
+    "airy",
+    "aria",
+    "arid",
+    "array",
+    "award",
+    "away",
+    "awry",
+    "daddy",
+    "dairy",
+    "diary",
+    "draw",
+    "dray",
+    "dryad",
+    "dyad",
+    "radar",
+    "radii",
+    "raid",
+    "razz",
+    "ward",
+    "wary",
+    "wayward",
+    "wizard",
+    "wizardry",
+    "yard"
+  ],
+  "id": 1647316800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

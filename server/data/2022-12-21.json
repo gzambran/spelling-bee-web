@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "December 21, 2022",
+  "printDate": "2022-12-21",
+  "centerLetter": "a",
+  "outerLetters": [
+    "d",
+    "h",
+    "n",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "d",
+    "h",
+    "n",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "hydrant"
+  ],
+  "answers": [
+    "daddy",
+    "dandy",
+    "darn",
+    "dart",
+    "data",
+    "drat",
+    "dray",
+    "dryad",
+    "dyad",
+    "hand",
+    "handy",
+    "hard",
+    "hardhat",
+    "hardy",
+    "hydra",
+    "hydrant",
+    "nada",
+    "radar",
+    "rand",
+    "randy",
+    "tardy",
+    "yard"
+  ],
+  "id": 1671598800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

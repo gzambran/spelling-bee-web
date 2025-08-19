@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "November 28, 2018",
+  "printDate": "2018-11-28",
+  "centerLetter": "c",
+  "outerLetters": [
+    "d",
+    "o",
+    "p",
+    "r",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "c",
+    "d",
+    "o",
+    "p",
+    "r",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "product"
+  ],
+  "answers": [
+    "coop",
+    "coopt",
+    "coot",
+    "copout",
+    "cord",
+    "corrupt",
+    "coup",
+    "court",
+    "croc",
+    "crop",
+    "croup",
+    "crud",
+    "curd",
+    "curt",
+    "cutout",
+    "cutup",
+    "doctor",
+    "duct",
+    "occur",
+    "octopod",
+    "outcrop",
+    "proctor",
+    "product",
+    "rococo"
+  ],
+  "id": 1543381200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

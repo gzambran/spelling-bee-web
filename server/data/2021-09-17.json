@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "September 17, 2021",
+  "printDate": "2021-09-17",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "c",
+    "g",
+    "i",
+    "n",
+    "r"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "c",
+    "g",
+    "i",
+    "n",
+    "r"
+  ],
+  "pangrams": [
+    "carrying"
+  ],
+  "answers": [
+    "airy",
+    "angry",
+    "array",
+    "arraying",
+    "cagy",
+    "canary",
+    "canny",
+    "carny",
+    "carry",
+    "carrying",
+    "craggy",
+    "cranny",
+    "cringy",
+    "crying",
+    "cyan",
+    "cynic",
+    "grainy",
+    "granary",
+    "granny",
+    "gray",
+    "graying",
+    "naggy",
+    "nanny",
+    "nannying",
+    "nary",
+    "ninny",
+    "racy",
+    "rainy",
+    "rangy",
+    "raying",
+    "yang",
+    "yarn"
+  ],
+  "id": 1631851200,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

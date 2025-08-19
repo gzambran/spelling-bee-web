@@ -1,0 +1,50 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "October 16, 2021",
+  "printDate": "2021-10-16",
+  "centerLetter": "a",
+  "outerLetters": [
+    "d",
+    "l",
+    "m",
+    "n",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "d",
+    "l",
+    "m",
+    "n",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "adamantly"
+  ],
+  "answers": [
+    "adamant",
+    "adamantly",
+    "adman",
+    "daddy",
+    "dally",
+    "damn",
+    "dandy",
+    "data",
+    "dyad",
+    "lady",
+    "land",
+    "landlady",
+    "madam",
+    "madly",
+    "madman",
+    "malady",
+    "mandala",
+    "mayday",
+    "nada"
+  ],
+  "id": 1634356800,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}

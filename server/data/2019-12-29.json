@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "December 29, 2019",
+  "printDate": "2019-12-29",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "k",
+    "l",
+    "m",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "k",
+    "l",
+    "m",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "moonwalk"
+  ],
+  "answers": [
+    "anal",
+    "anon",
+    "knoll",
+    "know",
+    "known",
+    "lank",
+    "lawman",
+    "lawn",
+    "llano",
+    "loan",
+    "loon",
+    "mammon",
+    "manna",
+    "moan",
+    "monk",
+    "mono",
+    "moon",
+    "moonwalk",
+    "mown",
+    "naan",
+    "nana",
+    "nook",
+    "noon",
+    "wanna",
+    "woman",
+    "wonk"
+  ],
+  "id": 1577595600,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
