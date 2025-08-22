@@ -112,10 +112,6 @@
     transition: none;
   }
   
-  .hive-cell:hover {
-    opacity: 1;
-  }
-  
   .hive-cell:active {
     opacity: 1;
   }
