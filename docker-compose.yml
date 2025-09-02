@@ -11,17 +11,4 @@ services:
       - NODE_ENV=production
       - PORT=3002
     volumes:
-      # Mount puzzle data if you have custom puzzles
       - ./scripts:/app/scripts:ro
-    networks:
-      - spelling-bee-network
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:3002/health"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 40s
-
-networks:
-  spelling-bee-network:
-    driver: bridge
