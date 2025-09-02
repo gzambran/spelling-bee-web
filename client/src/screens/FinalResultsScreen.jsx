@@ -13,7 +13,6 @@ const FinalResultsScreen = ({
 
   // Get player data
   const currentPlayer = gameState?.players.find(p => p.name === playerName);
-  const opponent = gameState?.players.find(p => p.name !== playerName);
   const allPlayers = gameState?.players || [];
 
   // Hide confetti after animation
@@ -58,6 +57,16 @@ const FinalResultsScreen = ({
     });
   };
 
+  // Helper function to get rank badge/number
+  const getRankDisplay = (index) => {
+    switch (index) {
+      case 0: return '🥇';
+      case 1: return '🥈';
+      case 2: return '🥉';
+      default: return `${index + 1}`;
+    }
+  };
+
   if (!finalResults || !gameState || !currentPlayer) {
     return (
       <div className="final-results-container">
@@ -71,17 +80,11 @@ const FinalResultsScreen = ({
   const isWinner = finalResults.winner?.name === playerName;
   const isTie = finalResults.isTie;
   const playerBreakdown = getRoundBreakdown(playerName);
-  const opponentBreakdown = opponent ? getRoundBreakdown(opponent.name) : [];
   
   // Calculate total words for current player
   const playerFinalScore = finalResults.finalScores?.find(p => p.name === playerName);
   const totalWords = playerFinalScore?.totalWords || 
     playerBreakdown.reduce((sum, round) => sum + round.words, 0);
-
-  // Calculate total words for opponent
-  const opponentTotalWords = opponent ? 
-    (finalResults.finalScores?.find(p => p.name === opponent.name)?.totalWords || 
-     opponentBreakdown.reduce((sum, round) => sum + round.words, 0)) : 0;
 
   // Calculate ready status for play again
   const readyPlayers = allPlayers.filter(p => p.ready);
@@ -97,7 +100,7 @@ const FinalResultsScreen = ({
       )}
 
       <div className="final-results-card">
-        {/* Winner/Result Announcement - Improved messaging */}
+        {/* Winner/Result Announcement */}
         <div className="winner-section">
           {isTie ? (
             <>
@@ -124,25 +127,23 @@ const FinalResultsScreen = ({
           )}
         </div>
 
-        {/* Final Standings - Only show if multiplayer */}
-        {opponent && (
+        {/* Final Standings - Show all players when multiplayer */}
+        {allPlayers.length > 1 && finalResults.finalScores && (
           <div className="standings-section">
             <h2>Final Standings</h2>
             <div className="standings-list">
-              {[currentPlayer, opponent]
-                .sort((a, b) => b.totalScore - a.totalScore)
-                .map((player, index) => (
-                  <div 
-                    key={player.name}
-                    className={`standing-row ${player.name === playerName ? 'current-player' : ''} ${index === 0 ? 'winner' : ''}`}
-                  >
-                    <span className="rank-badge">
-                      {index === 0 ? '🥇' : '🥈'}
-                    </span>
-                    <span className="player-name">{player.name}</span>
-                    <span className="total-score">{player.totalScore} pts</span>
-                  </div>
-                ))}
+              {finalResults.finalScores.map((player, index) => (
+                <div 
+                  key={player.name}
+                  className={`standing-row ${player.name === playerName ? 'current-player' : ''} ${index === 0 ? 'winner' : ''}`}
+                >
+                  <span className="rank-badge">
+                    {getRankDisplay(index)}
+                  </span>
+                  <span className="player-name">{player.name}</span>
+                  <span className="total-score">{player.totalScore} pts</span>
+                </div>
+              ))}
             </div>
           </div>
         )}

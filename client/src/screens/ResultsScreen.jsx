@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import '../css/ResultsScreen.css';
 import socketService from '../services/socketService';
 import WordsComparison from '../components/WordsComparison';
@@ -83,6 +83,11 @@ const ResultsScreen = ({
     }
   };
 
+  // Helper function to format pangram words to Title Case
+  const toTitleCase = (word) => {
+    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+  };
+
   // Loading state
   if (!roundResult || !gameState || !currentPlayerData || allPlayersData.length === 0) {
     return (
@@ -122,6 +127,9 @@ const ResultsScreen = ({
   const isRoundWinner = currentPlayerRank === 1;
   const highScore = allPlayersData[0]?.roundScore || 0;
   const isRoundTie = allPlayersData.filter(p => p.roundScore === highScore).length > 1;
+
+  // Get pangrams for this round
+  const roundPangrams = roundResult.puzzle?.pangrams || [];
 
   return (
     <div className="results-container">
@@ -188,6 +196,19 @@ const ResultsScreen = ({
           </div>
         </div>
 
+        {/* Pangrams Section */}
+        <div className="pangrams-section">
+          <h3>Pangrams for Round {roundResult.round}</h3>
+          <div className="pangrams-list card">
+            {roundPangrams.map((pangram, index) => (
+              <div key={index} className="pangram-item">
+                <span className="pangram-star">★</span>
+                <span className="pangram-word">{toTitleCase(pangram)}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+
         {/* Detailed Word Lists */}
         <div className="words-section">
           <WordsComparison
@@ -235,7 +256,7 @@ const ResultsScreen = ({
             <span className="ready-button-text">
               {isReady 
                 ? (readyPlayers.length < totalPlayers 
-                    ? `Waiting for ${totalPlayers - readyPlayers.length} more players...` 
+                    ? `Waiting for ${totalPlayers.length - readyPlayers.length} more players...` 
                     : 'Starting next round...')
                 : buttonText
               }
