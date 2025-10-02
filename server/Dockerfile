@@ -37,9 +37,6 @@ COPY server/ ./
 # Copy built client files from build stage
 COPY --from=client-builder /app/client/dist ./client/dist
 
-# Copy puzzle data
-COPY scripts/ ./scripts/
-
 # Change ownership to nodejs user
 RUN chown -R nodejs:nodejs /app
 
