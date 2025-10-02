@@ -40,4 +40,6 @@ pids
 .env.production.local
 
 # Git directories (prevent nested repos)
-**/.git/
+**/.git
+
+/server/data/
