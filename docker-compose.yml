@@ -10,5 +10,3 @@ services:
     environment:
       - NODE_ENV=production
       - PORT=3002
-    volumes:
-      - ./scripts:/app/scripts:ro
