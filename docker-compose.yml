@@ -10,3 +10,5 @@ services:
     environment:
       - NODE_ENV=production
       - PORT=3002
+    volumes:
+      - /opt/data/spelling-bee-puzzles/data:/app/data:ro
