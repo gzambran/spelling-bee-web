@@ -96,8 +96,10 @@ class GameLogic {
       const newPuzzle = wordData.getRandomPuzzle();
       game.puzzle = newPuzzle;
       game.puzzles.push(newPuzzle);
-      console.log(`🎲 New puzzle selected for round ${game.currentRound}: ${game.puzzle.centerLetter}/${game.puzzle.outerLetters.join('')}`);
     }
+    
+    // Log puzzle info with filename for debugging
+    console.log(`🎲 Round ${game.currentRound} puzzle: ${game.puzzle.centerLetter}/${game.puzzle.outerLetters.join('')} - ${game.puzzle.filename || 'unknown'} (${game.puzzle.puzzleDate || 'no date'})`);
     
     game.gameStatus = 'playing';
     game.roundStatus = 'active';

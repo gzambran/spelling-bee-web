@@ -51,6 +51,9 @@ class WordData {
           
           // Validate puzzle structure
           if (this.isValidPuzzle(puzzle)) {
+            // Store the filename with the puzzle for debugging
+            puzzle.filename = file;
+            puzzle.filepath = filePath;
             this.puzzles.push(puzzle);
           } else {
             console.warn(`⚠️  Invalid puzzle structure in ${file}, skipping...`);
@@ -90,8 +93,6 @@ class WordData {
     const randomIndex = Math.floor(Math.random() * this.puzzles.length);
     const puzzle = this.puzzles[randomIndex];
     
-    console.log(`🎯 Selected puzzle: ${puzzle.displayDate || puzzle.printDate} (${puzzle.answers.length} words, ${puzzle.pangrams.length} pangrams)`);
-    
     // Pre-calculate points for all valid words
     const wordPoints = {};
     const validWords = puzzle.answers.map(word => word.toLowerCase());
@@ -103,8 +104,6 @@ class WordData {
       wordPoints[wordLower] = this.calculateTotalPoints(word, isPangram);
     });
     
-    console.log(`💰 Pre-calculated points for ${Object.keys(wordPoints).length} words`);
-    
     return {
       centerLetter: puzzle.centerLetter,
       outerLetters: puzzle.outerLetters,
@@ -115,7 +114,9 @@ class WordData {
       answers: puzzle.answers,
       totalWords: puzzle.answers.length,
       totalPangrams: puzzle.pangrams.length,
-      puzzleDate: puzzle.displayDate || puzzle.printDate
+      puzzleDate: puzzle.displayDate || puzzle.printDate,
+      filename: puzzle.filename,
+      filepath: puzzle.filepath
     };
   }
 
