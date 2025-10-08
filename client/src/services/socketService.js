@@ -3,11 +3,31 @@ import io from 'socket.io-client';
 class SocketService {
   constructor() {
     this.socket = null;
-    // For development, connect to localhost. In production, it will connect to the same origin
     this.serverUrl = process.env.NODE_ENV === 'development' 
       ? 'http://localhost:3000' 
       : window.location.origin;
     this.eventListeners = new Map();
+    this.setupVisibilityHandler();
+  }
+
+  // Handle browser tab visibility changes
+  setupVisibilityHandler() {
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) {
+        console.log('👁️ Tab hidden - connection will be maintained');
+      } else {
+        console.log('👁️ Tab visible - checking connection');
+        this.checkConnection();
+      }
+    });
+  }
+
+  // Check and restore connection if needed
+  checkConnection() {
+    if (this.socket && !this.socket.connected) {
+      console.log('🔄 Connection lost while tab was hidden, reconnecting...');
+      this.socket.connect();
+    }
   }
 
   // Connect to the server
@@ -20,12 +40,15 @@ class SocketService {
       console.log('🔌 Connecting to server:', this.serverUrl);
       
       this.socket = io(this.serverUrl, {
-        transports: ['websocket'],
+        transports: ['websocket', 'polling'], // Allow fallback to polling
         timeout: 10000,
         reconnection: true,
         reconnectionDelay: 1000,
         reconnectionDelayMax: 5000,
-        reconnectionAttempts: 10
+        reconnectionAttempts: 10,
+        // Aggressive heartbeat settings to keep connection alive indefinitely
+        pingInterval: 10000,   // Send ping every 10 seconds (frequent)
+        pingTimeout: 300000    // Wait 5 minutes for pong (very tolerant of throttling)
       });
 
       this.socket.on('connect', () => {
@@ -41,6 +64,25 @@ class SocketService {
 
       this.socket.on('disconnect', (reason) => {
         console.log('📴 Disconnected from server:', reason);
+        
+        // Auto-reconnect for certain disconnect reasons
+        if (reason === 'io server disconnect') {
+          // Server disconnected us, try to reconnect
+          console.log('🔄 Server disconnected us, attempting reconnect...');
+          this.socket.connect();
+        }
+      });
+
+      this.socket.on('reconnect', (attemptNumber) => {
+        console.log(`🔄 Reconnected after ${attemptNumber} attempts`);
+      });
+
+      this.socket.on('reconnect_attempt', (attemptNumber) => {
+        console.log(`🔄 Reconnection attempt ${attemptNumber}...`);
+      });
+
+      this.socket.on('reconnect_failed', () => {
+        console.error('❌ Reconnection failed after all attempts');
       });
     });
   }
@@ -150,6 +192,14 @@ class SocketService {
       console.log('📴 Disconnected from server:', reason);
     });
 
+    this.socket.on('reconnect', (attemptNumber) => {
+      console.log(`🔄 Reconnected after ${attemptNumber} attempts`);
+    });
+
+    this.socket.on('reconnect_attempt', (attemptNumber) => {
+      console.log(`🔄 Reconnection attempt ${attemptNumber}...`);
+    });
+
     // Set up all stored event listeners
     for (const [event, callbacks] of this.eventListeners.entries()) {
       callbacks.forEach(callback => {
@@ -158,6 +208,11 @@ class SocketService {
     }
     
     console.log('✅ Event listeners set up, total events:', this.eventListeners.size);
+  }
+
+  // Check if currently connected
+  isConnected() {
+    return this.socket && this.socket.connected;
   }
 }
 
